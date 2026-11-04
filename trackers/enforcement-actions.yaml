@@ -1,0 +1,54 @@
+# Administration enforcement actions (DOJ NSD, OFAC, BIS) — public resolutions only.
+# These are ACTIONS. Any connection to a congressional signal is recorded in linkages.yaml
+# with a grade; absence of a linkage entry means no documented connection.
+
+- id: extreme-networks-npa-2026-10
+  date: 2026-10-27
+  type: criminal-resolution
+  instrument: non-prosecution agreement ("near-miss" NPA under revised CEP)
+  agencies:
+    - DOJ National Security Division
+    - U.S. Attorney's Office, Eastern District of North Carolina
+    - OFAC (parallel civil settlement)
+  investigative_partners: [FBI, Homeland Security Investigations, BIS]
+  company: Extreme Networks, Inc.
+  programs: [Russia sanctions, export controls]
+  conduct: >
+    Sales of networking equipment and services (2018–2022), via a since-closed Russian
+    subsidiary and a distributor, to Moscow Machinery Building Plant Avangard (MMZA), a
+    Russian air-defence manufacturer. MMZA is blocked by operation of OFAC's 50 percent
+    rule as a majority-owned subsidiary of designated JSC Concern Almaz-Antey, and
+    Russia-based employees concealed the end user from global trade compliance.
+  amounts:
+    doj_criminal_fine_usd: 487860.92
+    doj_forfeiture_usd: 487860.92
+    doj_total_usd: 975721.84
+    ofac_settlement_usd: 1529685
+  terms:
+    npa_term_years: 3
+    monitor: false
+    individual_protection: false
+  policy_basis:
+    - "DOJ Corporate Enforcement and Voluntary Self-Disclosure Policy (CEP), revised March 2026 — Part II 'near-miss' pathway"
+  why_near_miss: >
+    Disclosure to NSD came days before an investigative journalist's article, so DOJ treated
+    it as not timely; cooperation and remediation still earned an NPA without a monitor.
+    Contrast: Bosch declination (June 2026), where disclosure during an ongoing internal
+    investigation was treated as timely.
+  status:
+    scheduled: null
+    announced: 2026-10-27
+    published: 2026-10-27
+    in_force: true
+  sources:
+    - "https://www.justice.gov/opa/pr/national-security-division-announces-first-near-miss-non-prosecution-agreement-under"
+    - "https://www.justice.gov/opa/media/1468856/dl?inline="
+    - "https://content.govdelivery.com/accounts/USTREAS/bulletins/430aa89"
+    - "https://www.justice.gov/dag/media/1430731/dl?inline="
+  secondary_sources:
+    - "https://www.mofo.com/resources/insights/261102-doj-national-security-division-issues"
+    - "https://www.bracewell.com/resources/horseshoes-hand-grenades-and-voluntary-self-disclosure-when-a-near-miss-can-count/"
+  linkage: none-documented
+  notes: >
+    First application of the CEP "near-miss" pathway by NSD. Relevant to the 50 percent rule
+    thread: liability attached to an entity that appears on no list, only through ownership.

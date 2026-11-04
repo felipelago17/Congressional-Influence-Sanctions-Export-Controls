@@ -21,6 +21,7 @@ nav:
   - Trackers:
       - Congressional Signals (Congress.gov): trackers/congress-signals.md
       - Sanctions Lists (OpenSanctions): trackers/sanctions-data.md
+      - Enforcement Actions: trackers/enforcement-actions.md
   - News:
       - Daily Digest: news/digest.md
 plugins:
