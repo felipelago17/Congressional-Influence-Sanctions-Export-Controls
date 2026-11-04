@@ -1,0 +1,35 @@
+# Congressional signals (bills, riders, letters, hearings, holds)
+# Aggregate party counts only. No per-member scorecards.
+
+- id: rasa-hr2683-119
+  type: bill
+  congress: 119
+  number: "H.R.2683"
+  title: Remote Access Security Act
+  status: passed-house
+  introduced: 2025-04-07
+  latest_action: 2026-01-13
+  sponsor_party_counts:
+    R: 1
+    D: 0
+  cosponsor_party_counts: {}  # populate from Congress.gov API
+  committee: "House Foreign Affairs; Senate Banking, Housing, and Urban Affairs"
+  roll_call_url: "https://clerk.house.gov/Votes/202613"
+  sources:
+    - "https://www.congress.gov/bill/119th-congress/house-bill/2683"
+  notes: "Companion S.3519 introduced 17 December 2025. 119th Congress ends 3 January 2027."
+
+- id: rasa-s3519-119
+  type: bill
+  congress: 119
+  number: "S.3519"
+  title: Remote Access Security Act
+  status: introduced
+  introduced: 2025-12-17
+  latest_action: 2025-12-17
+  sponsor_party_counts:
+    R: 1
+    D: 0
+  committee: "Senate Banking, Housing, and Urban Affairs"
+  sources:
+    - "https://www.congress.gov/bill/119th-congress/senate-bill/3519"
