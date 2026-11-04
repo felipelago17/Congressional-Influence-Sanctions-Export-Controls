@@ -1,0 +1,27 @@
+site_name: Congressional Influence on Sanctions and Export Controls
+site_description: Evidence-based mapping of public congressional signals to administration actions on sanctions and export controls.
+site_author: Felipe Villasuso Lago
+repo_url: https://github.com/felipelago17/Congressional-Influence-Sanctions-Export-Controls
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - content.code.copy
+nav:
+  - Home: index.md
+  - Methodology:
+      - Linkage Grades: methodology/linkage-grades.md
+      - Source Hierarchy: methodology/source-hierarchy.md
+  - Influence:
+      - Administration Levers: influence/administration-levers.md
+      - Party and Committee Aggregates: influence/party-committee-aggregates.md
+      - Election Cycles: influence/election-cycles.md
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
