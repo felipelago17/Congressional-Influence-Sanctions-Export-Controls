@@ -18,6 +18,8 @@ nav:
       - Administration Levers: influence/administration-levers.md
       - Party and Committee Aggregates: influence/party-committee-aggregates.md
       - Election Cycles: influence/election-cycles.md
+  - News:
+      - Daily Digest: news/digest.md
 plugins:
   - search
 markdown_extensions:

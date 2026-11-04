@@ -19,16 +19,16 @@ jobs:
       - name: Append daily digest entry
         run: |
           DATE=$(date -u +%Y-%m-%d)
-          echo "" >> news/digest.md
-          echo "## $DATE" >> news/digest.md
-          echo "" >> news/digest.md
-          echo "- Automated daily check completed. No new baseline changes detected." >> news/digest.md
-          echo "- Review Congress.gov and Federal Register for signals requiring a PR." >> news/digest.md
+          echo "" >> docs/news/digest.md
+          echo "## $DATE" >> docs/news/digest.md
+          echo "" >> docs/news/digest.md
+          echo "- Automated daily check completed. No new baseline changes detected." >> docs/news/digest.md
+          echo "- Review Congress.gov and Federal Register for signals requiring a PR." >> docs/news/digest.md
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add news/digest.md
+          git add docs/news/digest.md
           git diff --staged --quiet || git commit -m "chore: daily digest $DATE"
           git push

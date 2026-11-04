@@ -28,7 +28,7 @@ Every entry includes:
 - [Party and Committee Aggregates](influence/party-committee-aggregates.md)
 - [Election Cycles](influence/election-cycles.md)
 - Trackers (YAML): `trackers/signals.yaml`, `trackers/regulations-under-discussion.yaml`, `trackers/linkages.yaml`
-- [Daily digest](../news/digest.md)
+- [Daily digest](news/digest.md)
 
 ## Current baseline (November 2026)
 
