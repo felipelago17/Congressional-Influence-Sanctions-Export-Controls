@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T17:58:05+00:00",
+  "generated_at": "2026-11-04T18:03:13+00:00",
   "source": "https://api.congress.gov/v3",
   "scan_days": 7,
   "keywords": [
@@ -18,6 +18,94 @@
     "office of foreign assets control",
     "bureau of industry and security"
   ],
-  "watchlist": [],
-  "scan": []
+  "watchlist": [
+    {
+      "id": "rasa-hr2683-119",
+      "label": "Remote Access Security Act (House)",
+      "congress": 119,
+      "number": "HR.2683",
+      "title": "Remote Access Security Act",
+      "introduced": "2025-04-07",
+      "latest_action_date": "2026-01-13",
+      "latest_action": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "sponsor_party_counts": {
+        "R": 1
+      },
+      "cosponsor_party_counts": {
+        "D": 9,
+        "R": 8
+      },
+      "cosponsor_total": 17,
+      "policy_area": "Foreign Trade and International Finance",
+      "committees_url": "https://api.congress.gov/v3/bill/119/hr/2683/committees?format=json",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/2683"
+    },
+    {
+      "id": "rasa-s3519-119",
+      "label": "Remote Access Security Act (Senate companion)",
+      "congress": 119,
+      "number": "S.3519",
+      "title": "Remote Access Security Act",
+      "introduced": "2025-12-17",
+      "latest_action_date": "2025-12-17",
+      "latest_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "sponsor_party_counts": {
+        "R": 1
+      },
+      "cosponsor_party_counts": {
+        "D": 3,
+        "R": 3
+      },
+      "cosponsor_total": 6,
+      "policy_area": "Foreign Trade and International Finance",
+      "committees_url": "https://api.congress.gov/v3/bill/119/s/3519/committees?format=json",
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3519"
+    }
+  ],
+  "scan": [
+    {
+      "congress": 119,
+      "number": "HRES.1642",
+      "title": "Expressing the sense of the House of Representatives that Congress must refuse to provide any additional funds or exceptional regulatory support to companies or financial institutions facing insolvency or financial collapse due to exposures to acute stress within the artificial intelligence market and must provide support to all harmed Americans instead.",
+      "latest_action_date": "2026-10-29",
+      "latest_action": "Referred to the Committee on Financial Services, and in addition to the Committees on the Judiciary, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "matched_keywords": [
+        "artificial intelligence"
+      ],
+      "url": "https://www.congress.gov/bill/119th-congress/house-resolution/1642"
+    },
+    {
+      "congress": 119,
+      "number": "HR.5334",
+      "title": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+      "latest_action_date": "2026-09-18",
+      "latest_action": "Became Public Law No: 119-111.",
+      "matched_keywords": [
+        "sanction"
+      ],
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/5334"
+    },
+    {
+      "congress": 119,
+      "number": "HR.10594",
+      "title": "Reliable Artificial Intelligence Research Act of 2026",
+      "latest_action_date": "2026-09-24",
+      "latest_action": "Referred to the House Committee on Homeland Security.",
+      "matched_keywords": [
+        "artificial intelligence"
+      ],
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/10594"
+    },
+    {
+      "congress": 119,
+      "number": "S.5476",
+      "title": "A bill to impose sanctions with respect to foreign persons that have facilitated Israeli settlement construction in the E1 area of the West Bank.",
+      "latest_action_date": "2026-09-23",
+      "latest_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "matched_keywords": [
+        "sanction"
+      ],
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5476"
+    }
+  ]
 }
