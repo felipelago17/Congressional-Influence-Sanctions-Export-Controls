@@ -53,7 +53,12 @@ def _get(path: str, **params) -> dict:
             if exc.code == 429 and attempt < 2:
                 time.sleep(5 * (attempt + 1))
                 continue
-            raise
+            body = ""
+            try:
+                body = exc.read().decode("utf-8", errors="replace")[:300]
+            except Exception:  # noqa: BLE001
+                pass
+            raise RuntimeError(f"HTTP {exc.code} from Congress.gov: {body or exc.reason}") from None
     return {}
 
 
@@ -173,6 +178,7 @@ def render_page(payload: dict) -> str:
 
 
 def main() -> int:
+    print(f"  key present: {bool(KEY)} (length {len(KEY)})")
     if not KEY:
         print("::warning::CONGRESS_API_KEY is not set – skipping Congress.gov fetch. "
               "Add it under Settings → Secrets and variables → Actions.")
