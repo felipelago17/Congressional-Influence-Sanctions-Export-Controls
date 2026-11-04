@@ -1,6 +1,6 @@
 # Congressional signals (Congress.gov API)
 
-*Auto-generated 2026-11-04 17:56 UTC from the official [Congress.gov API](https://api.congress.gov/). Aggregate party counts only — no per-member scorecards. Not legal advice.*
+*Auto-generated 2026-11-04 17:58 UTC from the official [Congress.gov API](https://api.congress.gov/). Aggregate party counts only — no per-member scorecards. Not legal advice.*
 
 ## Watchlist
 
