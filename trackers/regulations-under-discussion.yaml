@@ -1,0 +1,13 @@
+# Multi-field status is required: scheduled / announced / published / in-force
+
+- id: bis-affiliates-rule
+  type: rule
+  title: BIS Affiliates Rule (50% aggregate ownership)
+  scheduled_effective: 2026-11-10
+  announced_extension_to: 2027-01-10
+  published_extension: null
+  in_force: false
+  sources:
+    - "https://www.federalregister.gov/documents/2025/11/12/2025-19846/one-year-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed-entities"
+    - "Bessent statement, 23 September 2026 (trade truce extension announcement)"
+  notes: "Formal reimposition remains scheduled for 10 November 2026. Extension to 10 January 2027 has been announced but not yet published in the Federal Register."
