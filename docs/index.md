@@ -27,7 +27,9 @@ Every entry includes:
 - [Administration Levers](influence/administration-levers.md)
 - [Party and Committee Aggregates](influence/party-committee-aggregates.md)
 - [Election Cycles](influence/election-cycles.md)
-- Trackers (YAML): `trackers/signals.yaml`, `trackers/regulations-under-discussion.yaml`, `trackers/linkages.yaml`
+- [Congressional Signals](trackers/congress-signals.md) — auto-refreshed daily from the Congress.gov API (watchlist + keyword scan)
+- [Sanctions Lists](trackers/sanctions-data.md) — OFAC/BIS list statistics and new listings, daily via OpenSanctions
+- Trackers (YAML): `trackers/signals.yaml`, `trackers/regulations-under-discussion.yaml`, `trackers/linkages.yaml`, `trackers/bill-watchlist.yaml`
 - [Daily digest](news/digest.md)
 
 ## Current baseline (November 2026)

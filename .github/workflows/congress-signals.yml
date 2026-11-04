@@ -1,0 +1,39 @@
+name: Congress.gov Signals
+
+on:
+  schedule:
+    - cron: '20 7 * * *'   # daily 07:20 UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - 'trackers/bill-watchlist.yaml'
+      - 'scripts/fetch_congress_signals.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-updates
+  cancel-in-progress: false
+
+jobs:
+  signals:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pyyaml
+      - name: Fetch congressional signals
+        env:
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+        run: python scripts/fetch_congress_signals.py
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/congress-signals.json docs/trackers/congress-signals.md
+          git diff --staged --quiet || git commit -m "data: congress signals $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
+          git push

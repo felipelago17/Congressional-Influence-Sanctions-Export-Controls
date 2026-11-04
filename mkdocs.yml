@@ -18,6 +18,9 @@ nav:
       - Administration Levers: influence/administration-levers.md
       - Party and Committee Aggregates: influence/party-committee-aggregates.md
       - Election Cycles: influence/election-cycles.md
+  - Trackers:
+      - Congressional Signals (Congress.gov): trackers/congress-signals.md
+      - Sanctions Lists (OpenSanctions): trackers/sanctions-data.md
   - News:
       - Daily Digest: news/digest.md
 plugins:

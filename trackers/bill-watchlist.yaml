@@ -1,0 +1,32 @@
+# Bills refreshed daily from the Congress.gov API (scripts/fetch_congress_signals.py).
+# `type` uses Congress.gov codes: hr, s, hjres, sjres, hres, sres, hconres, sconres.
+# Add a bill here via pull request; the page docs/trackers/congress-signals.md is generated.
+
+bills:
+  - id: rasa-hr2683-119
+    label: Remote Access Security Act (House)
+    congress: 119
+    type: hr
+    number: 2683
+  - id: rasa-s3519-119
+    label: Remote Access Security Act (Senate companion)
+    congress: 119
+    type: s
+    number: 3519
+
+# Case-insensitive substrings matched against titles of bills updated in the scan window.
+keywords:
+  - sanction
+  - export control
+  - export administration
+  - entity list
+  - foreign adversary
+  - remote access
+  - outbound investment
+  - semiconductor
+  - chip security
+  - artificial intelligence
+  - money laundering
+  - bank secrecy
+  - office of foreign assets control
+  - bureau of industry and security
