@@ -4,6 +4,8 @@ Evidence-based framework mapping **public congressional signals** (bills, riders
 
 Elections and party control are inputs, not the subject of the repository.
 
+**Status as of 4 November 2026**
+
 **This repository is for informational and academic purposes only. It does not constitute legal advice.** Always consult qualified export-control and sanctions counsel before taking any compliance decision.
 
 ---
@@ -33,4 +35,23 @@ Elections and party control are inputs, not the subject of the repository.
 
 ---
 
+## Open source collaboration
+
+This repository is open for contributions.
+
+Fork it, make your changes, and open a pull request. Tracker rows are added only via pull request after review.
+
+[Fork the repository](https://github.com/felipelago17/Congressional-Influence-Sanctions-Export-Controls/fork)
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+---
+
 ## What This Repository Contains
+
+- `docs/` — MkDocs source (methodology, influence pages)
+- `trackers/` — YAML trackers for signals, regulations under discussion, and linkages
+- `news/digest.md` — Daily digest (automated updates only)
+- `.github/workflows/` — Deploy and daily digest workflows
+
+Public site: https://felipelago17.github.io/Congressional-Influence-Sanctions-Export-Controls/
