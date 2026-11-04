@@ -1,0 +1,7 @@
+# Graded linkages only. No inference from proximity alone.
+
+- signal: rasa-hr2683-119
+  action: null  # future BIS remote-access rule or guidance, when it exists
+  grade: proximity-only
+  evidence: []
+  notes: "No inference drawn. Bill has passed the House; no corresponding final rule yet."
