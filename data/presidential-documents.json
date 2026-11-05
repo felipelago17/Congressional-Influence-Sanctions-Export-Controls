@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T04:04:13+00:00",
+  "generated_at": "2026-11-05T15:44:53+00:00",
   "source": "https://www.federalregister.gov/api/v1/documents.json",
   "scan_from": "2025-01-20",
   "keywords": [
@@ -109,6 +109,68 @@
     }
   ],
   "scan": [
+    {
+      "document_number": "2026-22688",
+      "title": "Continuation of the National Emergency With Respect to the Threat From Securities Investments That Finance Certain Companies of the People's Republic of China",
+      "type": "Presidential Document",
+      "subtype": "Notice",
+      "executive_order_number": null,
+      "signing_date": "2026-11-03",
+      "publication_date": "2026-11-05",
+      "citation": "91 FR 69953",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22688/continuation-of-the-national-emergency-with-respect-to-the-threat-from-securities-investments-that",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-05/pdf/2026-22688.pdf",
+      "matched_keywords": [
+        "national emergency",
+        "china"
+      ]
+    },
+    {
+      "document_number": "2026-22687",
+      "title": "Continuation of the National Emergency With Respect to the Situation in Nicaragua",
+      "type": "Presidential Document",
+      "subtype": "Notice",
+      "executive_order_number": null,
+      "signing_date": "2026-11-03",
+      "publication_date": "2026-11-05",
+      "citation": "91 FR 69951",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22687/continuation-of-the-national-emergency-with-respect-to-the-situation-in-nicaragua",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-05/pdf/2026-22687.pdf",
+      "matched_keywords": [
+        "national emergency"
+      ]
+    },
+    {
+      "document_number": "2026-22686",
+      "title": "Continuation of the National Emergency With Respect to the Proliferation of Weapons of Mass Destruction",
+      "type": "Presidential Document",
+      "subtype": "Notice",
+      "executive_order_number": null,
+      "signing_date": "2026-11-03",
+      "publication_date": "2026-11-05",
+      "citation": "91 FR 69949",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22686/continuation-of-the-national-emergency-with-respect-to-the-proliferation-of-weapons-of-mass",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-05/pdf/2026-22686.pdf",
+      "matched_keywords": [
+        "national emergency"
+      ]
+    },
+    {
+      "document_number": "2026-22685",
+      "title": "Continuation of the National Emergency With Respect to Iran",
+      "type": "Presidential Document",
+      "subtype": "Notice",
+      "executive_order_number": null,
+      "signing_date": "2026-11-03",
+      "publication_date": "2026-11-05",
+      "citation": "91 FR 69947",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22685/continuation-of-the-national-emergency-with-respect-to-iran",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-05/pdf/2026-22685.pdf",
+      "matched_keywords": [
+        "national emergency",
+        "iran"
+      ]
+    },
     {
       "document_number": "2026-22292",
       "title": "Further Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles",

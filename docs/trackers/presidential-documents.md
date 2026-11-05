@@ -1,6 +1,6 @@
 # Presidential documents (Federal Register API)
 
-*Auto-generated 2026-11-05 04:04 UTC from the [Federal Register API](https://www.federalregister.gov/developers/documentation/api/v1). Executive orders, proclamations and memoranda on sanctions, tariffs and export controls. Public-domain content. Not legal advice.*
+*Auto-generated 2026-11-05 15:44 UTC from the [Federal Register API](https://www.federalregister.gov/developers/documentation/api/v1). Executive orders, proclamations and memoranda on sanctions, tariffs and export controls. Public-domain content. Not legal advice.*
 
 ## Resolved citations (targets)
 
@@ -19,6 +19,10 @@ Keywords: `sanction`, `tariff`, `duties`, `export control`, `export administrati
 
 | Signed | Type | EO No. | FR citation | Title | Matched |
 |---|---|---|---|---|---|
+| 2026-11-03 | Notice | — | [91 FR 69953](https://www.federalregister.gov/documents/2026/11/05/2026-22688/continuation-of-the-national-emergency-with-respect-to-the-threat-from-securities-investments-that) | Continuation of the National Emergency With Respect to the Threat From Securities Investments That Finance Certain Companies of the People's Republic of China | national emergency, china |
+| 2026-11-03 | Notice | — | [91 FR 69951](https://www.federalregister.gov/documents/2026/11/05/2026-22687/continuation-of-the-national-emergency-with-respect-to-the-situation-in-nicaragua) | Continuation of the National Emergency With Respect to the Situation in Nicaragua | national emergency |
+| 2026-11-03 | Notice | — | [91 FR 69949](https://www.federalregister.gov/documents/2026/11/05/2026-22686/continuation-of-the-national-emergency-with-respect-to-the-proliferation-of-weapons-of-mass) | Continuation of the National Emergency With Respect to the Proliferation of Weapons of Mass Destruction | national emergency |
+| 2026-11-03 | Notice | — | [91 FR 69947](https://www.federalregister.gov/documents/2026/11/05/2026-22685/continuation-of-the-national-emergency-with-respect-to-iran) | Continuation of the National Emergency With Respect to Iran | national emergency, iran |
 | 2026-10-23 | Proclamation | — | [91 FR 68861](https://www.federalregister.gov/documents/2026/10/30/2026-22292/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset) | Further Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles | duties |
 | 2026-10-16 | Executive Order | 14436 | [91 FR 66627](https://www.federalregister.gov/documents/2026/10/21/2026-21599/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026) | Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 | sanction, russia, iran |
 | 2026-10-15 | Notice | — | [91 FR 66281](https://www.federalregister.gov/documents/2026/10/19/2026-21432/continuation-of-the-national-emergency-with-respect-to-the-democratic-republic-of-the-congo) | Continuation of the National Emergency With Respect to the Democratic Republic of the Congo | national emergency |
