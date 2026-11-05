@@ -4,6 +4,8 @@
 
 **Source tier:** Tier 3 (news reporting). Seat counts below are provisional, as reported at publication; the House call is attributed by the article to the Associated Press. Replace with certified results and Congress.gov member data when the 120th Congress organises (January 2027).
 
+**Cross-checked:** see the [cross-source check](midterms-2026-cross-source-check.md) comparing this piece with NPR, a Fox affiliate, MS NOW, CNBC, the Chicago Council (Poast) and the Reuters/Bessent interview.
+
 **Scope note:** general-politics explainer. Only the oversight, confirmation and veto-arithmetic points bear on this repository's subject; the article does not discuss sanctions or export controls.
 
 ---
