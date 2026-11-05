@@ -1,0 +1,633 @@
+{
+  "generated_at": "2026-11-05T04:53:21+00:00",
+  "sources_ok": [
+    "BIS (51)",
+    "OFAC (64)"
+  ],
+  "sources_failed": [
+    "DOJ RSS"
+  ],
+  "keywords": [
+    "sanction",
+    "export control",
+    "export administration",
+    "entity list",
+    "foreign direct product",
+    "smuggl",
+    "nvidia",
+    "gpu",
+    "semiconductor",
+    "chips",
+    "huawei",
+    "smic",
+    "ofac",
+    "settlement",
+    "penalty",
+    "non-prosecution",
+    "declination",
+    "indict",
+    "russia",
+    "iran",
+    "china",
+    "north korea",
+    "general license",
+    "50 percent"
+  ],
+  "targets": [
+    {
+      "id": "supermicro-liaw-indictment-2026-03",
+      "label": "DOJ press release — Supermicro-linked AI server diversion indictment (S.D.N.Y., 19 Mar 2026)",
+      "agency": "DOJ",
+      "title_any": [
+        "super micro",
+        "supermicro",
+        "liaw",
+        "servers housing"
+      ],
+      "search": "Super Micro servers China indictment",
+      "resolved": null
+    },
+    {
+      "id": "earthmade-lui-indictment-2026-10",
+      "label": "DOJ press release — Earthmade Computer / Lui indictment (C.D. Cal., Oct 2026)",
+      "agency": "DOJ",
+      "title_any": [
+        "earthmade",
+        "lui",
+        "san gabriel"
+      ],
+      "search": "Earthmade servers China export",
+      "resolved": null
+    },
+    {
+      "id": "lambda-research-bis-2026-10",
+      "label": "BIS order — Lambda Research Corporation",
+      "agency": "BIS",
+      "title_keywords": [
+        "lambda research"
+      ],
+      "resolved": {
+        "agency": "BIS",
+        "title": "BIS Reaches Administrative Enforcement Settlement with Lambda Research Corporation",
+        "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-lambda-research-corporation",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "id": "container-manufacturing-bis-2026-08",
+      "label": "BIS order — Container Manufacturing Ltd.",
+      "agency": "BIS",
+      "title_keywords": [
+        "container manufacturing"
+      ],
+      "resolved": {
+        "agency": "BIS",
+        "title": "BIS Reaches Administrative Enforcement Settlement with Container Manufacturing Ltd.",
+        "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-container-manufacturing-ltd.",
+        "date": "2026-08-24"
+      }
+    },
+    {
+      "id": "plexon-bis-2026-08",
+      "label": "BIS order — Plexon, Inc.",
+      "agency": "BIS",
+      "title_keywords": [
+        "plexon"
+      ],
+      "resolved": {
+        "agency": "BIS",
+        "title": "BIS Reaches Administrative Enforcement Settlement with Plexon, Inc.",
+        "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-plexon-inc.",
+        "date": "2026-08-14"
+      }
+    },
+    {
+      "id": "coastal-pva-bis-2026-04",
+      "label": "BIS order — Coastal PVA Technology, Inc.",
+      "agency": "BIS",
+      "title_keywords": [
+        "coastal pva"
+      ],
+      "resolved": {
+        "agency": "BIS",
+        "title": "BIS Reaches Administrative Enforcement Settlement with Coastal PVA Technology, Inc.",
+        "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-coastal-pva-technology-inc.",
+        "date": "2026-04-14"
+      }
+    },
+    {
+      "id": "solventum-bis-2026-03",
+      "label": "BIS order — Solventum Corporation",
+      "agency": "BIS",
+      "title_keywords": [
+        "solventum"
+      ],
+      "resolved": {
+        "agency": "BIS",
+        "title": "BIS Reaches Administrative Enforcement Settlement with Solventum Corporation Order",
+        "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-solventum-corporation-order",
+        "date": "2026-03-27"
+      }
+    },
+    {
+      "id": "vizicom-bis-2026-02",
+      "label": "BIS order — Vizicom ICT",
+      "agency": "BIS",
+      "title_keywords": [
+        "vizicom"
+      ],
+      "resolved": {
+        "agency": "BIS",
+        "title": "BIS Reaches Administrative Enforcement Settlement with Vizicom ICT",
+        "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-vizicom-ict",
+        "date": "2026-02-25"
+      }
+    },
+    {
+      "id": "bulgarian-national-sentenced-2026-02",
+      "label": "BIS/DOJ — Bulgarian national sentenced, microelectronics to Russia (Austin, 19 Feb 2026)",
+      "agency": "BIS",
+      "title_keywords": [
+        "bulgarian"
+      ],
+      "resolved": null
+    }
+  ],
+  "scan": [
+    {
+      "agency": "BIS",
+      "title": "BIS Reaches Administrative Enforcement Settlement with Lambda Research Corporation",
+      "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-lambda-research-corporation",
+      "date": "2026-10-02",
+      "matched_keywords": [
+        "settlement"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "BIS Reaches Administrative Enforcement Settlement with Container Manufacturing Ltd.",
+      "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-container-manufacturing-ltd.",
+      "date": "2026-08-24",
+      "matched_keywords": [
+        "settlement"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "BIS Reaches Administrative Enforcement Settlement with Plexon, Inc.",
+      "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-plexon-inc.",
+      "date": "2026-08-14",
+      "matched_keywords": [
+        "settlement"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "Department of Commerce Streamlines Export Controls for Sound Suppressors",
+      "url": "https://www.bis.gov/press-release/department-commerce-streamlines-export-controls-sound-suppressors",
+      "date": "2026-07-27",
+      "matched_keywords": [
+        "export control"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "Department of Commerce Eases Export Controls for UAE",
+      "url": "https://www.bis.gov/press-release/department-commerce-eases-export-controls-uae",
+      "date": "2026-07-10",
+      "matched_keywords": [
+        "export control"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "Robert Bosch GmbH (Bosch) To Pay $36 Million Penalty to BIS for Violations Pertaining to Shipments to Huawei",
+      "url": "https://www.bis.gov/press-release/robert-bosch-gmbh-bosch-pay-36-million-penalty-bis-violations-pertaining-shipments-huawei",
+      "date": "2026-06-17",
+      "matched_keywords": [
+        "huawei",
+        "penalty"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "BIS Reaches Administrative Enforcement Settlement with Coastal PVA Technology, Inc.",
+      "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-coastal-pva-technology-inc.",
+      "date": "2026-04-14",
+      "matched_keywords": [
+        "settlement"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "BIS Reaches Administrative Enforcement Settlement with Solventum Corporation Order",
+      "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-solventum-corporation-order",
+      "date": "2026-03-27",
+      "matched_keywords": [
+        "settlement"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "BIS Reaches Administrative Enforcement Settlement with Teledyne FLIR LLC and its affiliates, FLIR Optoelectronic Technology (Shanghai) Co. Ltd. and Teledyne FLIR Commercial Systems Inc.",
+      "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-teledyne-flir-llc-its-affiliates-flir-optoelectronic",
+      "date": "2026-02-26",
+      "matched_keywords": [
+        "settlement"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "BIS Reaches Administrative Enforcement Settlement with Vizicom ICT",
+      "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-vizicom-ict",
+      "date": "2026-02-25",
+      "matched_keywords": [
+        "settlement"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "Applied Materials to Pay $252 Million Penalty to BIS for Illegally Exporting Semiconductor Manufacturing Equipment",
+      "url": "https://www.bis.gov/press-release/applied-materials-pay-252-million-penalty-bis-illegally-exporting-semiconductor-manufacturing-equipment",
+      "date": "2026-02-12",
+      "matched_keywords": [
+        "semiconductor",
+        "penalty"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "Department of Commerce Revises License Review Policy for Semiconductors Exported to China",
+      "url": "https://www.bis.gov/press-release/department-commerce-revises-license-review-policy-semiconductors-exported-china",
+      "date": "2026-01-13",
+      "matched_keywords": [
+        "semiconductor",
+        "china"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "BIS Imposes Administrative Penalty on Exyte Management GmbH",
+      "url": "https://www.bis.gov/press-release/bis-imposes-administrative-penalty-exyte-management-gmbh",
+      "date": "2026-01-07",
+      "matched_keywords": [
+        "penalty"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "BIS Reaches Administrative Enforcement Settlement with Luminultra Technologies, Inc.",
+      "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-luminultra-technologies-inc.",
+      "date": "2025-10-01",
+      "matched_keywords": [
+        "settlement"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "BIS Imposes Administrative Penalty on Hallewell Ventures Ltd.",
+      "url": "https://www.bis.gov/press-release/bis-imposes-administrative-penalty-hallewell-ventures-ltd",
+      "date": "2025-10-01",
+      "matched_keywords": [
+        "penalty"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "Department of Commerce Rescinds Biden-Era Firearms Rule, Restoring Common Sense to Export Controls on Civilian Firearms",
+      "url": "https://www.bis.gov/press-release/department-commerce-rescinds-biden-era-firearms-rule-restoring-common-sense-export-controls-civilian",
+      "date": "2025-09-29",
+      "matched_keywords": [
+        "export control"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "Department of Commerce Expands Entity List to Cover Affiliates of Listed Entities",
+      "url": "https://www.bis.gov/press-release/department-commerce-expands-entity-list-cover-affiliates-listed-entities",
+      "date": "2025-09-29",
+      "matched_keywords": [
+        "entity list"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "Department of Commerce Closes Export Controls Loophole for Foreign-Owned Semiconductor Fabs in China",
+      "url": "https://www.bis.gov/press-release/department-commerce-closes-export-controls-loophole-foreign-owned-semiconductor-fabs-china",
+      "date": "2025-08-29",
+      "matched_keywords": [
+        "export control",
+        "semiconductor",
+        "china"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "Commerce Eases Export Controls on Syria",
+      "url": "https://www.bis.gov/press-release/commerce-eases-export-controls-syria",
+      "date": "2025-08-28",
+      "matched_keywords": [
+        "export control"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "BIS Reaches Administrative Enforcement Settlement with Andritz Inc. ORDER",
+      "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-andritz-inc.-order",
+      "date": "2025-07-29",
+      "matched_keywords": [
+        "settlement"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "Cadence Design Systems to Pay $95 Million Penalty to BIS for Unauthorized Exports to Chinese Entities Tied to Development of Military Supercomputers",
+      "url": "https://www.bis.gov/press-release/cadence-design-systems-pay-95-million-penalty-bis-unauthorized-exports-chinese-entities-tied-development",
+      "date": "2025-07-28",
+      "matched_keywords": [
+        "penalty"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "BIS Reaches Administrative Enforcement Settlement with Alpha and Omega Semiconductor Incorporated ORDER",
+      "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-alpha-omega-semiconductor-incorporated-order",
+      "date": "2025-07-02",
+      "matched_keywords": [
+        "semiconductor",
+        "settlement"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "BIS Reaches Administrative Enforcement Settlement with Unicat Catalyst Technologies, LLC ORDER",
+      "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-unicat-catalyst-technologies-llc-order",
+      "date": "2025-06-23",
+      "matched_keywords": [
+        "settlement"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "Department of Commerce Announces Rescission of Biden-Era Artificial Intelligence Diffusion Rule, Strengthens Chip-Related Export Controls",
+      "url": "https://www.bis.gov/press-release/department-commerce-announces-rescission-biden-era-artificial-intelligence-diffusion-rule-strengthens",
+      "date": "2025-05-13",
+      "matched_keywords": [
+        "export control"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "Commerce Further Restricts China’s Super Intelligence and Advanced Computing Capabilities",
+      "url": "https://www.bis.gov/press-release/commerce-further-restricts-chinas-super-intelligence-advanced-computing-capabilities",
+      "date": "2025-03-25",
+      "matched_keywords": [
+        "china"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "BIS Reaches Administrative Enforcement Settlement with Lambda Research Corporation",
+      "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-lambda-research-corporation",
+      "date": "2026-10-02",
+      "matched_keywords": [
+        "settlement"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "BIS Reaches Administrative Enforcement Settlement with Container Manufacturing Ltd.",
+      "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-container-manufacturing-ltd.",
+      "date": "2026-10-02",
+      "matched_keywords": [
+        "settlement"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "BIS Reaches Administrative Enforcement Settlement with Plexon, Inc.",
+      "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-plexon-inc.",
+      "date": "2026-08-24",
+      "matched_keywords": [
+        "settlement"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "Robert Bosch GmbH (Bosch) To Pay $36 Million Penalty to BIS for Violations Pertaining to Shipments to Huawei",
+      "url": "https://www.bis.gov/press-release/robert-bosch-gmbh-bosch-pay-36-million-penalty-bis-violations-pertaining-shipments-huawei",
+      "date": "2026-08-14",
+      "matched_keywords": [
+        "huawei",
+        "penalty"
+      ]
+    },
+    {
+      "agency": "BIS",
+      "title": "BIS Reaches Administrative Enforcement Settlement with Coastal PVA Technology, Inc.",
+      "url": "https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-coastal-pva-technology-inc.",
+      "date": "2026-06-17",
+      "matched_keywords": [
+        "settlement"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "Iran-related Designations; Updates to Certain Iran-related Listings; Publication of Iran-related OFAC Alert; Issuance of Amended Venezuela-related General License and Frequently Asked Question",
+      "url": "https://ofac.treasury.gov/recent-actions/20261104",
+      "date": "2026-11-04",
+      "matched_keywords": [
+        "ofac",
+        "iran",
+        "general license"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "Issuance of Amended Iran-related General License",
+      "url": "https://ofac.treasury.gov/recent-actions/20261029",
+      "date": "2026-10-29",
+      "matched_keywords": [
+        "iran",
+        "general license"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "North Korea Designations; Democratic Republic of the Congo-related Designations",
+      "url": "https://ofac.treasury.gov/recent-actions/20261028",
+      "date": "2026-10-28",
+      "matched_keywords": [
+        "north korea"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "Settlement Agreement between the U.S. Department of the Treasury's Office of Foreign Assets Control and Extreme Networks, Inc.",
+      "url": "https://ofac.treasury.gov/recent-actions/20261027",
+      "date": "2026-10-27",
+      "matched_keywords": [
+        "settlement"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "Issuance of Amended Frequently Asked Questions Regarding Blocking and Rejecting Transactions and Filing Reports with OFAC",
+      "url": "https://ofac.treasury.gov/recent-actions/20261026",
+      "date": "2026-10-26",
+      "matched_keywords": [
+        "ofac"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "Iran-related Designations; Belarus and North Korea Designations Removals; Issuance of Iran-related and Russia-related General Licenses and Amended Frequently Asked Questions",
+      "url": "https://ofac.treasury.gov/recent-actions/20261021",
+      "date": "2026-10-21",
+      "matched_keywords": [
+        "russia",
+        "iran",
+        "north korea",
+        "general license"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "Protecting American Intellectual Property Act of 2022 (PAIPA) Designations; Issuance of Associated General Licenses",
+      "url": "https://ofac.treasury.gov/recent-actions/20261019",
+      "date": "2026-10-19",
+      "matched_keywords": [
+        "general license"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "Issuance of Amended Venezuela-related General License and Frequently Asked Question",
+      "url": "https://ofac.treasury.gov/recent-actions/20261016",
+      "date": "2026-10-16",
+      "matched_keywords": [
+        "general license"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "Iran-related Designations; Cuba Designation; Issuance of New and Amended General Licenses and Frequently Asked Questions",
+      "url": "https://ofac.treasury.gov/recent-actions/20261015",
+      "date": "2026-10-15",
+      "matched_keywords": [
+        "iran",
+        "general license"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "OFAC Enforcement Guidelines",
+      "url": "https://ofac.treasury.gov/media/7566/download?inline",
+      "date": "",
+      "matched_keywords": [
+        "ofac"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "A Framework for OFAC Compliance Commitments",
+      "url": "https://ofac.treasury.gov/media/16331/download?inline",
+      "date": "",
+      "matched_keywords": [
+        "ofac"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "Guidance on Extension of Statute of Limitations for Violations of Certain Sanctions Administered by the Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/media/933056/download?inline",
+      "date": "",
+      "matched_keywords": [
+        "sanction"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "OFAC Guidance: Production Submission Standards (responding to administrative subpoenas and request for information)",
+      "url": "https://ofac.treasury.gov/media/932996/download?inline",
+      "date": "",
+      "matched_keywords": [
+        "ofac"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "Sanctions Compliance Guidance for the Virtual Currency Industry",
+      "url": "https://ofac.treasury.gov/media/913571/download?inline",
+      "date": "",
+      "matched_keywords": [
+        "sanction"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "Sanctions Compliance Guidance for Instant Payment Systems",
+      "url": "https://ofac.treasury.gov/media/928316/download?inline",
+      "date": "",
+      "matched_keywords": [
+        "sanction"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "Memorandum of Understanding Between OFAC and the State of Delaware Department of Justice",
+      "url": "https://ofac.treasury.gov/media/47791/download?inline",
+      "date": "",
+      "matched_keywords": [
+        "ofac"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "Memorandum of Understanding Between OFAC and the United Kingdom's Office of Financial Sanctions Implementation (OFSI)",
+      "url": "https://ofac.treasury.gov/media/933926/download?inline",
+      "date": "",
+      "matched_keywords": [
+        "sanction",
+        "ofac"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "Memorandum of Understanding Between OFAC and the Swiss State Secretariat for Economic Affairs (SECO)",
+      "url": "https://ofac.treasury.gov/media/934286/download?inline",
+      "date": "",
+      "matched_keywords": [
+        "ofac"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "Sanctions Advisory: Guidance on Sham Transactions and Sanctions Evasion",
+      "url": "https://ofac.treasury.gov/media/935441/download?inline",
+      "date": "",
+      "matched_keywords": [
+        "sanction"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "Advisory and Guidance on Potential Sanctions Risks Arising from Dealings in High-Value Artwork",
+      "url": "https://ofac.treasury.gov/media/49091/download?inline",
+      "date": "",
+      "matched_keywords": [
+        "sanction"
+      ]
+    },
+    {
+      "agency": "OFAC",
+      "title": "Tri-Seal Compliance Note: Obligations of foreign-based persons to comply with U.S. sanctions and export control laws",
+      "url": "https://ofac.treasury.gov/media/932746/download?inline",
+      "date": "",
+      "matched_keywords": [
+        "sanction",
+        "export control"
+      ]
+    }
+  ]
+}
