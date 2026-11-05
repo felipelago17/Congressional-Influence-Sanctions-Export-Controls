@@ -52,3 +52,330 @@
   notes: >
     First application of the CEP "near-miss" pathway by NSD. Relevant to the 50 percent rule
     thread: liability attached to an entity that appears on no list, only through ownership.
+
+# ---------------------------------------------------------------------------
+# 2026 corporate civil resolutions — OFAC (source of record: OFAC civil penalties chart,
+# https://ofac.treasury.gov/civil-penalties-and-enforcement-information)
+# ---------------------------------------------------------------------------
+
+- id: bank-of-america-ofac-2026-10
+  date: 2026-10-13
+  type: civil-settlement
+  instrument: OFAC settlement (parallel FinCEN and OCC penalties same day)
+  agencies: [OFAC, FinCEN, OCC]
+  company: Bank of America, N.A.
+  programs: [Russia, Belarus, Iran, Burma, Somalia, counter-narcotics, global terrorism]
+  conduct: 475 apparent violations across seven programmes; non-egregious; 413 not voluntarily self-disclosed, 62 self-disclosed.
+  amounts:
+    ofac_settlement_usd: 11662930
+    fincen_penalty_usd: 1200000000
+    occ_penalty_usd: 750000000   # credited toward the FinCEN amount
+  status: {announced: 2026-10-13, published: 2026-10-13, in_force: true}
+  sources:
+    - "https://ofac.treasury.gov/media/937231/download?inline="
+    - "https://ofac.treasury.gov/civil-penalties-and-enforcement-information"
+  linkage: none-documented
+  notes: "Settlement equals the base penalty with no reduction; OFAC credited a tolling agreement but found no net mitigation. FinCEN's $1.2bn (third largest ever) and OCC's record $750m concern BSA/AML failures — Chinese money-laundering networks and south-west border illicit finance — not sanctions."
+
+- id: pegasus-worldwide-logistics-ofac-2026-10
+  date: 2026-10-09
+  type: civil-settlement
+  instrument: OFAC settlement
+  agencies: [OFAC]
+  company: Pegasus Worldwide Logistics
+  programs: [counter-narcotics]
+  conduct: Freight forwarder — screening failures against the SDN list and deficient response to an OFAC subpoena.
+  amounts: {ofac_settlement_usd: 175015}
+  status: {announced: 2026-10-09, published: 2026-10-09, in_force: true}
+  sources: ["https://ofac.treasury.gov/civil-penalties-and-enforcement-information"]
+  linkage: none-documented
+
+- id: individual-iran-ofac-2026-09
+  date: 2026-09-10
+  type: civil-settlement
+  instrument: OFAC settlement with a natural U.S. person
+  agencies: [OFAC]
+  company: "U.S. Person (unnamed)"
+  programs: [Iran]
+  conduct: Iran-related consulting and investment activity; deemed egregious.
+  amounts: {ofac_settlement_usd: 1427230}
+  status: {announced: 2026-09-10, published: 2026-09-10, in_force: true}
+  sources: ["https://ofac.treasury.gov/civil-penalties-and-enforcement-information"]
+  linkage: none-documented
+
+- id: rice-lake-ofac-2026-08
+  date: 2026-08-12
+  type: civil-settlement
+  instrument: OFAC settlement
+  agencies: [OFAC]
+  company: Rice Lake Weighing Systems, Inc.
+  programs: [unspecified]
+  amounts: {ofac_settlement_usd: 60764}
+  status: {announced: 2026-08-12, published: 2026-08-12, in_force: true}
+  sources: ["https://ofac.treasury.gov/civil-penalties-and-enforcement-information"]
+  linkage: none-documented
+
+- id: fti-consulting-ofac-2026-06
+  date: 2026-06-01
+  type: civil-settlement
+  instrument: OFAC settlement
+  agencies: [OFAC]
+  company: FTI Consulting, Inc.
+  programs: [unspecified]
+  amounts: {ofac_settlement_usd: 1050000}
+  status: {announced: 2026-06-01, published: 2026-06-01, in_force: true}
+  sources: ["https://ofac.treasury.gov/civil-penalties-and-enforcement-information"]
+  linkage: none-documented
+
+- id: adani-enterprises-ofac-2026-05
+  date: 2026-05-18
+  type: civil-settlement
+  instrument: OFAC settlement (agreement dated 2026-05-14)
+  agencies: [OFAC]
+  company: Adani Enterprises Limited (India)
+  programs: [Iran]
+  conduct: >
+    32 apparent violations: 35 LPG cargoes purchased Nov 2023 – Jun 2025 from a Dubai supplier
+    described as Omani/Iraqi origin but allegedly Iranian; third-party warnings from Mar 2023
+    ignored; c. $192m of related payments cleared through U.S. banks, which supplied the
+    jurisdictional hook over a non-U.S. company.
+  amounts:
+    ofac_settlement_usd: 275000000
+    statutory_maximum_usd: 384210000
+  status: {announced: 2026-05-18, published: 2026-05-18, in_force: true}
+  sources:
+    - "https://ofac.treasury.gov/recent-actions/20260518"
+    - "https://ofac.treasury.gov/media/935636/download?inline"
+    - "https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_18052026211830_AELSEIntimationReg30OFACDisclosure.pdf"
+  linkage: none-documented
+  notes: "Largest OFAC penalty of 2026 and the year's only nine-figure case. Non-U.S. company reached through dollar clearing — relevant to the Affiliates Rule / secondary-exposure thread. Settled without admission; DOJ separately moved to dismiss the November 2024 criminal charges against Adani group executives (different conduct)."
+
+- id: tradestation-ofac-2026-03
+  date: 2026-03-17
+  type: civil-settlement
+  instrument: OFAC settlement
+  agencies: [OFAC]
+  company: TradeStation Securities, Inc.
+  programs: [unspecified]
+  amounts: {ofac_settlement_usd: 1110661}
+  status: {announced: 2026-03-17, published: 2026-03-17, in_force: true}
+  sources: ["https://ofac.treasury.gov/civil-penalties-and-enforcement-information"]
+  linkage: none-documented
+
+- id: individual-syria-ofac-2026-02
+  date: 2026-02-25
+  type: civil-settlement
+  instrument: OFAC settlement with a natural U.S. person
+  agencies: [OFAC]
+  company: "U.S. Person-1 (unnamed)"
+  programs: [Syria (sanctions previously in effect)]
+  conduct: 20 apparent violations, Jan 2018 – Dec 2021 — managerial services as officer/board member of four Syrian real-estate companies; egregious, not self-disclosed.
+  amounts: {ofac_settlement_usd: 3777000}
+  status: {announced: 2026-02-25, published: 2026-02-25, in_force: true}
+  sources: ["https://ofac.treasury.gov/recent-actions/20260225_66"]
+  linkage: none-documented
+  notes: "Enforcement of a programme since lifted (Syria sanctions removed by EO of 30 June 2025) — conduct predating removal remains actionable."
+
+- id: img-academy-ofac-2026-02
+  date: 2026-02-12
+  type: civil-settlement
+  instrument: OFAC settlement
+  agencies: [OFAC]
+  company: IMG Academy, LLC
+  programs: [unspecified]
+  amounts: {ofac_settlement_usd: 1720000}
+  status: {announced: 2026-02-12, published: 2026-02-12, in_force: true}
+  sources: ["https://ofac.treasury.gov/civil-penalties-and-enforcement-information"]
+  linkage: none-documented
+
+# ---------------------------------------------------------------------------
+# 2026 administrative resolutions — BIS (source of record: https://www.bis.gov/enforcement)
+# ---------------------------------------------------------------------------
+
+- id: lambda-research-bis-2026-10
+  date: 2026-10-02
+  type: administrative-settlement
+  instrument: BIS settlement order
+  agencies: [BIS]
+  company: Lambda Research Corporation
+  programs: [export controls]
+  status: {announced: 2026-10-02, published: 2026-10-02, in_force: true}
+  sources: ["https://www.bis.gov/news-updates"]
+  linkage: none-documented
+  notes: "Details (amount, conduct) to be added from the BIS order."
+
+- id: container-manufacturing-bis-2026-08
+  date: 2026-08-24
+  type: administrative-settlement
+  instrument: BIS settlement order
+  agencies: [BIS]
+  company: Container Manufacturing Ltd.
+  programs: [export controls]
+  status: {announced: 2026-08-24, published: 2026-08-24, in_force: true}
+  sources: ["https://www.bis.gov/news-updates"]
+  linkage: none-documented
+  notes: "Details to be added from the BIS order."
+
+- id: plexon-bis-2026-08
+  date: 2026-08-14
+  type: administrative-settlement
+  instrument: BIS settlement order
+  agencies: [BIS]
+  company: Plexon, Inc.
+  programs: [export controls]
+  status: {announced: 2026-08-14, published: 2026-08-14, in_force: true}
+  sources: ["https://www.bis.gov/news-updates"]
+  linkage: none-documented
+  notes: "Details to be added from the BIS order."
+
+- id: bosch-bis-doj-2026-06
+  date: 2026-06-17
+  type: administrative-settlement + criminal-declination
+  instrument: BIS settlement order (16 Jun 2026) and DOJ NSD declination letter (15 Jun 2026) under the Department-wide CEP, Part I
+  agencies: [BIS, DOJ National Security Division (CES)]
+  company: Robert Bosch GmbH (Germany)
+  programs: [export controls — Entity List (Huawei), Foreign Direct Product Rule]
+  conduct: >
+    16 Sep 2020 – 26 Sep 2024: c. $72.4m of MEMS sensors, phone and automotive software,
+    foreign-produced but subject to the EAR under the FDPR, exported from abroad by two
+    non-U.S. subsidiaries to Huawei and affiliates on the Entity List without a licence;
+    109 EAR violations charged. Supplier certifications referencing the FDPR and the Seagate
+    precedent were signed without recognising the exposure; compliance team confused the
+    de minimis rule with the FDPR.
+  amounts:
+    bis_penalty_usd: 36184680
+    bis_suspended_usd: 3600000      # credited for the DOJ disgorgement
+    doj_disgorgement_usd: 11400000  # pre-tax profits; partially suspended, c. $3.6m paid
+  terms: {voluntary_self_disclosure: true, declination_part: "CEP Part I (timely VSD, full cooperation, remediation)"}
+  status: {announced: 2026-06-17, published: 2026-06-17, in_force: true}
+  sources:
+    - "https://www.bis.gov/press-release/robert-bosch-gmbh-bosch-pay-36-million-penalty-bis-violations-pertaining-shipments-huawei"
+    - "https://www.bis.gov/media/documents/robert-bosch-gmbh-final-order-6-16-2026.pdf"
+    - "https://www.globalsecurity.org/military/library/news/2026/06/mil-260617-doj01.htm"
+  secondary_sources:
+    - "https://www.sullcrom.com/insights/memo/2026/June/DOJ-Announces-First-NSD-Declination-Under-Revised-CEP"
+    - "https://www.foleyhoag.com/news-and-insights/blogs/white-collar-law-and-investigations/2026/june/bosch-and-the-foreign-direct-product-rule-lessons-for-companies-manufacturing-using-u-s-technology/"
+  linkage: none-documented
+  notes: "First NSD declination under the March 2026 CEP and DOJ's second overall (after Balt SAS, Fraud Section, 19 Mar 2026). Apparently the first DOJ action built on the FDPR. Disclosure during an ongoing internal investigation was treated as timely — the contrast case for Extreme Networks' near-miss NPA."
+
+- id: teledyne-flir-bis-2026-02
+  date: 2026-02-26
+  type: administrative-settlement
+  instrument: BIS settlement order
+  agencies: [BIS]
+  company: Teledyne FLIR LLC and affiliates incl. FLIR Optoelectronic Technology (Shanghai)
+  programs: [export controls]
+  amounts: {bis_penalty_usd: 1000000}
+  status: {announced: 2026-02-26, published: 2026-02-26, in_force: true}
+  sources: ["https://www.bis.gov/news-updates"]
+  linkage: none-documented
+
+- id: vizicom-bis-2026-02
+  date: 2026-02-25
+  type: administrative-settlement
+  instrument: BIS settlement order
+  agencies: [BIS]
+  company: Vizicom ICT
+  programs: [export controls]
+  status: {announced: 2026-02-25, published: 2026-02-25, in_force: true}
+  sources: ["https://www.bis.gov/news-updates"]
+  linkage: none-documented
+  notes: "Details to be added from the BIS order."
+
+- id: applied-materials-bis-2026-02
+  date: 2026-02-11
+  type: administrative-settlement
+  instrument: BIS settlement order with suspended three-year denial order
+  agencies: [BIS]
+  company: Applied Materials, Inc. and Applied Materials Korea, Ltd.
+  programs: [export controls — Entity List (SMIC), semiconductor manufacturing equipment]
+  conduct: >
+    2021–2022: ion implanters and other SME partially built in the U.S., shipped to Korea for
+    completion, then re-exported to SMIC (Entity-Listed since 2020) without a licence;
+    c. $126m of merchandise.
+  amounts:
+    bis_penalty_usd: 252000000   # twice transaction value — statutory maximum
+  terms: {audits: 2, annual_certifications: true, denial_order_years: 3, denial_order_suspended: true, responsible_staff_terminated: true}
+  status: {announced: 2026-02-11, published: 2026-02-11, in_force: true}
+  sources:
+    - "https://media.bis.gov/sites/default/files/documents/AMAT%20to%20Pay%20$252%20Million%20Penalty%20to%20BIS%20for%20Illegally%20Exporting%20Semiconductor%20Manufacturing%20Equipment_0.pdf"
+  secondary_sources:
+    - "https://www.arnoldporter.com/en/perspectives/advisories/2026/03/bis-announces-252-5-million-settlement-with-applied-materials-over-alleged"
+    - "https://www.kharon.com/brief/applied-materials-semiconductors-china-smic-bis-export-controls"
+  linkage: none-documented
+  notes: "Second-highest BIS civil penalty ever; statutory maximum. Suspended denial order is the operative deterrent for an export-dependent company."
+
+- id: exyte-bis-2026-01
+  date: 2026-01-07
+  type: administrative-settlement
+  instrument: BIS settlement order
+  agencies: [BIS]
+  company: Exyte Management GmbH (Germany)
+  programs: [export controls — Entity List, China, re-export requirements]
+  amounts: {bis_penalty_usd: 1500000}
+  terms: {voluntary_self_disclosure: true}
+  status: {announced: 2026-01-07, published: 2026-01-07, in_force: true}
+  sources: ["https://www.bis.gov/news-updates"]
+  secondary_sources:
+    - "https://www.torrestradelaw.com/posts/BIS%E2%80%99s-2026-Enforcement-Agenda-Takes-Shape:-Lessons-Learned-from-Exyte,-Applied-Materials,-and-Teledyne/438"
+  linkage: none-documented
+  notes: "Timely VSD credited even in a China/Entity List semiconductor matter."
+
+# ---------------------------------------------------------------------------
+# Criminal prosecutions — AI-chip diversion to China (DOJ NSD / USAOs). Charges, not
+# convictions, unless stated. Individual defendants named only as they appear in DOJ releases.
+# ---------------------------------------------------------------------------
+
+- id: earthmade-lui-indictment-2026-10
+  date: 2026-10-01
+  type: criminal-indictment
+  instrument: Three-count federal indictment; arrest 1 Oct 2026
+  agencies: [DOJ, USAO Central District of California]
+  company: Earthmade Computer Inc. (owner charged)
+  programs: [export controls — advanced computing (ECRA)]
+  conduct: 2023–2024 purchase of export-controlled servers with Nvidia GPUs (A100, H100; consumer RTX 4090/5090 also named) routed to China on false documentation; c. $300m.
+  status: {announced: 2026-10-02, published: 2026-10-02, in_force: true}
+  sources: ["https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china"]
+  linkage: none-documented
+  notes: "DOJ release URL to be added. Domestic (not transshipment-hub) diversion case."
+
+- id: supermicro-liaw-indictment-2026-03
+  date: 2026-03-19
+  type: criminal-indictment
+  instrument: Indictment unsealed S.D.N.Y.; conspiracy to violate ECRA (up to 20 years)
+  agencies: [DOJ, USAO Southern District of New York]
+  company: Super Micro Computer, Inc. (co-founder, Taiwan sales manager and a contractor charged; company not a defendant, cooperating)
+  programs: [export controls — advanced computing (ECRA)]
+  conduct: >
+    2024–2025: c. $2.5bn of server purchases tied to the scheme; at least $510m of U.S.-assembled
+    servers with Nvidia B200/H200/H100 GPUs diverted to China via a Southeast Asian intermediary
+    in Apr–May 2025 alone; thousands of "dummy" servers and staged warehouse inspections used
+    to defeat the manufacturer's own compliance checks.
+  status: {announced: 2026-03-19, published: 2026-03-19, in_force: true}
+  sources: ["https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html"]
+  linkage: none-documented
+  notes: "Largest AI-chip diversion prosecution to date. Two former logistics managers charged separately on 2 Apr 2026. Shares fell 33% on 20 Mar. Taiwan opened a parallel investigation (Keelung indictments, Aug 2026) on fraud rather than export grounds. DOJ release URL to be added."
+
+- id: huntsville-h200-indictment-2025-11
+  date: 2025-11-19
+  type: criminal-indictment
+  instrument: Indictment — ECRA conspiracy, smuggling, money laundering
+  agencies: [DOJ National Security Division, FBI]
+  company: Alabama-based electronics company (two U.S. citizens and two PRC nationals charged)
+  programs: [export controls — advanced computing (ECRA)]
+  conduct: Four exports of Nvidia GPUs to the PRC via Malaysia and Thailand on falsified paperwork and fake contracts; forfeiture sought of 50 H200 GPUs.
+  status: {announced: 2025-11-20, published: 2025-11-20, in_force: true}
+  sources: ["https://www.globalsecurity.org/intell/library/news/2025/intell-251120-doj01.htm"]
+  linkage: none-documented
+
+- id: california-h100-charges-2025-08
+  date: 2025-08-05
+  type: criminal-charges
+  instrument: Federal charges against two PRC nationals
+  agencies: [DOJ]
+  company: California-based company used to export H100 GPUs
+  programs: [export controls — advanced computing (ECRA)]
+  conduct: Tens of millions of dollars of Nvidia chips to China without licences, including a falsely labelled Dec 2024 H100 shipment.
+  status: {announced: 2025-08-05, published: 2025-08-05, in_force: true}
+  sources: ["https://www.aljazeera.com/economy/2025/8/6/us-charges-chinese-nationals-with-illegally-shipping-nvidia-chips-to-china"]
+  linkage: none-documented

@@ -30,7 +30,7 @@ Every entry includes:
 - [OFAC and Tariffs](ofac-tariffs/index.md) — where sanctions and trade remedies meet: legal framework, [case studies](ofac-tariffs/case-studies.md) (EO 14245, India, *Learning Resources*, Graham Act and waiver), [research list](ofac-tariffs/research.md)
 - [Congressional Signals](trackers/congress-signals.md) — auto-refreshed daily from the Congress.gov API (watchlist + keyword scan)
 - [Sanctions Lists](trackers/sanctions-data.md) — OFAC/BIS list statistics and new listings, daily via OpenSanctions
-- [Enforcement Actions](trackers/enforcement-actions.md) — DOJ NSD / OFAC / BIS corporate resolutions (hand-curated, primary sources)
+- [Enforcement Actions](trackers/enforcement-actions.md) — DOJ NSD / OFAC / BIS resolutions and AI-chip diversion prosecutions, 2025–26 (22 entries; hand-curated, primary sources)
 - Trackers (YAML): `trackers/signals.yaml`, `trackers/enforcement-actions.yaml`, `trackers/regulations-under-discussion.yaml`, `trackers/linkages.yaml`, `trackers/bill-watchlist.yaml`
 - Analysis — reading notes on labeled secondary commentary (Tier 3), with the primary sources each item still needs: [Sanctions Drop #18](analysis/sanctions-drop-18-democrats-take-congress.md) · [Dow Jones Risk Journal, 4 Nov 2026](analysis/dj-risk-journal-tweaks-not-major-change.md) · [Al Jazeera, 4 Nov 2026](analysis/aljazeera-democrats-win-congress.md)
 - [Daily digest](news/digest.md)
