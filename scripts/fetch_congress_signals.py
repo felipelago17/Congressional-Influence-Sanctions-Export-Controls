@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Pull congressional signals from the official Congress.gov API (v3).
 
-Two passes:
+Three passes:
+0. Chamber composition — party totals of currently seated members per chamber
+   (aggregates only; replaces provisional election-night seat counts).
 1. Watchlist — bills listed in trackers/bill-watchlist.yaml: latest action,
    sponsor party, cosponsor party counts (aggregates only, no member names).
 2. Scan — bills updated in the last N days whose title matches any keyword in
@@ -135,6 +137,47 @@ def scan_recent(keywords: list[str], days: int) -> list[dict]:
     return hits
 
 
+# Non-voting delegates / resident commissioner are excluded from House party totals.
+NON_VOTING_STATES = {
+    "District of Columbia", "Puerto Rico", "Guam", "American Samoa",
+    "Northern Mariana Islands", "Virgin Islands", "U.S. Virgin Islands",
+}
+PARTY_CODES = {"Democratic": "D", "Republican": "R", "Independent": "I"}
+
+
+def chamber_composition() -> dict:
+    """Aggregate currently seated members by chamber and party (Congress.gov member endpoint).
+
+    Returns {"House": {"D": n, "R": n, ...}, "Senate": {...}, "total": {...}}.
+    Aggregates only — no member names are retained. The party totals change
+    automatically when a new Congress is sworn in, so no manual seat-count
+    update is needed in January.
+    """
+    counts: dict[str, Counter] = {"House": Counter(), "Senate": Counter()}
+    offset = 0
+    while offset < 2000:  # hard cap
+        page = _get("member", currentMember="true", limit=250, offset=offset)
+        members = page.get("members", [])
+        for m in members:
+            terms = ((m.get("terms") or {}).get("item") or [])
+            if not terms:
+                continue
+            chamber = (terms[-1].get("chamber") or "")
+            key = "Senate" if "Senate" in chamber else "House" if "House" in chamber else None
+            if key is None:
+                continue
+            if key == "House" and (m.get("state") or "") in NON_VOTING_STATES:
+                continue
+            party = PARTY_CODES.get(m.get("partyName") or "", (m.get("partyName") or "?")[:1] or "?")
+            counts[key][party] += 1
+        if len(members) < 250:
+            break
+        offset += 250
+    out = {k: dict(sorted(v.items())) for k, v in counts.items()}
+    out["total"] = {k: sum(v.values()) for k, v in counts.items()}
+    return out
+
+
 def render_page(payload: dict) -> str:
     gen = payload["generated_at"][:16].replace("T", " ") + " UTC"
     out = [
@@ -143,6 +186,25 @@ def render_page(payload: dict) -> str:
         f"*Auto-generated {gen} from the official [Congress.gov API](https://api.congress.gov/). "
         "Aggregate party counts only — no per-member scorecards. Not legal advice.*",
         "",
+    ]
+    comp = payload.get("chamber_composition") or {}
+    if comp:
+        out += [
+            "## Chamber composition (currently seated members)",
+            "",
+            "Party totals by chamber from the Congress.gov member endpoint. Vacancies are not counted; "
+            "House totals exclude non-voting delegates. This is the Tier 1 replacement for provisional "
+            "election-night seat counts and updates automatically when a new Congress is sworn in.",
+            "",
+            "| Chamber | " + " | ".join(sorted({p for ch in ("House", "Senate") for p in comp.get(ch, {})})) + " | Seated |",
+        ]
+        parties = sorted({p for ch in ("House", "Senate") for p in comp.get(ch, {})})
+        out.append("|---|" + "---|" * (len(parties) + 1))
+        for ch in ("House", "Senate"):
+            row = [str(comp.get(ch, {}).get(p, 0)) for p in parties]
+            out.append(f"| {ch} | " + " | ".join(row) + f" | {comp.get('total', {}).get(ch, 0)} |")
+        out.append("")
+    out += [
         "## Watchlist",
         "",
         "| Bill | Title | Latest action | Sponsor | Cosponsors by party | Total |",
@@ -201,9 +263,17 @@ def main() -> int:
         print(f"  ⚠ keyword scan failed: {exc}")
         scan = []
 
+    try:
+        comp = chamber_composition()
+        print(f"  ✓ chamber composition: House {comp.get('House')}, Senate {comp.get('Senate')}")
+    except Exception as exc:  # noqa: BLE001
+        print(f"  ⚠ chamber composition failed: {exc}")
+        comp = {}
+
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "source": "https://api.congress.gov/v3",
+        "chamber_composition": comp,
         "scan_days": SCAN_DAYS,
         "keywords": keywords,
         "watchlist": watch_out,
@@ -216,7 +286,8 @@ def main() -> int:
     summary = os.environ.get("GITHUB_STEP_SUMMARY")
     if summary:
         with open(summary, "a", encoding="utf-8") as fh:
-            fh.write(f"### Congress.gov: {len(watch_out)} watchlist bills refreshed, {len(scan)} keyword hits\n")
+            fh.write(f"### Congress.gov: {len(watch_out)} watchlist bills refreshed, {len(scan)} keyword hits; "
+                     f"chamber composition {'refreshed' if comp else 'unavailable'}\n")
     return 0
 
 

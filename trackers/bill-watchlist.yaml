@@ -13,6 +13,11 @@ bills:
     congress: 119
     type: s
     number: 3519
+  - id: graham-act-hr5334-119
+    label: Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 (Public Law 119-111)
+    congress: 119
+    type: hr
+    number: 5334
 
 # Case-insensitive substrings matched against titles of bills updated in the scan window.
 keywords:
