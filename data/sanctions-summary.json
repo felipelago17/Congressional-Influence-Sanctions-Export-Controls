@@ -1,193 +1,145 @@
 {
-  "generated_at": "2026-11-04T17:50:25+00:00",
+  "generated_at": "2026-11-05T15:46:59+00:00",
   "new_days": 7,
   "datasets": [
     {
       "slug": "us_ofac_sdn",
-      "entity_count": 72670,
-      "target_count": 20456,
-      "last_change": "2026-10-28T14:10:04",
-      "last_export": "2026-11-04T16:10:04",
+      "entity_count": 72730,
+      "target_count": 20471,
+      "last_change": "2026-11-04T18:10:05",
+      "last_export": "2026-11-05T14:10:05",
       "publisher_url": "https://www.treasury.gov/",
       "new_targets": [
         {
-          "name": "ZIGAMA CREDIT AND SAVINGS SOCIETY",
+          "name": "VIHARABOATING PRIVATE LIMITED",
           "schema": "Organization",
-          "countries": "rw",
-          "first_seen": "2026-10-28",
-          "programs": "DRCONGO - Executive Order 13413 (DRC)",
-          "id": "NK-Emm2Umjnn7yetTMhsGSZYj"
+          "countries": "in",
+          "first_seen": "2026-11-04",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59064"
         },
         {
-          "name": "Yu Song Han",
+          "name": "Suniel Kumar SHARMA",
           "schema": "Person",
-          "countries": "kp;ru",
-          "first_seen": "2026-10-28",
-          "programs": "DPRK3 - Executive Order 13722 (North Korea)",
-          "id": "ofac-58883"
+          "countries": "in",
+          "first_seen": "2026-11-04",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "NK-eygXD8kh8pBRcxUG6gKj4o"
         },
         {
-          "name": "Vitold Viktorovich Obertas",
-          "schema": "Person",
-          "countries": "ru",
-          "first_seen": "2026-10-28",
-          "programs": "DPRK2 - Executive Order 13687 (North Korea)",
-          "id": "NK-6tenMf6MzFHAArXmSKofxK"
-        },
-        {
-          "name": "TXmrnVgsqCMJncYHTXchuJ5z111BXSj4g3",
-          "schema": "CryptoWallet",
-          "countries": "",
-          "first_seen": "2026-10-28",
-          "programs": "",
-          "id": "ofac-68f714d9cf6acf60c4e60a5529a8d568d204a8f9"
-        },
-        {
-          "name": "TQKoDq5aCrWAciiNtete5pDYVN38i4qFN1",
-          "schema": "CryptoWallet",
-          "countries": "",
-          "first_seen": "2026-10-28",
-          "programs": "",
-          "id": "ofac-5bba77094568f1db0cb1771e40771072d9a3fdc7"
-        },
-        {
-          "name": "TQCBdU4K92oxLAkzwexZpqVZJhmPbtLYMm",
-          "schema": "CryptoWallet",
-          "countries": "",
-          "first_seen": "2026-10-28",
-          "programs": "",
-          "id": "ofac-b3c8d280c4ffe748386e81228126f906be287900"
-        },
-        {
-          "name": "TFksjBcHPYqgAax2USheQuaT1ydRKyZRdg",
-          "schema": "CryptoWallet",
-          "countries": "",
-          "first_seen": "2026-10-28",
-          "programs": "",
-          "id": "ofac-c3713757dfa7d84a0a59f7c0f6c618893773ae2b"
-        },
-        {
-          "name": "TCV4qdpTxoMyqkn7sSPeRrXmhH5JFxMvmT",
-          "schema": "CryptoWallet",
-          "countries": "",
-          "first_seen": "2026-10-28",
-          "programs": "",
-          "id": "ofac-b048c8ff7829ebf1324ebd1e2d01a087889242c9"
-        },
-        {
-          "name": "Sung Gwan Kim",
-          "schema": "Person",
-          "countries": "kp;ru",
-          "first_seen": "2026-10-28",
-          "programs": "DPRK3 - Executive Order 13722 (North Korea)",
-          "id": "ofac-58884"
-        },
-        {
-          "name": "Se Il Hyon",
-          "schema": "Person",
-          "countries": "kp;ru",
-          "first_seen": "2026-10-28",
-          "programs": "DPRK3 - Executive Order 13722 (North Korea)",
-          "id": "ofac-58885"
-        },
-        {
-          "name": "Ministry of Defence of the Republic of Rwanda",
+          "name": "PRECEPT TRENDS PRIVATE LIMITED",
           "schema": "Organization",
-          "countries": "rw",
-          "first_seen": "2026-10-28",
-          "programs": "DRCONGO - Executive Order 13413 (DRC)",
-          "id": "ofac-59069"
+          "countries": "in",
+          "first_seen": "2026-11-04",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59059"
         },
         {
-          "name": "Kyong Ju Kim",
-          "schema": "Person",
-          "countries": "kp;ru",
-          "first_seen": "2026-10-28",
-          "programs": "DPRK3 - Executive Order 13722 (North Korea)",
-          "id": "ofac-58880"
-        },
-        {
-          "name": "Ki Hyok Kim",
-          "schema": "Person",
-          "countries": "kp;ru",
-          "first_seen": "2026-10-28",
-          "programs": "DPRK2 - Executive Order 13687 (North Korea)",
-          "id": "NK-Sn8kqchhNExsXM3fh5RNR2"
-        },
-        {
-          "name": "Ilya Aleksandrovich Boykov",
-          "schema": "Person",
-          "countries": "ru",
-          "first_seen": "2026-10-28",
-          "programs": "DPRK2 - Executive Order 13687 (North Korea)",
-          "id": "NK-VFkcSKw4NQBayyXsDFXkae"
-        },
-        {
-          "name": "Hyong Jin So",
-          "schema": "Person",
-          "countries": "kp;ru",
-          "first_seen": "2026-10-28",
-          "programs": "DPRK3 - Executive Order 13722 (North Korea)",
-          "id": "ofac-58882"
-        },
-        {
-          "name": "Hyo Dong Kim",
-          "schema": "Person",
-          "countries": "kp;la;ru",
-          "first_seen": "2026-10-28",
-          "programs": "DPRK2 - Executive Order 13687 (North Korea)",
-          "id": "NK-7Gmd4kD3tSMbW5BBDkUWAy"
-        },
-        {
-          "name": "FIRST FINANCIAL AND TECHNICAL DEVELOPMENT CENTER",
+          "name": "POLYNESIA MARITIME PRIVATE LIMITED",
           "schema": "Organization",
-          "countries": "kp;ru",
-          "first_seen": "2026-10-28",
-          "programs": "DPRK3 - Executive Order 13722 (North Korea)",
-          "id": "ofac-58879"
+          "countries": "in",
+          "first_seen": "2026-11-04",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59060"
         },
         {
-          "name": "0xE4C9a7F68B1EbA4508f54f07f7378847318dD1A3",
-          "schema": "CryptoWallet",
-          "countries": "",
-          "first_seen": "2026-10-28",
-          "programs": "",
-          "id": "ofac-ce6135fc9086f133012d043f1eaacbf7723eeb2f"
+          "name": "OCEANIEK TECHNOLOGIES INDIA",
+          "schema": "Organization",
+          "countries": "in",
+          "first_seen": "2026-11-04",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59055"
         },
         {
-          "name": "0x761edd5e4546229a0bd35ae99b4d3d01cf4a3510",
-          "schema": "CryptoWallet",
-          "countries": "",
-          "first_seen": "2026-10-28",
-          "programs": "",
-          "id": "ofac-540f8cfce148e9e4127d61f71de9bc15d402b35f"
+          "name": "Jaspreet Preeti SHAHID",
+          "schema": "Person",
+          "countries": "in",
+          "first_seen": "2026-11-04",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59054"
         },
         {
-          "name": "0x761edd5e4546229a0bd35ae99b4d3d01cf4a3510",
-          "schema": "CryptoWallet",
-          "countries": "",
-          "first_seen": "2026-10-28",
-          "programs": "",
-          "id": "ofac-64b5fc014d4a169cab96ed664d2218827666a5cb"
+          "name": "Ishwinder SINGH",
+          "schema": "Person",
+          "countries": "in",
+          "first_seen": "2026-11-04",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59057"
         },
         {
-          "name": "0x12Ea80238C7d805D003ce793594e92d84A6f4E8d",
-          "schema": "CryptoWallet",
-          "countries": "",
-          "first_seen": "2026-10-28",
-          "programs": "",
-          "id": "ofac-b3e5902fcdd3273bd1126245d4c287180547cf00"
+          "name": "FUGO YER HİZMETLERİ ANONİM ŞİRKETİ",
+          "schema": "Organization",
+          "countries": "tr",
+          "first_seen": "2026-11-04",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59050"
+        },
+        {
+          "name": "ESWATINI MARITIME AFFAIRS AND INTERNATIONAL SHIP REGISTRY PTE. LTD.",
+          "schema": "Organization",
+          "countries": "sg",
+          "first_seen": "2026-11-04",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59058"
+        },
+        {
+          "name": "Ashwani Kumar DHIMAN",
+          "schema": "Person",
+          "countries": "in",
+          "first_seen": "2026-11-04",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59056"
+        },
+        {
+          "name": "Alisher Domullodzhanov",
+          "schema": "Person",
+          "countries": "ru;tj",
+          "first_seen": "2026-11-04",
+          "programs": "IRAN-CON-ARMS-EO - Executive Order - Convential Arms (Iran)",
+          "id": "ofac-59090"
+        },
+        {
+          "name": "ARYAVART SHIP MANAGEMENT PRIVATE LIMITED",
+          "schema": "Organization",
+          "countries": "in",
+          "first_seen": "2026-11-04",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59063"
+        },
+        {
+          "name": "ARYAVART MARITIME AND EDUCATIONAL TRUST",
+          "schema": "Organization",
+          "countries": "in",
+          "first_seen": "2026-11-04",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59065"
+        },
+        {
+          "name": "ALEXARYA MEDIA AND ENTERTAINMENT PRIVATE LIMITED",
+          "schema": "Organization",
+          "countries": "in",
+          "first_seen": "2026-11-04",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59062"
+        },
+        {
+          "name": "ALEXARYA FINSERV PRIVATE LIMITED",
+          "schema": "Organization",
+          "countries": "in",
+          "first_seen": "2026-11-04",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59061"
         }
       ],
-      "new_target_count": 21,
+      "new_target_count": 15,
       "label": "OFAC Specially Designated Nationals (SDN)"
     },
     {
       "slug": "us_ofac_cons",
       "entity_count": 2064,
       "target_count": 716,
-      "last_change": "2026-10-21T14:35:05",
-      "last_export": "2026-11-04T16:35:04",
+      "last_change": "2026-11-04T18:36:35",
+      "last_export": "2026-11-05T14:35:05",
       "publisher_url": "https://www.treasury.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -196,9 +148,9 @@
     {
       "slug": "us_bis_denied",
       "entity_count": 876,
-      "target_count": 375,
-      "last_change": "2026-11-04T08:57:07",
-      "last_export": "2026-11-04T16:57:05",
+      "target_count": 374,
+      "last_change": "2026-11-05T00:57:08",
+      "last_export": "2026-11-05T08:57:05",
       "publisher_url": "https://www.bis.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -206,110 +158,134 @@
     },
     {
       "slug": "us_trade_csl",
-      "entity_count": 30580,
-      "target_count": 24310,
-      "last_change": "2026-10-28T15:53:04",
-      "last_export": "2026-11-04T15:53:06",
+      "entity_count": 30595,
+      "target_count": 24325,
+      "last_change": "2026-11-04T18:54:47",
+      "last_export": "2026-11-05T12:56:24",
       "publisher_url": "https://www.trade.gov/",
       "new_targets": [
         {
-          "name": "ZIGAMA CREDIT AND SAVINGS SOCIETY",
+          "name": "VIHARABOATING PRIVATE LIMITED",
           "schema": "Organization",
           "countries": "",
-          "first_seen": "2026-10-28",
+          "first_seen": "2026-11-04",
           "programs": "",
-          "id": "NK-Emm2Umjnn7yetTMhsGSZYj"
+          "id": "ofac-59064"
         },
         {
-          "name": "SO, Hyong Jin",
+          "name": "SINGH, Ishwinder",
           "schema": "Person",
           "countries": "",
-          "first_seen": "2026-10-28",
+          "first_seen": "2026-11-04",
           "programs": "",
-          "id": "ofac-58882"
+          "id": "ofac-59057"
         },
         {
-          "name": "OBERTAS, Vitold Viktorovich",
+          "name": "SHARMA, Suniel Kumar",
           "schema": "Person",
           "countries": "",
-          "first_seen": "2026-10-28",
+          "first_seen": "2026-11-04",
           "programs": "",
-          "id": "NK-6tenMf6MzFHAArXmSKofxK"
+          "id": "NK-eygXD8kh8pBRcxUG6gKj4o"
         },
         {
-          "name": "MINISTRY OF DEFENCE OF THE REPUBLIC OF RWANDA",
+          "name": "SHAHID, Jaspreet Preeti",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-04",
+          "programs": "",
+          "id": "ofac-59054"
+        },
+        {
+          "name": "PRECEPT TRENDS PRIVATE LIMITED",
           "schema": "Organization",
           "countries": "",
-          "first_seen": "2026-10-28",
+          "first_seen": "2026-11-04",
           "programs": "",
-          "id": "ofac-59069"
+          "id": "ofac-59059"
         },
         {
-          "name": "KIM, Sung Gwan",
-          "schema": "Person",
-          "countries": "",
-          "first_seen": "2026-10-28",
-          "programs": "",
-          "id": "ofac-58884"
-        },
-        {
-          "name": "KIM, Kyong Ju",
-          "schema": "Person",
-          "countries": "",
-          "first_seen": "2026-10-28",
-          "programs": "",
-          "id": "ofac-58880"
-        },
-        {
-          "name": "KIM, Ki Hyok",
-          "schema": "Person",
-          "countries": "",
-          "first_seen": "2026-10-28",
-          "programs": "",
-          "id": "NK-Sn8kqchhNExsXM3fh5RNR2"
-        },
-        {
-          "name": "KIM, Hyo Dong",
-          "schema": "Person",
-          "countries": "",
-          "first_seen": "2026-10-28",
-          "programs": "",
-          "id": "NK-7Gmd4kD3tSMbW5BBDkUWAy"
-        },
-        {
-          "name": "HYON, Se Il",
-          "schema": "Person",
-          "countries": "",
-          "first_seen": "2026-10-28",
-          "programs": "",
-          "id": "ofac-58885"
-        },
-        {
-          "name": "HAN, Yu Song",
-          "schema": "Person",
-          "countries": "",
-          "first_seen": "2026-10-28",
-          "programs": "",
-          "id": "ofac-58883"
-        },
-        {
-          "name": "FIRST FINANCIAL AND TECHNICAL DEVELOPMENT CENTER",
+          "name": "POLYNESIA MARITIME PRIVATE LIMITED",
           "schema": "Organization",
           "countries": "",
-          "first_seen": "2026-10-28",
+          "first_seen": "2026-11-04",
           "programs": "",
-          "id": "ofac-58879"
+          "id": "ofac-59060"
         },
         {
-          "name": "BOYKOV, Ilya Aleksandrovich",
+          "name": "OCEANIEK TECHNOLOGIES INDIA",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-04",
+          "programs": "",
+          "id": "ofac-59055"
+        },
+        {
+          "name": "FUGO GROUND SERVICES INC",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-04",
+          "programs": "",
+          "id": "ofac-59050"
+        },
+        {
+          "name": "ESWATINI MARITIME AFFAIRS AND INTERNATIONAL SHIP REGISTRY PTE. LTD.",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-04",
+          "programs": "",
+          "id": "ofac-59058"
+        },
+        {
+          "name": "DOMULLODZHANOV, Alisher",
           "schema": "Person",
           "countries": "",
-          "first_seen": "2026-10-28",
+          "first_seen": "2026-11-04",
           "programs": "",
-          "id": "NK-VFkcSKw4NQBayyXsDFXkae"
+          "id": "ofac-59090"
+        },
+        {
+          "name": "DHIMAN, Ashwani Kumar",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-04",
+          "programs": "",
+          "id": "ofac-59056"
+        },
+        {
+          "name": "ARYAVART SHIP MANAGEMENT PRIVATE LIMITED",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-04",
+          "programs": "",
+          "id": "ofac-59063"
+        },
+        {
+          "name": "ARYAVART MARITIME AND EDUCATIONAL TRUST",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-04",
+          "programs": "",
+          "id": "ofac-59065"
+        },
+        {
+          "name": "ALEXARYA MEDIA AND ENTERTAINMENT PRIVATE LIMITED",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-04",
+          "programs": "",
+          "id": "ofac-59062"
+        },
+        {
+          "name": "ALEXARYA FINSERV PRIVATE LIMITED",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-04",
+          "programs": "",
+          "id": "ofac-59061"
         }
       ],
-      "new_target_count": 12,
+      "new_target_count": 15,
       "label": "Consolidated Screening List (Commerce/State/Treasury)"
     }
   ]
