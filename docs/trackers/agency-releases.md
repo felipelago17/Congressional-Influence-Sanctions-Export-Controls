@@ -1,6 +1,6 @@
 # Agency enforcement releases (DOJ · BIS · OFAC)
 
-*Auto-generated 2026-11-05 04:55 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
+*Auto-generated 2026-11-05 15:49 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
 
 Sources reachable this run: DOJ RSS (25), BIS (51), OFAC (64)
 
@@ -26,7 +26,10 @@ Keywords: `sanction`, `export control`, `export administration`, `entity list`, 
 
 | Date | Agency | Title | Matched |
 |---|---|---|---|
-| 2026-11-04 | DOJ | [Baltimore Man Indicted in Connection With Counterfeit Money Scheme](https://www.justice.gov/usao-md/pr/baltimore-man-indicted-connection-counterfeit-money-scheme) | indict |
+| 2026-11-05 | DOJ | [Homeland Security Task Force Investigation Leads to Multi-Defendant Indictment for Gold Bar Scheme to Defraud Elderly Victims](https://www.justice.gov/usao-ndfl/pr/homeland-security-task-force-investigation-leads-multi-defendant-indictment-gold-bar) | indict |
+| 2026-11-04 | DOJ | [Warm Springs Man Indicted for Assaulting Two Children and Strangling Intimate Partner on Warm Springs Reservation](https://www.justice.gov/usao-or/pr/warm-springs-man-indicted-assaulting-two-children-and-strangling-intimate-partner-warm) | indict |
+| 2026-11-04 | DOJ | [California woman indicted for disrupting flight causing a diversion to Wichita](https://www.justice.gov/usao-ks/pr/california-woman-indicted-disrupting-flight-causing-diversion-wichita) | indict |
+| 2026-11-04 | DOJ | [Former BCSO Officer Indicted in Federal DWI Corruption Investigation](https://www.justice.gov/usao-nm/pr/former-bcso-officer-indicted-federal-dwi-corruption-investigation) | indict |
 | 2026-11-04 | OFAC | [Iran-related Designations; Updates to Certain Iran-related Listings; Publication of Iran-related OFAC Alert; Issuance of Amended Venezuela-related General License and Frequently Asked Question](https://ofac.treasury.gov/recent-actions/20261104) | ofac, iran, general license |
 | 2026-10-29 | OFAC | [Issuance of Amended Iran-related General License](https://ofac.treasury.gov/recent-actions/20261029) | iran, general license |
 | 2026-10-28 | OFAC | [North Korea Designations; Democratic Republic of the Congo-related Designations](https://ofac.treasury.gov/recent-actions/20261028) | north korea |
