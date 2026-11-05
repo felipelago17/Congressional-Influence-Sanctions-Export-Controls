@@ -77,6 +77,32 @@ def _bill_url(congress: int, btype: str, number: int) -> str:
     return f"https://www.congress.gov/bill/{congress}th-congress/{names.get(btype, btype)}/{number}"
 
 
+def fetch_recorded_votes(c: int, t: str, n: int) -> list[dict]:
+    """Recorded (roll-call) votes attached to a bill's actions. Aggregates only:
+    chamber, date, roll number, the action text, and the official roll-call URL
+    (House Clerk / Senate.gov), from which party breakdowns can be read."""
+    votes: list[dict] = []
+    offset = 0
+    while offset < 1000:
+        page = _get(f"bill/{c}/{t}/{n}/actions", limit=250, offset=offset)
+        actions = page.get("actions", [])
+        for a in actions:
+            for rv in a.get("recordedVotes") or []:
+                votes.append({
+                    "chamber": rv.get("chamber"),
+                    "date": (rv.get("date") or "")[:10],
+                    "roll_number": rv.get("rollNumber"),
+                    "session": rv.get("sessionNumber"),
+                    "action": a.get("text"),
+                    "url": rv.get("url"),
+                })
+        if len(actions) < 250:
+            break
+        offset += 250
+    votes.sort(key=lambda v: (v["date"] or "", str(v["roll_number"])))
+    return votes
+
+
 def fetch_watch_bill(entry: dict) -> dict:
     c, t, n = int(entry["congress"]), str(entry["type"]).lower(), int(entry["number"])
     bill = _get(f"bill/{c}/{t}/{n}").get("bill", {})
@@ -89,7 +115,9 @@ def fetch_watch_bill(entry: dict) -> dict:
             break
         offset += 250
     la = bill.get("latestAction") or {}
+    votes = fetch_recorded_votes(c, t, n)
     return {
+        "recorded_votes": votes,
         "id": entry.get("id") or f"{t}{n}-{c}",
         "label": entry.get("label") or bill.get("title"),
         "congress": c,
@@ -215,6 +243,21 @@ def render_page(payload: dict) -> str:
         cp = ", ".join(f"{k} {v}" for k, v in b["cosponsor_party_counts"].items()) or "—"
         la = f"{b.get('latest_action_date') or ''} — {b.get('latest_action') or ''}".strip(" —")
         out.append(f"| [{b['number']}]({b['url']}) ({b['congress']}th) | {b.get('title') or ''} | {la} | {sp} | {cp} | {b['cosponsor_total']} |")
+    any_votes = [b for b in payload["watchlist"] if b.get("recorded_votes")]
+    if any_votes:
+        out += [
+            "",
+            "### Recorded votes on watchlist bills",
+            "",
+            "Roll-call links are the Tier 1 source for party breakdowns; the repository records chamber totals only, never per-member positions.",
+            "",
+            "| Bill | Chamber | Date | Roll | Action | Roll call |",
+            "|---|---|---|---|---|---|",
+        ]
+        for b in any_votes:
+            for v in b["recorded_votes"]:
+                link = f"[{v['roll_number']}]({v['url']})" if v.get("url") else str(v.get("roll_number") or "")
+                out.append(f"| {b['number']} | {v.get('chamber') or ''} | {v.get('date') or ''} | {v.get('roll_number') or ''} | {(v.get('action') or '')[:120]} | {link} |")
     out += [
         "",
         f"## Keyword scan — bills updated in the last {payload['scan_days']} days",

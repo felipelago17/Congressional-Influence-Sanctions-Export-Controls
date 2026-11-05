@@ -1,0 +1,37 @@
+name: Federal Register Presidential Documents
+
+on:
+  schedule:
+    - cron: '35 7 * * *'   # daily 07:35 UTC, after the Congress.gov job
+  workflow_dispatch:
+  push:
+    paths:
+      - 'trackers/presidential-documents.yaml'
+      - 'scripts/fetch_federal_register.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-updates
+  cancel-in-progress: false
+
+jobs:
+  presidential-documents:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pyyaml
+      - name: Fetch presidential documents
+        run: python scripts/fetch_federal_register.py
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A -- data docs/trackers 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "data: presidential documents $(date -u +%Y-%m-%d)"
+          git pull --rebase -X theirs origin main
+          git push
