@@ -7,9 +7,9 @@
   notes: "No inference drawn. Bill has passed the House; no corresponding final rule yet."
 
 - signal: graham-act-hr5334-119
-  action: "Executive Order of 16 October 2026 implementing Pub. L. 119-111 (rates set under §§112–113; waived under §115)"
+  action: "Executive Order 14436 of 16 October 2026 (91 FR 66627) implementing Pub. L. 119-111 (rates set under §§112–113; waived under §115)"
   grade: statutory-mandate
   evidence:
     - "https://www.congress.gov/bill/119th-congress/house-bill/5334"
-    - "Executive Order of 16 October 2026 (Federal Register citation to be added)"
-  notes: "The statute directs the tariffs and sanctions on a 30-day clock and itself supplies the waiver authority (§115, with certification and report to Congress). Both the implementation and the waiver are exercises of the statutory mandate. Primary EO citation pending; grade is supported by the enacted statute and the EO as summarised by practitioners."
+    - "https://www.federalregister.gov/documents/2026/10/21/2026-21599/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026"
+  notes: "The statute directs the tariffs and sanctions on a 30-day clock and itself supplies the waiver authority (§115, with certification and report to Congress). Both the implementation and the waiver are exercises of the statutory mandate. Evidence: enacted statute (Congress.gov) and the EO in the Federal Register."

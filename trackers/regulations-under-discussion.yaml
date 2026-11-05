@@ -18,9 +18,9 @@
   scheduled_effective: 2026-10-18   # trigger date for new purchases under the implementing EO
   announced_extension_to: null
   published_extension: null
-  in_force: false                   # waived under §115 by the implementing EO of 16 Oct 2026; waivers open-ended
+  in_force: false                   # waived under §115 by EO 14436 of 16 Oct 2026 (91 FR 66627); waivers open-ended
   sources:
     - "https://www.congress.gov/bill/119th-congress/house-bill/5334"
-    - "Executive Order of 16 October 2026, Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 (Federal Register citation to be added)"
+    - "https://www.federalregister.gov/documents/2026/10/21/2026-21599/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026"
     - "https://www.swlaw.com/publication/executive-order-implements-and-immediately-waives-new-graham-act-sanctions-and-tariffs-targeting-russia/"
   notes: "Rates set in EO §2 and waived in EO §4 on the same day. Published and set, not in force. USTR top-5 determinations (every 180 days) moot while waived. See docs/ofac-tariffs/case-studies.md."

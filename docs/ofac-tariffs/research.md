@@ -9,8 +9,10 @@ Curated reading list for the [OFAC and Tariffs](index.md) section. Tiered per th
 | *Learning Resources, Inc. v. Trump*, No. 24-1287 (U.S. 20 Feb 2026) — [Justia](https://supreme.justia.com/cases/federal/us/607/24-1287/) · [Cornell LII](https://www.law.cornell.edu/supremecourt/text/24-1287) | The holding and the three concurrences/dissent. Read Kagan's concurrence for the non-major-questions route to the same result, and the dissent's quota point for where the doctrine goes next. |
 | Pub. L. 119-111, *Lindsey O. Graham Sanctioning Russia and Iran Act of 2026* — [H.R. 5334 on Congress.gov](https://www.congress.gov/bill/119th-congress/house-bill/5334) | Sections 102–113 (mandates), 115 (waiver), 117 (termination). The statutory text is the only authoritative source for the rates and clocks. |
 | Executive Order 14245, *Imposing Tariffs on Countries Importing Venezuelan Oil*, 90 FR 13829 — [GovInfo](https://www.govinfo.gov/link/cpd/executiveorder/14245) | The first "secondary tariff" instrument; useful for the definitions of "indirectly" and the 180-day review design later echoed in the Graham Act. |
-| Executive Order of 16 October 2026, *Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026* — Federal Register citation to be added | Sets and waives the Graham Act tariffs in one instrument. Needed for the `statutory-mandate` linkage. |
+| Executive Order 14436, *Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026*, 91 FR 66627 (21 Oct 2026) — [Federal Register](https://www.federalregister.gov/documents/2026/10/21/2026-21599/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026) | Sets and waives the Graham Act tariffs in one instrument. Needed for the `statutory-mandate` linkage. |
 | CRS Legal Sidebar LSB11398, *Supreme Court Rules Against Tariffs Imposed Under IEEPA* (2026) — [congress.gov](https://www.congress.gov/crs-product/LSB11398) | Non-partisan summary of the holding, the administration's response (end of IEEPA duties; continued *de minimis* suspension under IEEPA), and the surviving statutory routes (Sections 122, 232, 301, 338). congress.gov blocks automated retrieval; open directly. |
+| Executive Order 14329, *Addressing Threats to the United States by the Government of the Russian Federation*, 90 FR 38701 (11 Aug 2025) — [Federal Register](https://www.federalregister.gov/documents/2025/08/11/2025-15267/addressing-threats-to-the-united-states-by-the-government-of-the-russian-federation) | The only secondary tariff actually imposed under IEEPA; withdrawn 6 Feb 2026. |
+| Executive Order 14389, *Ending Certain Tariff Actions*, 91 FR 9437 (25 Feb 2026) — [Federal Register](https://www.federalregister.gov/documents/2026/02/25/2026-03832/ending-certain-tariff-actions) | Ends IEEPA tariff collection after *Learning Resources*; note what it keeps (de minimis suspension). |
 | OFAC General License 135 (Russian diesel) — OFAC URL to be added | The licence that operationalises the October 2026 diesel arrangement; target of two reported House proposals. |
 
 ## Tier 2 — official secondary
@@ -71,8 +73,9 @@ Curated reading list for the [OFAC and Tariffs](index.md) section. Tiered per th
 
 ## Gaps to fill (Tier 1)
 
-- [ ] Federal Register citation for the 6 August 2025 India executive order.
-- [ ] Federal Register citation for the 16 October 2026 Graham Act implementing EO.
+- [x] India executive order — EO 14329, 90 FR 38701 (resolved via the [presidential-documents tracker](../trackers/presidential-documents.md)).
+- [x] Graham Act implementing EO — EO 14436, 91 FR 66627 (resolved).
+- [x] Post-ruling tariff EO — EO 14389, *Ending Certain Tariff Actions*, 91 FR 9437 (resolved).
 - [ ] OFAC General License 135 URL and text.
-- [ ] Congress.gov roll-call links for the Graham Act (Senate July 2026; House) — resolve the 86–11 / 86–12 discrepancy.
+- [x] Roll calls — Senate 212/213 (28–29 Jul, procedural; 86–12 reported for 213) and 224 (7 Aug, passage; 86–11); House 308 (16 Sep). Links on the [Congressional Signals](../trackers/congress-signals.md) page. Discrepancy resolved: different votes.
 - [ ] Congress.gov entries for the two House proposals targeting §115 waivers / GL 135.

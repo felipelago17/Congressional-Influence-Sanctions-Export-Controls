@@ -41,7 +41,7 @@ Every entry includes:
 |------|--------|
 | BIS Affiliates Rule | Formal reimposition still scheduled for 10 November 2026. Extension to 10 January 2027 announced; no implementing Federal Register notice yet. |
 | Remote Access Security Act (H.R. 2683) | Passed House 369-22 on 12 January 2026. Referred to Senate Banking. 119th Congress ends 3 January 2027. |
-| Graham Act (Pub. L. 119-111) | Enacted 18 September 2026. Tariffs and new sanctions set by EO of 16 October 2026 and waived the same day under §115; waivers open-ended. `statutory-mandate` linkage recorded. |
+| Graham Act (Pub. L. 119-111) | Enacted 18 September 2026. Tariffs and new sanctions set by EO of 16 October 2026 and waived the same day under §115 (EO 14436, 91 FR 66627); waivers open-ended. `statutory-mandate` linkage recorded. |
 | IEEPA tariffs | Foreclosed by *Learning Resources v. Trump* (20 February 2026). Sanctions powers under IEEPA unaffected. |
 
 ## Methodology
