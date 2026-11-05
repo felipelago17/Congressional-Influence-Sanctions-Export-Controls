@@ -1,12 +1,11 @@
 {
-  "generated_at": "2026-11-05T04:53:21+00:00",
+  "generated_at": "2026-11-05T04:55:17+00:00",
   "sources_ok": [
+    "DOJ RSS (25)",
     "BIS (51)",
     "OFAC (64)"
   ],
-  "sources_failed": [
-    "DOJ RSS"
-  ],
+  "sources_failed": [],
   "keywords": [
     "sanction",
     "export control",
@@ -154,6 +153,15 @@
     }
   ],
   "scan": [
+    {
+      "agency": "DOJ",
+      "title": "Baltimore Man Indicted in Connection With Counterfeit Money Scheme",
+      "url": "https://www.justice.gov/usao-md/pr/baltimore-man-indicted-connection-counterfeit-money-scheme",
+      "date": "2026-11-04",
+      "matched_keywords": [
+        "indict"
+      ]
+    },
     {
       "agency": "BIS",
       "title": "BIS Reaches Administrative Enforcement Settlement with Lambda Research Corporation",
