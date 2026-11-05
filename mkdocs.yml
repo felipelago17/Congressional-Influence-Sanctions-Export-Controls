@@ -25,6 +25,7 @@ nav:
   - Trackers:
       - Congressional Signals (Congress.gov): trackers/congress-signals.md
       - Presidential Documents (Federal Register): trackers/presidential-documents.md
+      - Agency Enforcement Releases (DOJ/BIS/OFAC): trackers/agency-releases.md
       - Sanctions Lists (OpenSanctions): trackers/sanctions-data.md
       - Enforcement Actions: trackers/enforcement-actions.md
   - Analysis:

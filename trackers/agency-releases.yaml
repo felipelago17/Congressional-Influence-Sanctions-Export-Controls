@@ -1,0 +1,79 @@
+# Official DOJ / BIS / OFAC releases to resolve (scripts/fetch_agency_releases.py).
+# Add a target when an enforcement-actions.yaml entry lacks an official URL.
+# title_keywords: all must appear in the title (case-insensitive); title_any: at least one.
+# search: query for the DOJ press-release search page when the RSS window is too short.
+
+targets:
+  - id: supermicro-liaw-indictment-2026-03
+    label: DOJ press release — Supermicro-linked AI server diversion indictment (S.D.N.Y., 19 Mar 2026)
+    agency: DOJ
+    title_any: [super micro, supermicro, liaw, servers housing]
+    search: Super Micro servers China indictment
+
+  - id: earthmade-lui-indictment-2026-10
+    label: DOJ press release — Earthmade Computer / Lui indictment (C.D. Cal., Oct 2026)
+    agency: DOJ
+    title_any: [earthmade, lui, san gabriel]
+    search: Earthmade servers China export
+
+  - id: lambda-research-bis-2026-10
+    label: BIS order — Lambda Research Corporation
+    agency: BIS
+    title_keywords: [lambda research]
+
+  - id: container-manufacturing-bis-2026-08
+    label: BIS order — Container Manufacturing Ltd.
+    agency: BIS
+    title_keywords: [container manufacturing]
+
+  - id: plexon-bis-2026-08
+    label: BIS order — Plexon, Inc.
+    agency: BIS
+    title_keywords: [plexon]
+
+  - id: coastal-pva-bis-2026-04
+    label: BIS order — Coastal PVA Technology, Inc.
+    agency: BIS
+    title_keywords: [coastal pva]
+
+  - id: solventum-bis-2026-03
+    label: BIS order — Solventum Corporation
+    agency: BIS
+    title_keywords: [solventum]
+
+  - id: vizicom-bis-2026-02
+    label: BIS order — Vizicom ICT
+    agency: BIS
+    title_keywords: [vizicom]
+
+  - id: bulgarian-national-sentenced-2026-02
+    label: BIS/DOJ — Bulgarian national sentenced, microelectronics to Russia (Austin, 19 Feb 2026)
+    agency: BIS
+    title_keywords: [bulgarian]
+
+# Case-insensitive substrings matched against release titles.
+keywords:
+  - sanction
+  - export control
+  - export administration
+  - entity list
+  - foreign direct product
+  - smuggl
+  - nvidia
+  - gpu
+  - semiconductor
+  - chips
+  - huawei
+  - smic
+  - ofac
+  - settlement
+  - penalty
+  - non-prosecution
+  - declination
+  - indict
+  - russia
+  - iran
+  - china
+  - north korea
+  - general license
+  - 50 percent

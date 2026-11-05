@@ -1,0 +1,37 @@
+name: Agency Enforcement Releases
+
+on:
+  schedule:
+    - cron: '50 7 * * *'   # daily 07:50 UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - 'trackers/agency-releases.yaml'
+      - 'scripts/fetch_agency_releases.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-updates
+  cancel-in-progress: false
+
+jobs:
+  agency-releases:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pyyaml
+      - name: Fetch agency releases
+        run: python scripts/fetch_agency_releases.py
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A -- data docs/trackers 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "data: agency releases $(date -u +%Y-%m-%d)"
+          git pull --rebase -X theirs origin main
+          git push
