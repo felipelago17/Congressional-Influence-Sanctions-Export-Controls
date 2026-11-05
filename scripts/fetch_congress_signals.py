@@ -99,8 +99,17 @@ def fetch_recorded_votes(c: int, t: str, n: int) -> list[dict]:
         if len(actions) < 250:
             break
         offset += 250
-    votes.sort(key=lambda v: (v["date"] or "", str(v["roll_number"])))
-    return votes
+    # The same roll call can be attached to more than one action record; keep one.
+    seen: set = set()
+    uniq: list[dict] = []
+    for v in votes:
+        key = (v["chamber"], v["date"], v["roll_number"])
+        if key in seen:
+            continue
+        seen.add(key)
+        uniq.append(v)
+    uniq.sort(key=lambda v: (v["date"] or "", str(v["roll_number"])))
+    return uniq
 
 
 def fetch_watch_bill(entry: dict) -> dict:

@@ -38,9 +38,8 @@ PAGE_OUT = ROOT / "docs" / "trackers" / "presidential-documents.md"
 API = "https://www.federalregister.gov/api/v1/documents.json"
 TIMEOUT = 30
 FIELDS = [
-    "document_number", "title", "type", "presidential_document_type", "subtype",
-    "executive_order_number", "signing_date", "publication_date", "citation",
-    "html_url", "pdf_url", "president",
+    "document_number", "title", "type", "subtype", "executive_order_number",
+    "signing_date", "publication_date", "citation", "html_url", "pdf_url",
 ]
 
 
@@ -147,7 +146,7 @@ def render_page(payload: dict) -> str:
     if payload["scan"]:
         out += ["| Signed | Type | EO No. | FR citation | Title | Matched |", "|---|---|---|---|---|---|"]
         for d in payload["scan"]:
-            typ = d.get("presidential_document_type") or d.get("type") or ""
+            typ = d.get("subtype") or d.get("type") or ""
             out.append(f"| {d.get('signing_date') or d.get('publication_date') or ''} | {typ} | {d.get('executive_order_number') or '—'} | "
                        f"[{d.get('citation') or d.get('document_number')}]({d.get('html_url')}) | {d.get('title') or ''} | {', '.join(d.get('matched_keywords', []))} |")
     else:
