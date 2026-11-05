@@ -22,6 +22,8 @@ nav:
       - Congressional Signals (Congress.gov): trackers/congress-signals.md
       - Sanctions Lists (OpenSanctions): trackers/sanctions-data.md
       - Enforcement Actions: trackers/enforcement-actions.md
+  - Analysis:
+      - "Sanctions Drop #18 — Democrats take Congress (Nov 2026)": analysis/sanctions-drop-18-democrats-take-congress.md
   - News:
       - Daily Digest: news/digest.md
 plugins:

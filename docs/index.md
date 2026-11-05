@@ -31,6 +31,7 @@ Every entry includes:
 - [Sanctions Lists](trackers/sanctions-data.md) — OFAC/BIS list statistics and new listings, daily via OpenSanctions
 - [Enforcement Actions](trackers/enforcement-actions.md) — DOJ NSD / OFAC / BIS corporate resolutions (hand-curated, primary sources)
 - Trackers (YAML): `trackers/signals.yaml`, `trackers/enforcement-actions.yaml`, `trackers/regulations-under-discussion.yaml`, `trackers/linkages.yaml`, `trackers/bill-watchlist.yaml`
+- [Analysis](analysis/sanctions-drop-18-democrats-take-congress.md) — reading notes on labeled secondary commentary (Tier 3), with the primary sources each item still needs
 - [Daily digest](news/digest.md)
 
 ## Current baseline (November 2026)
