@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T04:02:36+00:00",
+  "generated_at": "2026-11-05T04:04:29+00:00",
   "source": "https://api.congress.gov/v3",
   "chamber_composition": {
     "House": {
@@ -43,14 +43,6 @@
           "roll_number": 13,
           "session": 2,
           "action": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 369 - 22 (Roll no. 13). (text: CR H621-622)",
-          "url": "https://clerk.house.gov/evs/2026/roll013.xml"
-        },
-        {
-          "chamber": "House",
-          "date": "2026-01-12",
-          "roll_number": 13,
-          "session": 2,
-          "action": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 369 - 22 (Roll no. 13). (text: CR H621-622)",
           "url": "https://clerk.house.gov/evs/2026/roll013.xml"
         }
       ],
@@ -123,27 +115,11 @@
           "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00224.xml"
         },
         {
-          "chamber": "Senate",
-          "date": "2026-08-07",
-          "roll_number": 224,
-          "session": 2,
-          "action": "Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 86 - 11. Record Vote Number: 224.",
-          "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00224.xml"
-        },
-        {
           "chamber": "House",
           "date": "2026-09-16",
           "roll_number": 308,
           "session": 2,
           "action": "On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 262 - 159 (Roll no. 308).",
-          "url": "https://clerk.house.gov/evs/2026/roll308.xml"
-        },
-        {
-          "chamber": "House",
-          "date": "2026-09-16",
-          "roll_number": 308,
-          "session": 2,
-          "action": "Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 262 - 159 (Roll no. 308).",
           "url": "https://clerk.house.gov/evs/2026/roll308.xml"
         }
       ],
