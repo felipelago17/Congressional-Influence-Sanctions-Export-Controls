@@ -11,3 +11,16 @@
     - "https://www.federalregister.gov/documents/2025/11/12/2025-19846/one-year-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed-entities"
     - "Bessent statement, 23 September 2026 (trade truce extension announcement)"
   notes: "Formal reimposition remains scheduled for 10 November 2026. Extension to 10 January 2027 has been announced but not yet published in the Federal Register."
+
+- id: graham-act-tariffs
+  type: statute-implementation
+  title: Graham Act tariffs — Russian-origin goods (+500%) and secondary tariffs on top-5 buyers / facilitators (+100%) (Pub. L. 119-111 §§112–113)
+  scheduled_effective: 2026-10-18   # trigger date for new purchases under the implementing EO
+  announced_extension_to: null
+  published_extension: null
+  in_force: false                   # waived under §115 by the implementing EO of 16 Oct 2026; waivers open-ended
+  sources:
+    - "https://www.congress.gov/bill/119th-congress/house-bill/5334"
+    - "Executive Order of 16 October 2026, Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 (Federal Register citation to be added)"
+    - "https://www.swlaw.com/publication/executive-order-implements-and-immediately-waives-new-graham-act-sanctions-and-tariffs-targeting-russia/"
+  notes: "Rates set in EO §2 and waived in EO §4 on the same day. Published and set, not in force. USTR top-5 determinations (every 180 days) moot while waived. See docs/ofac-tariffs/case-studies.md."

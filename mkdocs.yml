@@ -18,6 +18,10 @@ nav:
       - Administration Levers: influence/administration-levers.md
       - Party and Committee Aggregates: influence/party-committee-aggregates.md
       - Election Cycles: influence/election-cycles.md
+  - OFAC and Tariffs:
+      - Overview: ofac-tariffs/index.md
+      - Case Studies: ofac-tariffs/case-studies.md
+      - Research and Publications: ofac-tariffs/research.md
   - Trackers:
       - Congressional Signals (Congress.gov): trackers/congress-signals.md
       - Sanctions Lists (OpenSanctions): trackers/sanctions-data.md

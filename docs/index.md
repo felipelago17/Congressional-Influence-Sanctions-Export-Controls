@@ -27,6 +27,7 @@ Every entry includes:
 - [Administration Levers](influence/administration-levers.md)
 - [Party and Committee Aggregates](influence/party-committee-aggregates.md)
 - [Election Cycles](influence/election-cycles.md)
+- [OFAC and Tariffs](ofac-tariffs/index.md) — where sanctions and trade remedies meet: legal framework, [case studies](ofac-tariffs/case-studies.md) (EO 14245, India, *Learning Resources*, Graham Act and waiver), [research list](ofac-tariffs/research.md)
 - [Congressional Signals](trackers/congress-signals.md) — auto-refreshed daily from the Congress.gov API (watchlist + keyword scan)
 - [Sanctions Lists](trackers/sanctions-data.md) — OFAC/BIS list statistics and new listings, daily via OpenSanctions
 - [Enforcement Actions](trackers/enforcement-actions.md) — DOJ NSD / OFAC / BIS corporate resolutions (hand-curated, primary sources)
@@ -40,6 +41,8 @@ Every entry includes:
 |------|--------|
 | BIS Affiliates Rule | Formal reimposition still scheduled for 10 November 2026. Extension to 10 January 2027 announced; no implementing Federal Register notice yet. |
 | Remote Access Security Act (H.R. 2683) | Passed House 369-22 on 12 January 2026. Referred to Senate Banking. 119th Congress ends 3 January 2027. |
+| Graham Act (Pub. L. 119-111) | Enacted 18 September 2026. Tariffs and new sanctions set by EO of 16 October 2026 and waived the same day under §115; waivers open-ended. `statutory-mandate` linkage recorded. |
+| IEEPA tariffs | Foreclosed by *Learning Resources v. Trump* (20 February 2026). Sanctions powers under IEEPA unaffected. |
 
 ## Methodology
 
