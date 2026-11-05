@@ -79,12 +79,12 @@ None of these differences changes the three consensus points in §2. They affect
 |------|--------------------------|
 | Three consensus points (§2) | Adopt as the baseline statement in election-cycles.md; no longer single-sourced |
 | Seat counts | Keep provisional; Tier 1 figure is the Congress.gov chamber-composition table |
-| Tariffs | Record as **contested**; add the February 2026 Supreme Court IEEPA tariff ruling as a Tier 1 follow-up (it is a statutory-authority question squarely within the levers framework) |
+| Tariffs | Record as **contested**; the February 2026 Supreme Court IEEPA tariff ruling (*Learning Resources v. Trump*) is now on the levers page as the Tier 1 anchor for the statutory-authority question |
 | Russia waiver | Anchor on H, I, F; Al Jazeera adds nothing |
 | Iran | Oversight/appropriations only; no outcome claim |
 
 ## Follow-up items (Tier 1 required)
 
-- [ ] Supreme Court opinion on IEEPA tariffs (February 2026) — citation and holding; add to `administration-levers.md` under statutory mandates, since it bounds the executive's tariff authority independently of Congress.
+- [x] Supreme Court opinion on IEEPA tariffs — *Learning Resources, Inc. v. Trump*, No. 24-1287 (20 Feb 2026), 6–3; added to [Administration Levers](../influence/administration-levers.md) under "Judicial bounds on delegated authority".
 - [ ] Senate roll call on the Graham Act (August 2026) — party breakdown for `signals.yaml`.
 - [ ] Any bipartisan bill to constrain Section 115 waivers or to reassert tariff authority — the test of Poast's hypothesis.
