@@ -1,0 +1,68 @@
+{
+  "generated_at": "2026-11-05T04:02:07+00:00",
+  "source": "https://www.federalregister.gov/api/v1/documents.json",
+  "scan_from": "2025-01-20",
+  "keywords": [
+    "sanction",
+    "tariff",
+    "duties",
+    "export control",
+    "export administration",
+    "entity list",
+    "foreign adversary",
+    "emergency economic powers",
+    "national emergency",
+    "russia",
+    "iran",
+    "venezuela",
+    "china",
+    "semiconductor",
+    "artificial intelligence",
+    "foreign terrorist organization",
+    "cartel"
+  ],
+  "targets": [
+    {
+      "id": "eo-14245-venezuela-secondary-tariffs",
+      "label": "Imposing Tariffs on Countries Importing Venezuelan Oil",
+      "signing_date": "2025-03-24",
+      "term": "Venezuelan oil tariffs",
+      "title_keywords": [
+        "venezuela",
+        "tariff"
+      ],
+      "resolved": null
+    },
+    {
+      "id": "eo-india-russian-oil-secondary-tariff",
+      "label": "Addressing Threats to the United States by the Government of the Russian Federation (India +25%)",
+      "signing_date": "2025-08-06",
+      "term": "Russian Federation threats",
+      "title_keywords": [
+        "russian federation"
+      ],
+      "resolved": null
+    },
+    {
+      "id": "eo-graham-act-implementation",
+      "label": "Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+      "signing_date": "2026-10-16",
+      "term": "Graham Sanctioning Russia and Iran Act",
+      "title_keywords": [
+        "graham"
+      ],
+      "resolved": null
+    },
+    {
+      "id": "eo-end-ieepa-tariffs",
+      "label": "Executive order ending collection of IEEPA tariffs after Learning Resources v. Trump",
+      "signing_date": "2026-02-20",
+      "term": "International Emergency Economic Powers Act tariffs",
+      "title_keywords": [
+        "tariff"
+      ],
+      "resolved": null
+    }
+  ],
+  "scan": []
+}
