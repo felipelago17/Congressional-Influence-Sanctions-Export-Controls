@@ -1,13 +1,13 @@
 # Enforcement actions (DOJ NSD · OFAC · BIS)
 
-**Status as of 5 November 2026.** Public resolutions and charges under sanctions and export-control law, 2025–26 (the 119th Congress). Source of record: `trackers/enforcement-actions.yaml` (22 entries). These are **actions**; any connection to a congressional signal lives in `trackers/linkages.yaml` with a [linkage grade](../methodology/linkage-grades.md). Criminal charges are allegations unless a conviction is noted. Not legal advice.
+**Status as of 5 November 2026.** Public resolutions and charges under sanctions and export-control law, 2025–26 (the 119th Congress). Source of record: `trackers/enforcement-actions.yaml` (24 entries). These are **actions**; any connection to a congressional signal lives in `trackers/linkages.yaml` with a [linkage grade](../methodology/linkage-grades.md). Criminal charges are allegations unless a conviction is noted. Not legal advice.
 
 ## 2026 at a glance
 
 | Agency | Count (2026) | Total | Largest | Source of record |
 |---|---|---|---|---|
 | OFAC civil penalties | 10 | $297.5m | Adani Enterprises, $275m (Iran) | [OFAC chart](https://ofac.treasury.gov/civil-penalties-and-enforcement-information) |
-| BIS administrative | 8 | ≥ $291m disclosed | Applied Materials, $252m (SME to SMIC) | [BIS enforcement](https://www.bis.gov/enforcement) |
+| BIS administrative | 10 | ≥ $291m disclosed | Applied Materials, $252m (SME to SMIC) | [BIS enforcement](https://www.bis.gov/enforcement) |
 | DOJ NSD corporate (CEP) | 2 | — | Bosch declination (+$36m BIS); Extreme Networks near-miss NPA | DOJ press releases |
 | DOJ criminal — AI-chip diversion | 2 indictments (2026) + 2 (2025) | — | Supermicro-linked: c. $2.5bn tied to scheme | DOJ press releases |
 
@@ -41,12 +41,14 @@ Two cases account for 93 percent of 2026 civil dollars (Adani, Applied Materials
 
 | Date | Party | Conduct | Penalty | Note |
 |---|---|---|---|---|
-| 2026-10-02 | Lambda Research Corporation | — | — | Order details to be added |
-| 2026-08-24 | Container Manufacturing Ltd. | — | — | Order details to be added |
-| 2026-08-14 | Plexon, Inc. | — | — | Order details to be added |
+| 2026-10-02 | [Lambda Research Corporation](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-lambda-research-corporation) | — | — | Order details to be added |
+| 2026-08-24 | [Container Manufacturing Ltd.](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-container-manufacturing-ltd.) | — | — | Order details to be added |
+| 2026-08-14 | [Plexon, Inc.](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-plexon-inc.) | — | — | Order details to be added |
+| 2026-04-14 | [Coastal PVA Technology, Inc.](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-coastal-pva-technology-inc.) | — | — | Order details to be added |
+| 2026-03-27 | [Solventum Corporation](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-solventum-corporation-order) | — | — | Order details to be added |
 | 2026-06-17 | Robert Bosch GmbH (Germany) | FDPR items to Huawei (Entity List), 2020–24, $72.4m | $36,184,680 (c. $3.6m suspended) | VSD; parallel DOJ NSD declination with $11.4m disgorgement |
 | 2026-02-26 | Teledyne FLIR LLC and affiliates | — | $1,000,000 | Incl. Shanghai affiliate |
-| 2026-02-25 | Vizicom ICT | — | — | Order details to be added |
+| 2026-02-25 | [Vizicom ICT](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-vizicom-ict) | — | — | Order details to be added |
 | 2026-02-11 | Applied Materials, Inc. / AM Korea | SME re-exported via Korea to SMIC (Entity List), 2021–22, $126m | $252,000,000 | Statutory maximum (2× value); 2 audits; suspended 3-year denial order |
 | 2026-01-07 | Exyte Management GmbH (Germany) | Entity List / China re-export | $1,500,000 | VSD credited |
 
@@ -83,7 +85,7 @@ The pair defines the CEP's operating line for national-security cases: *when* yo
 - **Chip-security and remote-access legislation** citing the Supermicro and Earthmade cases in findings or hearing records → candidate `documented-request` linkages if an agency later cites Congress.
 - **Oversight of the January 2026 licence-policy loosening** — any hearing or letter contrasting it with the Applied Materials penalty.
 - **PSI / Banking / Financial Services hearings** on the Bank of America AML penalties (Chinese money-laundering networks) under the new Senate majority.
-- **Gaps to fill (Tier 1):** DOJ press-release URLs for the Supermicro and Earthmade indictments; BIS order details for Lambda Research, Container Manufacturing, Plexon and Vizicom.
+- **Gaps to fill (Tier 1):** DOJ press-release URLs for the Supermicro and Earthmade indictments (justice.gov blocks automated retrieval — add manually); amounts and conduct for the six thin BIS orders, now linked to their official pages via the [agency releases tracker](agency-releases.md).
 
 ---
 

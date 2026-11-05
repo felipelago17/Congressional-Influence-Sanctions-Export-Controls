@@ -41,7 +41,12 @@ PAGE_OUT = ROOT / "docs" / "trackers" / "agency-releases.md"
 TIMEOUT = 30
 UA = {"User-Agent": "Mozilla/5.0 (compatible; congressional-influence-tracker/1.0; +https://github.com/felipelago17)"}
 
-DOJ_RSS = "https://www.justice.gov/feeds/opa/justice-news.xml"
+DOJ_RSS_CANDIDATES = [
+    "https://www.justice.gov/news/rss?type=press_release",
+    "https://www.justice.gov/feeds/justice-news.xml?type=press_release",
+    "https://www.justice.gov/feeds/opa/justice-news.xml",
+    "https://feeds.feedburner.com/justice/gsnzDGvqM7v",
+]
 DOJ_SEARCH = "https://www.justice.gov/news/press-releases?search_api_fulltext={q}"
 BIS_NEWS = "https://www.bis.gov/news-updates"
 BIS_ENF = "https://www.bis.gov/enforcement"
@@ -80,7 +85,18 @@ def _abs(base: str, href: str) -> str:
 
 # ---------------------------------------------------------------- DOJ
 def doj_rss() -> list[dict]:
-    raw = _fetch(DOJ_RSS)
+    raw, last = "", None
+    for url in DOJ_RSS_CANDIDATES:
+        try:
+            raw = _fetch(url)
+            if "<item" in raw:
+                print(f"    DOJ feed: {url}")
+                break
+            raw = ""
+        except Exception as exc:  # noqa: BLE001
+            last = exc
+    if not raw:
+        raise RuntimeError(f"no DOJ feed reachable ({last})")
     root = ET.fromstring(raw)
     out = []
     for item in root.iter("item"):
