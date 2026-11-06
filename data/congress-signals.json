@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T15:37:12+00:00",
+  "generated_at": "2026-11-06T15:10:43+00:00",
   "source": "https://api.congress.gov/v3",
   "chamber_composition": {
     "House": {
@@ -169,17 +169,6 @@
     },
     {
       "congress": 119,
-      "number": "HR.10594",
-      "title": "Reliable Artificial Intelligence Research Act of 2026",
-      "latest_action_date": "2026-09-24",
-      "latest_action": "Referred to the House Committee on Homeland Security.",
-      "matched_keywords": [
-        "artificial intelligence"
-      ],
-      "url": "https://www.congress.gov/bill/119th-congress/house-bill/10594"
-    },
-    {
-      "congress": 119,
       "number": "S.5476",
       "title": "A bill to impose sanctions with respect to foreign persons that have facilitated Israeli settlement construction in the E1 area of the West Bank.",
       "latest_action_date": "2026-09-23",
@@ -188,6 +177,17 @@
         "sanction"
       ],
       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5476"
+    },
+    {
+      "congress": 119,
+      "number": "HR.10594",
+      "title": "Reliable Artificial Intelligence Research Act of 2026",
+      "latest_action_date": "2026-09-24",
+      "latest_action": "Referred to the House Committee on Homeland Security.",
+      "matched_keywords": [
+        "artificial intelligence"
+      ],
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/10594"
     }
   ]
 }
