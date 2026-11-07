@@ -1,6 +1,6 @@
 # Agency enforcement releases (DOJ · BIS · OFAC)
 
-*Auto-generated 2026-11-06 15:25 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
+*Auto-generated 2026-11-07 14:22 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
 
 Sources reachable this run: DOJ RSS (25), BIS (51), OFAC (64)
 
@@ -26,10 +26,7 @@ Keywords: `sanction`, `export control`, `export administration`, `entity list`, 
 
 | Date | Agency | Title | Matched |
 |---|---|---|---|
-| 2026-11-06 | DOJ | [Grand jury indicts illegal alien from Mexico who has prior drug conviction for illegally reentering United States](https://www.justice.gov/usao-sdoh/pr/grand-jury-indicts-illegal-alien-mexico-who-has-prior-drug-conviction-illegally) | indict |
-| 2026-11-05 | DOJ | [Five Individuals Indicted for Firearms-Related Offenses](https://www.justice.gov/usao-nv/pr/five-individuals-indicted-firearms-related-offenses) | indict |
-| 2026-11-05 | DOJ | [Executives of Healthcare Provider Charged by Indictment in Fraud that Caused Millions in Losses to D.C. Medicaid](https://www.justice.gov/usao-dc/pr/executives-healthcare-provider-charged-indictment-fraud-caused-millions-losses-dc) | indict |
-| 2026-11-05 | DOJ | [Farmington Man Indicted for Sexually Assaulting and Strangling Victim](https://www.justice.gov/usao-nm/pr/farmington-man-indicted-sexually-assaulting-and-strangling-victim) | indict |
+| 2026-11-06 | OFAC | [Iran-related Designations](https://ofac.treasury.gov/recent-actions/20261106) | iran |
 | 2026-11-04 | OFAC | [Iran-related Designations; Updates to Certain Iran-related Listings; Publication of Iran-related OFAC Alert; Issuance of Amended Venezuela-related General License and Frequently Asked Question](https://ofac.treasury.gov/recent-actions/20261104) | ofac, iran, general license |
 | 2026-10-29 | OFAC | [Issuance of Amended Iran-related General License](https://ofac.treasury.gov/recent-actions/20261029) | iran, general license |
 | 2026-10-28 | OFAC | [North Korea Designations; Democratic Republic of the Congo-related Designations](https://ofac.treasury.gov/recent-actions/20261028) | north korea |
@@ -38,7 +35,6 @@ Keywords: `sanction`, `export control`, `export administration`, `entity list`, 
 | 2026-10-21 | OFAC | [Iran-related Designations; Belarus and North Korea Designations Removals; Issuance of Iran-related and Russia-related General Licenses and Amended Frequently Asked Questions](https://ofac.treasury.gov/recent-actions/20261021) | russia, iran, north korea, general license |
 | 2026-10-19 | OFAC | [Protecting American Intellectual Property Act of 2022 (PAIPA) Designations; Issuance of Associated General Licenses](https://ofac.treasury.gov/recent-actions/20261019) | general license |
 | 2026-10-16 | OFAC | [Issuance of Amended Venezuela-related General License and Frequently Asked Question](https://ofac.treasury.gov/recent-actions/20261016) | general license |
-| 2026-10-15 | OFAC | [Iran-related Designations; Cuba Designation; Issuance of New and Amended General Licenses and Frequently Asked Questions](https://ofac.treasury.gov/recent-actions/20261015) | iran, general license |
 | 2026-10-02 | BIS | [BIS Reaches Administrative Enforcement Settlement with Lambda Research Corporation](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-lambda-research-corporation) | settlement |
 | 2026-10-02 | BIS | [BIS Reaches Administrative Enforcement Settlement with Lambda Research Corporation](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-lambda-research-corporation) | settlement |
 | 2026-10-02 | BIS | [BIS Reaches Administrative Enforcement Settlement with Container Manufacturing Ltd.](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-container-manufacturing-ltd.) | settlement |

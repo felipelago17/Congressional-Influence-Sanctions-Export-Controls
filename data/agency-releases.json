@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T15:25:34+00:00",
+  "generated_at": "2026-11-07T14:22:50+00:00",
   "sources_ok": [
     "DOJ RSS (25)",
     "BIS (51)",
@@ -153,42 +153,6 @@
     }
   ],
   "scan": [
-    {
-      "agency": "DOJ",
-      "title": "Grand jury indicts illegal alien from Mexico who has prior drug conviction for illegally reentering United States",
-      "url": "https://www.justice.gov/usao-sdoh/pr/grand-jury-indicts-illegal-alien-mexico-who-has-prior-drug-conviction-illegally",
-      "date": "2026-11-06",
-      "matched_keywords": [
-        "indict"
-      ]
-    },
-    {
-      "agency": "DOJ",
-      "title": "Five Individuals Indicted for Firearms-Related Offenses",
-      "url": "https://www.justice.gov/usao-nv/pr/five-individuals-indicted-firearms-related-offenses",
-      "date": "2026-11-05",
-      "matched_keywords": [
-        "indict"
-      ]
-    },
-    {
-      "agency": "DOJ",
-      "title": "Executives of Healthcare Provider Charged by Indictment in Fraud that Caused Millions in Losses to D.C. Medicaid",
-      "url": "https://www.justice.gov/usao-dc/pr/executives-healthcare-provider-charged-indictment-fraud-caused-millions-losses-dc",
-      "date": "2026-11-05",
-      "matched_keywords": [
-        "indict"
-      ]
-    },
-    {
-      "agency": "DOJ",
-      "title": "Farmington Man Indicted for Sexually Assaulting and Strangling Victim",
-      "url": "https://www.justice.gov/usao-nm/pr/farmington-man-indicted-sexually-assaulting-and-strangling-victim",
-      "date": "2026-11-05",
-      "matched_keywords": [
-        "indict"
-      ]
-    },
     {
       "agency": "BIS",
       "title": "BIS Reaches Administrative Enforcement Settlement with Lambda Research Corporation",
@@ -468,6 +432,15 @@
     },
     {
       "agency": "OFAC",
+      "title": "Iran-related Designations",
+      "url": "https://ofac.treasury.gov/recent-actions/20261106",
+      "date": "2026-11-06",
+      "matched_keywords": [
+        "iran"
+      ]
+    },
+    {
+      "agency": "OFAC",
       "title": "Iran-related Designations; Updates to Certain Iran-related Listings; Publication of Iran-related OFAC Alert; Issuance of Amended Venezuela-related General License and Frequently Asked Question",
       "url": "https://ofac.treasury.gov/recent-actions/20261104",
       "date": "2026-11-04",
@@ -541,16 +514,6 @@
       "url": "https://ofac.treasury.gov/recent-actions/20261016",
       "date": "2026-10-16",
       "matched_keywords": [
-        "general license"
-      ]
-    },
-    {
-      "agency": "OFAC",
-      "title": "Iran-related Designations; Cuba Designation; Issuance of New and Amended General Licenses and Frequently Asked Questions",
-      "url": "https://ofac.treasury.gov/recent-actions/20261015",
-      "date": "2026-10-15",
-      "matched_keywords": [
-        "iran",
         "general license"
       ]
     },
