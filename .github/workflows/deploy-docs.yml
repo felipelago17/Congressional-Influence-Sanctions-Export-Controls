@@ -1,6 +1,14 @@
 name: Deploy MkDocs to GitHub Pages
 
 on:
+  workflow_run:
+    workflows:
+      - "Agency Enforcement Releases"
+      - "Congress.gov Signals"
+      - "Daily Digest"
+      - "Federal Register Presidential Documents"
+      - "Sanctions List Data"
+    types: [completed]
   push:
     branches:
       - main
@@ -21,6 +29,7 @@ concurrency:
 
 jobs:
   deploy:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
