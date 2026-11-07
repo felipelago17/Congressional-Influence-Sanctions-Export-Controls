@@ -1,15 +1,127 @@
 {
-  "generated_at": "2026-11-06T15:21:15+00:00",
+  "generated_at": "2026-11-07T14:19:15+00:00",
   "new_days": 7,
   "datasets": [
     {
       "slug": "us_ofac_sdn",
-      "entity_count": 72948,
-      "target_count": 20527,
-      "last_change": "2026-11-05T18:10:04",
-      "last_export": "2026-11-06T14:10:05",
+      "entity_count": 72987,
+      "target_count": 20541,
+      "last_change": "2026-11-06T20:10:04",
+      "last_export": "2026-11-07T12:10:05",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [
+        {
+          "name": "Top PC Technician Inc",
+          "schema": "Organization",
+          "countries": "ca",
+          "first_seen": "2026-11-06",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59097"
+        },
+        {
+          "name": "TW5NEaaoPHXC1rt5PaYgG474gQ49oiZ2F5",
+          "schema": "CryptoWallet",
+          "countries": "",
+          "first_seen": "2026-11-06",
+          "programs": "",
+          "id": "ofac-1d189391c0584843fb88a1f295c2c419dbc06c53"
+        },
+        {
+          "name": "TLyRLCNwBhaXkYak1bTFUYTj72crbgN5Vy",
+          "schema": "CryptoWallet",
+          "countries": "",
+          "first_seen": "2026-11-06",
+          "programs": "",
+          "id": "ofac-2eaca34b5b79d8ec3f991eb9b2f7114c0bbaf3ea"
+        },
+        {
+          "name": "TJT3JZKJWVHVkKRKSmWmg5UYHhAqBM7mfP",
+          "schema": "CryptoWallet",
+          "countries": "",
+          "first_seen": "2026-11-06",
+          "programs": "",
+          "id": "ofac-4b0c72f61331b648b9ee5aeabd7397959d0f930b"
+        },
+        {
+          "name": "TJHZswisiMgjioAVpmpMSWXCeQGCPjcTMK",
+          "schema": "CryptoWallet",
+          "countries": "",
+          "first_seen": "2026-11-06",
+          "programs": "",
+          "id": "ofac-2c73c3d640c471b297acb5a38a936167d96cb6c2"
+        },
+        {
+          "name": "THauYJJEaFGLpEknoKnYmXmT5TCeQGKjDE",
+          "schema": "CryptoWallet",
+          "countries": "",
+          "first_seen": "2026-11-06",
+          "programs": "",
+          "id": "ofac-0a2dc1ed9f9b1412218cfd3a29f52c83648678b7"
+        },
+        {
+          "name": "TCreRMzGspdHNEkqkasejS6xTzqXNkYJJZ",
+          "schema": "CryptoWallet",
+          "countries": "",
+          "first_seen": "2026-11-06",
+          "programs": "",
+          "id": "ofac-f75ad8ee6ed23cd552ce23141c6bf896230f67cb"
+        },
+        {
+          "name": "NIA Nations Currency Ltd",
+          "schema": "Organization",
+          "countries": "ca",
+          "first_seen": "2026-11-06",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59092"
+        },
+        {
+          "name": "Diverse Trade Inc",
+          "schema": "Organization",
+          "countries": "ca",
+          "first_seen": "2026-11-06",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59091"
+        },
+        {
+          "name": "Darvish Exchange",
+          "schema": "Organization",
+          "countries": "ca",
+          "first_seen": "2026-11-06",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59099"
+        },
+        {
+          "name": "CCC Inc",
+          "schema": "Organization",
+          "countries": "ca",
+          "first_seen": "2026-11-06",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "NK-H2kVLXQVkTzmLQKZhAEtYW"
+        },
+        {
+          "name": "B Galaxy Inc",
+          "schema": "Organization",
+          "countries": "ca",
+          "first_seen": "2026-11-06",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59094"
+        },
+        {
+          "name": "2397639 Ontario Ltd",
+          "schema": "Organization",
+          "countries": "ca",
+          "first_seen": "2026-11-06",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59095"
+        },
+        {
+          "name": "1380079 BC Ltd",
+          "schema": "Organization",
+          "countries": "ca",
+          "first_seen": "2026-11-06",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59096"
+        },
         {
           "name": "ZHX PRINTING EQUIPMENT CAMBODIA CO LTD",
           "schema": "Organization",
@@ -192,7 +304,7 @@
           "countries": "mu",
           "first_seen": "2026-11-05",
           "programs": "TCO - Executive Order 13581 (TCO)",
-          "id": "ofac-58644"
+          "id": "NK-QnvetMETK9woomeHryYavz"
         },
         {
           "name": "Linkedus Technology Co., Ltd.",
@@ -224,7 +336,7 @@
           "countries": "cu",
           "first_seen": "2026-11-05",
           "programs": "CUBA-EO14404 - Executive Order 14404 (Cuba)",
-          "id": "ofac-58890"
+          "id": "NK-HnZP38j6XvuqbNNTRAptTb"
         },
         {
           "name": "Gloria C",
@@ -377,121 +489,9 @@
           "first_seen": "2026-11-05",
           "programs": "TCO - Executive Order 13581 (TCO)",
           "id": "ofac-58637"
-        },
-        {
-          "name": "Cambodia First Unite Construction Group Co., Ltd.",
-          "schema": "Organization",
-          "countries": "kh",
-          "first_seen": "2026-11-05",
-          "programs": "TCO - Executive Order 13581 (TCO)",
-          "id": "ofac-58627"
-        },
-        {
-          "name": "Cambo Duty Free Merchandise Co., Ltd.",
-          "schema": "Organization",
-          "countries": "kh",
-          "first_seen": "2026-11-05",
-          "programs": "TCO - Executive Order 13581 (TCO)",
-          "id": "ofac-58639"
-        },
-        {
-          "name": "CHEN HUA HOLDINGS PTE LTD",
-          "schema": "Organization",
-          "countries": "sg",
-          "first_seen": "2026-11-05",
-          "programs": "TCO - Executive Order 13581 (TCO)",
-          "id": "ofac-58645"
-        },
-        {
-          "name": "CELESTIAL DRIVE LIMITED",
-          "schema": "Organization",
-          "countries": "vg",
-          "first_seen": "2026-11-05",
-          "programs": "TCO - Executive Order 13581 (TCO)",
-          "id": "ofac-58669"
-        },
-        {
-          "name": "CB GENERAL INSURANCE PLC",
-          "schema": "Organization",
-          "countries": "kh",
-          "first_seen": "2026-11-05",
-          "programs": "TCO - Executive Order 13581 (TCO)",
-          "id": "ofac-58564"
-        },
-        {
-          "name": "CAMBODIAN UNITE WEI YE INVESTMENT CO LTD",
-          "schema": "Organization",
-          "countries": "kh",
-          "first_seen": "2026-11-05",
-          "programs": "TCO - Executive Order 13581 (TCO)",
-          "id": "ofac-58566"
-        },
-        {
-          "name": "CAMBODIAN RESOURCE ENERGY DEVELOPMENT CO LTD",
-          "schema": "Organization",
-          "countries": "kh",
-          "first_seen": "2026-11-05",
-          "programs": "TCO - Executive Order 13581 (TCO)",
-          "id": "ofac-58565"
-        },
-        {
-          "name": "BEIJING H AND C TECHNOLOGIES CO., LTD",
-          "schema": "Organization",
-          "countries": "cn",
-          "first_seen": "2026-11-05",
-          "programs": "CUBA-EO14404 - Executive Order 14404 (Cuba)",
-          "id": "ofac-58917"
-        },
-        {
-          "name": "Any Rodriguez Lastres",
-          "schema": "Person",
-          "countries": "cu;pa",
-          "first_seen": "2026-11-05",
-          "programs": "CUBA-EO14404 - Executive Order 14404 (Cuba)",
-          "id": "ofac-58912"
-        },
-        {
-          "name": "ASIAN WELFARE LOTTERIES CO LTD",
-          "schema": "Organization",
-          "countries": "kh",
-          "first_seen": "2026-11-05",
-          "programs": "TCO - Executive Order 13581 (TCO)",
-          "id": "ofac-58563"
-        },
-        {
-          "name": "VIHARABOATING PRIVATE LIMITED",
-          "schema": "Organization",
-          "countries": "in",
-          "first_seen": "2026-11-04",
-          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-          "id": "ofac-59064"
-        },
-        {
-          "name": "Suniel Kumar SHARMA",
-          "schema": "Person",
-          "countries": "in",
-          "first_seen": "2026-11-04",
-          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-          "id": "NK-eygXD8kh8pBRcxUG6gKj4o"
-        },
-        {
-          "name": "PRECEPT TRENDS PRIVATE LIMITED",
-          "schema": "Organization",
-          "countries": "in",
-          "first_seen": "2026-11-04",
-          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-          "id": "ofac-59059"
-        },
-        {
-          "name": "POLYNESIA MARITIME PRIVATE LIMITED",
-          "schema": "Organization",
-          "countries": "in",
-          "first_seen": "2026-11-04",
-          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-          "id": "ofac-59060"
         }
       ],
-      "new_target_count": 71,
+      "new_target_count": 85,
       "label": "OFAC Specially Designated Nationals (SDN)"
     },
     {
@@ -499,7 +499,7 @@
       "entity_count": 2064,
       "target_count": 716,
       "last_change": "2026-11-04T18:36:35",
-      "last_export": "2026-11-06T14:35:05",
+      "last_export": "2026-11-07T12:35:06",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -510,7 +510,7 @@
       "entity_count": 876,
       "target_count": 374,
       "last_change": "2026-11-05T00:57:08",
-      "last_export": "2026-11-06T13:13:20",
+      "last_export": "2026-11-07T08:57:07",
       "publisher_url": "https://www.bis.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -518,12 +518,68 @@
     },
     {
       "slug": "us_trade_csl",
-      "entity_count": 30651,
-      "target_count": 24381,
-      "last_change": "2026-11-05T18:53:06",
-      "last_export": "2026-11-06T13:13:30",
+      "entity_count": 30658,
+      "target_count": 24388,
+      "last_change": "2026-11-06T21:53:05",
+      "last_export": "2026-11-07T12:56:24",
       "publisher_url": "https://www.trade.gov/",
       "new_targets": [
+        {
+          "name": "TOP PC TECHNICIAN INC",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-06",
+          "programs": "",
+          "id": "ofac-59097"
+        },
+        {
+          "name": "NIA NATIONS CURRENCY LTD",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-06",
+          "programs": "",
+          "id": "ofac-59092"
+        },
+        {
+          "name": "DIVERSE TRADE INC",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-06",
+          "programs": "",
+          "id": "ofac-59091"
+        },
+        {
+          "name": "DARVISH EXCHANGE",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-06",
+          "programs": "",
+          "id": "ofac-59099"
+        },
+        {
+          "name": "B GALAXY INC",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-06",
+          "programs": "",
+          "id": "ofac-59094"
+        },
+        {
+          "name": "2397639 ONTARIO LTD",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-06",
+          "programs": "",
+          "id": "ofac-59095"
+        },
+        {
+          "name": "1380079 BC LTD",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-06",
+          "programs": "",
+          "id": "ofac-59096"
+        },
         {
           "name": "ZHX PRINTING EQUIPMENT CAMBODIA CO LTD",
           "schema": "Organization",
@@ -634,7 +690,7 @@
           "countries": "",
           "first_seen": "2026-11-05",
           "programs": "",
-          "id": "ofac-58890"
+          "id": "NK-HnZP38j6XvuqbNNTRAptTb"
         },
         {
           "name": "RODRIGUEZ LASTRES, Any",
@@ -706,7 +762,7 @@
           "countries": "",
           "first_seen": "2026-11-05",
           "programs": "",
-          "id": "ofac-58644"
+          "id": "NK-QnvetMETK9woomeHryYavz"
         },
         {
           "name": "MARCO POLO HOTEL CO. LTD.",
@@ -947,65 +1003,9 @@
           "first_seen": "2026-11-05",
           "programs": "",
           "id": "ofac-58627"
-        },
-        {
-          "name": "CAMBO DUTY FREE MERCHANDISE CO., LTD.",
-          "schema": "Organization",
-          "countries": "",
-          "first_seen": "2026-11-05",
-          "programs": "",
-          "id": "ofac-58639"
-        },
-        {
-          "name": "BEIJING H AND C TECHNOLOGIES CO., LTD",
-          "schema": "Organization",
-          "countries": "",
-          "first_seen": "2026-11-05",
-          "programs": "",
-          "id": "ofac-58917"
-        },
-        {
-          "name": "ASIAN WELFARE LOTTERIES CO LTD",
-          "schema": "Organization",
-          "countries": "",
-          "first_seen": "2026-11-05",
-          "programs": "",
-          "id": "ofac-58563"
-        },
-        {
-          "name": "VIHARABOATING PRIVATE LIMITED",
-          "schema": "Organization",
-          "countries": "",
-          "first_seen": "2026-11-04",
-          "programs": "",
-          "id": "ofac-59064"
-        },
-        {
-          "name": "SINGH, Ishwinder",
-          "schema": "Person",
-          "countries": "",
-          "first_seen": "2026-11-04",
-          "programs": "",
-          "id": "ofac-59057"
-        },
-        {
-          "name": "SHARMA, Suniel Kumar",
-          "schema": "Person",
-          "countries": "",
-          "first_seen": "2026-11-04",
-          "programs": "",
-          "id": "NK-eygXD8kh8pBRcxUG6gKj4o"
-        },
-        {
-          "name": "SHAHID, Jaspreet Preeti",
-          "schema": "Person",
-          "countries": "",
-          "first_seen": "2026-11-04",
-          "programs": "",
-          "id": "ofac-59054"
         }
       ],
-      "new_target_count": 71,
+      "new_target_count": 78,
       "label": "Consolidated Screening List (Commerce/State/Treasury)"
     }
   ]
