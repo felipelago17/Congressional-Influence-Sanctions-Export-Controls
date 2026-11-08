@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T14:19:15+00:00",
+  "generated_at": "2026-11-08T14:29:13+00:00",
   "new_days": 7,
   "datasets": [
     {
@@ -7,7 +7,7 @@
       "entity_count": 72987,
       "target_count": 20541,
       "last_change": "2026-11-06T20:10:04",
-      "last_export": "2026-11-07T12:10:05",
+      "last_export": "2026-11-08T14:10:06",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [
         {
@@ -440,7 +440,7 @@
           "countries": "cu",
           "first_seen": "2026-11-05",
           "programs": "CUBA-EO14404 - Executive Order 14404 (Cuba)",
-          "id": "ofac-58913"
+          "id": "NK-32CcEfz6CVGCVnpX6uffrY"
         },
         {
           "name": "EMPRESA COMERCIALIZADORA DE SERVICIOS TECNICOS Y TECNOLOGICOS",
@@ -499,7 +499,7 @@
       "entity_count": 2064,
       "target_count": 716,
       "last_change": "2026-11-04T18:36:35",
-      "last_export": "2026-11-07T12:35:06",
+      "last_export": "2026-11-08T12:35:05",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -510,7 +510,7 @@
       "entity_count": 876,
       "target_count": 374,
       "last_change": "2026-11-05T00:57:08",
-      "last_export": "2026-11-07T08:57:07",
+      "last_export": "2026-11-08T08:57:06",
       "publisher_url": "https://www.bis.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -521,7 +521,7 @@
       "entity_count": 30658,
       "target_count": 24388,
       "last_change": "2026-11-06T21:53:05",
-      "last_export": "2026-11-07T12:56:24",
+      "last_export": "2026-11-08T12:53:05",
       "publisher_url": "https://www.trade.gov/",
       "new_targets": [
         {
@@ -898,7 +898,7 @@
           "countries": "",
           "first_seen": "2026-11-05",
           "programs": "",
-          "id": "ofac-58913"
+          "id": "NK-32CcEfz6CVGCVnpX6uffrY"
         },
         {
           "name": "EMPRESA COMERCIALIZADORA DE SERVICIOS TECNICOS Y TECNOLOGICOS",

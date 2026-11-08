@@ -1,6 +1,6 @@
 # Sanctions and export-control lists (OpenSanctions)
 
-*Auto-generated 2026-11-07 14:19 UTC. Statistics and new listings from [OpenSanctions](https://www.opensanctions.org/) bulk data (CC BY-NC 4.0), which mirrors the official OFAC and BIS publications. Always verify against the issuing agency before acting. Not legal advice.*
+*Auto-generated 2026-11-08 14:29 UTC. Statistics and new listings from [OpenSanctions](https://www.opensanctions.org/) bulk data (CC BY-NC 4.0), which mirrors the official OFAC and BIS publications. Always verify against the issuing agency before acting. Not legal advice.*
 
 ## List statistics
 
@@ -68,7 +68,7 @@
 | 2026-11-05 | [First Unite International Logistics Co., Ltd.](https://www.opensanctions.org/entities/ofac-58628/) | Organization | kh | TCO - Executive Order 13581 (TCO) |
 | 2026-11-05 | [First Unite Decoration Cambodia Co., Ltd.](https://www.opensanctions.org/entities/ofac-58636/) | Organization | kh | TCO - Executive Order 13581 (TCO) |
 | 2026-11-05 | [FIRST AQUATIC INDUSTRIAL CO LTD](https://www.opensanctions.org/entities/ofac-58568/) | Organization | kh | TCO - Executive Order 13581 (TCO) |
-| 2026-11-05 | [EMPRESA IMPORTADORA Y EXPORTADORA DE PRODUCTOS DE LA ELECTRONICA Y LAS COMUNICACIONES](https://www.opensanctions.org/entities/ofac-58913/) | Organization | cu | CUBA-EO14404 - Executive Order 14404 (Cuba) |
+| 2026-11-05 | [EMPRESA IMPORTADORA Y EXPORTADORA DE PRODUCTOS DE LA ELECTRONICA Y LAS COMUNICACIONES](https://www.opensanctions.org/entities/NK-32CcEfz6CVGCVnpX6uffrY/) | Organization | cu | CUBA-EO14404 - Executive Order 14404 (Cuba) |
 | 2026-11-05 | [EMPRESA COMERCIALIZADORA DE SERVICIOS TECNICOS Y TECNOLOGICOS](https://www.opensanctions.org/entities/ofac-58915/) | Organization | cu | CUBA-EO14404 - Executive Order 14404 (Cuba) |
 | 2026-11-05 | [EMILIA](https://www.opensanctions.org/entities/ofac-59068/) | Vessel | cu | CUBA-EO14404 - Executive Order 14404 (Cuba) |
 | 2026-11-05 | [DT ZHI ZAO CO LTD](https://www.opensanctions.org/entities/ofac-58567/) | Organization | kh | TCO - Executive Order 13581 (TCO) |
@@ -128,7 +128,7 @@ _Showing 60 of 85._
 | 2026-11-05 | [FIRST UNITE INTERNATIONAL LOGISTICS CO., LTD.](https://www.opensanctions.org/entities/ofac-58628/) | Organization |  |  |
 | 2026-11-05 | [FIRST UNITE DECORATION CAMBODIA CO., LTD.](https://www.opensanctions.org/entities/ofac-58636/) | Organization |  |  |
 | 2026-11-05 | [FIRST AQUATIC INDUSTRIAL CO LTD](https://www.opensanctions.org/entities/ofac-58568/) | Organization |  |  |
-| 2026-11-05 | [EMPRESA IMPORTADORA Y EXPORTADORA DE PRODUCTOS DE LA ELECTRONICA Y LAS COMUNICACIONES](https://www.opensanctions.org/entities/ofac-58913/) | Organization |  |  |
+| 2026-11-05 | [EMPRESA IMPORTADORA Y EXPORTADORA DE PRODUCTOS DE LA ELECTRONICA Y LAS COMUNICACIONES](https://www.opensanctions.org/entities/NK-32CcEfz6CVGCVnpX6uffrY/) | Organization |  |  |
 | 2026-11-05 | [EMPRESA COMERCIALIZADORA DE SERVICIOS TECNICOS Y TECNOLOGICOS](https://www.opensanctions.org/entities/ofac-58915/) | Organization |  |  |
 | 2026-11-05 | [EMILIA](https://www.opensanctions.org/entities/ofac-59068/) | Vessel |  |  |
 | 2026-11-05 | [DT ZHI ZAO CO LTD](https://www.opensanctions.org/entities/ofac-58567/) | Organization |  |  |
