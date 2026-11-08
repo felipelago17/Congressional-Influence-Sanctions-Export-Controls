@@ -1,6 +1,6 @@
 # Congressional signals (Congress.gov API)
 
-*Auto-generated 2026-11-07 14:09 UTC from the official [Congress.gov API](https://api.congress.gov/). Aggregate party counts only — no per-member scorecards. Not legal advice.*
+*Auto-generated 2026-11-08 14:22 UTC from the official [Congress.gov API](https://api.congress.gov/). Aggregate party counts only — no per-member scorecards. Not legal advice.*
 
 ## Chamber composition (currently seated members)
 
@@ -38,7 +38,6 @@ Keywords: `sanction`, `export control`, `export administration`, `entity list`, 
 | Bill | Title | Latest action | Matched |
 |---|---|---|---|
 | [HR.5334](https://www.congress.gov/bill/119th-congress/house-bill/5334) | Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 | 2026-09-18 — Became Public Law No: 119-111. | sanction |
-| [S.5476](https://www.congress.gov/bill/119th-congress/senate-bill/5476) | A bill to impose sanctions with respect to foreign persons that have facilitated Israeli settlement construction in the E1 area of the West Bank. | 2026-09-23 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. | sanction |
 
 ---
 Signals are facts about congressional activity. Any connection to an administration action is recorded separately in `trackers/linkages.yaml` with a [linkage grade](../methodology/linkage-grades.md).
