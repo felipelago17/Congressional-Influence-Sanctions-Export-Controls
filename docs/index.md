@@ -1,7 +1,5 @@
 # Congressional Influence on Sanctions and Export Controls
 
-**Status as of 4 November 2026**
-
 Evidence-based framework mapping **public congressional signals** (bills, riders, letters, hearing questions, holds, mandatory reports) to **public administration actions** on sanctions, export controls, OFAC guidance, BIS rules, and related financial-crime/regulatory compliance matters.
 
 Elections and party control are inputs, not the subject of this site.

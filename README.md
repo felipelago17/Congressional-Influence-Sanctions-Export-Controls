@@ -4,8 +4,6 @@ Evidence-based framework mapping **public congressional signals** (bills, riders
 
 Elections and party control are inputs, not the subject of the repository.
 
-**Status as of 4 November 2026**
-
 **This repository is for informational and academic purposes only. It does not constitute legal advice.** Always consult qualified export-control and sanctions counsel before taking any compliance decision.
 
 ---
