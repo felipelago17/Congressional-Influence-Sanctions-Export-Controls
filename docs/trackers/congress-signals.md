@@ -1,6 +1,6 @@
 # Congressional signals (Congress.gov API)
 
-*Auto-generated 2026-11-08 14:22 UTC from the official [Congress.gov API](https://api.congress.gov/). Aggregate party counts only — no per-member scorecards. Not legal advice.*
+*Auto-generated 2026-11-09 17:39 UTC from the official [Congress.gov API](https://api.congress.gov/). Aggregate party counts only — no per-member scorecards. Not legal advice.*
 
 ## Chamber composition (currently seated members)
 
