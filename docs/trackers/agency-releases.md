@@ -1,6 +1,6 @@
 # Agency enforcement releases (DOJ · BIS · OFAC)
 
-*Auto-generated 2026-11-08 14:33 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
+*Auto-generated 2026-11-09 17:50 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
 
 Sources reachable this run: DOJ RSS (25), BIS (51), OFAC (64)
 
@@ -26,6 +26,8 @@ Keywords: `sanction`, `export control`, `export administration`, `entity list`, 
 
 | Date | Agency | Title | Matched |
 |---|---|---|---|
+| 2026-11-09 | DOJ | [Pensacola Felon Indicted on Federal Firearm Charge](https://www.justice.gov/usao-ndfl/pr/pensacola-felon-indicted-federal-firearm-charge) | indict |
+| 2026-11-06 | DOJ | [Santa Clara Man Indicted for Making False Statements to Acquire Firearms After Prior Commitment to Mental Institution Related to School Shooting Plans](https://www.justice.gov/usao-ndca/pr/santa-clara-man-indicted-making-false-statements-acquire-firearms-after-prior) | indict |
 | 2026-11-06 | OFAC | [Iran-related Designations](https://ofac.treasury.gov/recent-actions/20261106) | iran |
 | 2026-11-04 | OFAC | [Iran-related Designations; Updates to Certain Iran-related Listings; Publication of Iran-related OFAC Alert; Issuance of Amended Venezuela-related General License and Frequently Asked Question](https://ofac.treasury.gov/recent-actions/20261104) | ofac, iran, general license |
 | 2026-10-29 | OFAC | [Issuance of Amended Iran-related General License](https://ofac.treasury.gov/recent-actions/20261029) | iran, general license |

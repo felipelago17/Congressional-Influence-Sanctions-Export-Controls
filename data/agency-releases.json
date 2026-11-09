@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T14:33:36+00:00",
+  "generated_at": "2026-11-09T17:50:06+00:00",
   "sources_ok": [
     "DOJ RSS (25)",
     "BIS (51)",
@@ -153,6 +153,24 @@
     }
   ],
   "scan": [
+    {
+      "agency": "DOJ",
+      "title": "Pensacola Felon Indicted on Federal Firearm Charge",
+      "url": "https://www.justice.gov/usao-ndfl/pr/pensacola-felon-indicted-federal-firearm-charge",
+      "date": "2026-11-09",
+      "matched_keywords": [
+        "indict"
+      ]
+    },
+    {
+      "agency": "DOJ",
+      "title": "Santa Clara Man Indicted for Making False Statements to Acquire Firearms After Prior Commitment to Mental Institution Related to School Shooting Plans",
+      "url": "https://www.justice.gov/usao-ndca/pr/santa-clara-man-indicted-making-false-statements-acquire-firearms-after-prior",
+      "date": "2026-11-06",
+      "matched_keywords": [
+        "indict"
+      ]
+    },
     {
       "agency": "BIS",
       "title": "BIS Reaches Administrative Enforcement Settlement with Lambda Research Corporation",
