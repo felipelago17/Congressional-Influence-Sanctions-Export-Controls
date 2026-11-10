@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:50:06+00:00",
+  "generated_at": "2026-11-10T15:48:40+00:00",
   "sources_ok": [
     "DOJ RSS (25)",
     "BIS (51)",
@@ -155,8 +155,8 @@
   "scan": [
     {
       "agency": "DOJ",
-      "title": "Pensacola Felon Indicted on Federal Firearm Charge",
-      "url": "https://www.justice.gov/usao-ndfl/pr/pensacola-felon-indicted-federal-firearm-charge",
+      "title": "New Orleans Man Indicted for Violating Federal Controlled Substances Act",
+      "url": "https://www.justice.gov/usao-edla/pr/new-orleans-man-indicted-violating-federal-controlled-substances-act-2",
       "date": "2026-11-09",
       "matched_keywords": [
         "indict"
@@ -164,11 +164,38 @@
     },
     {
       "agency": "DOJ",
-      "title": "Santa Clara Man Indicted for Making False Statements to Acquire Firearms After Prior Commitment to Mental Institution Related to School Shooting Plans",
-      "url": "https://www.justice.gov/usao-ndca/pr/santa-clara-man-indicted-making-false-statements-acquire-firearms-after-prior",
-      "date": "2026-11-06",
+      "title": "Homeland Security Task Force Investigation Leads to Indictment of Multiple Defendants in Fentanyl-Related Death Case",
+      "url": "https://www.justice.gov/usao-ut/pr/homeland-security-task-force-investigation-leads-indictment-multiple-defendants-fentanyl",
+      "date": "2026-11-09",
       "matched_keywords": [
         "indict"
+      ]
+    },
+    {
+      "agency": "DOJ",
+      "title": "Merced County teacher indicted for distribution of child sexual abuse material (CSAM)",
+      "url": "https://www.justice.gov/usao-edca/pr/merced-county-teacher-indicted-distribution-child-sexual-abuse-material-csam",
+      "date": "2026-11-09",
+      "matched_keywords": [
+        "indict"
+      ]
+    },
+    {
+      "agency": "DOJ",
+      "title": "North Carolina Man Indicted for Mailing Antisemitic Threats to Jewish Organizations and Secret Service Protectees in South Florida",
+      "url": "https://www.justice.gov/usao-sdfl/pr/north-carolina-man-indicted-mailing-antisemitic-threats-jewish-organizations-and",
+      "date": "2026-11-09",
+      "matched_keywords": [
+        "indict"
+      ]
+    },
+    {
+      "agency": "DOJ",
+      "title": "Panga Boat Pilots Sentenced in Maritime Smuggling Event that Killed Four in Homeland Security Task Force Case",
+      "url": "https://www.justice.gov/usao-sdca/pr/panga-boat-pilots-sentenced-maritime-smuggling-event-killed-four-homeland-security",
+      "date": "2026-11-09",
+      "matched_keywords": [
+        "smuggl"
       ]
     },
     {
@@ -450,6 +477,15 @@
     },
     {
       "agency": "OFAC",
+      "title": "Iran Designation Update",
+      "url": "https://ofac.treasury.gov/recent-actions/20261109",
+      "date": "2026-11-09",
+      "matched_keywords": [
+        "iran"
+      ]
+    },
+    {
+      "agency": "OFAC",
       "title": "Iran-related Designations",
       "url": "https://ofac.treasury.gov/recent-actions/20261106",
       "date": "2026-11-06",
@@ -522,15 +558,6 @@
       "title": "Protecting American Intellectual Property Act of 2022 (PAIPA) Designations; Issuance of Associated General Licenses",
       "url": "https://ofac.treasury.gov/recent-actions/20261019",
       "date": "2026-10-19",
-      "matched_keywords": [
-        "general license"
-      ]
-    },
-    {
-      "agency": "OFAC",
-      "title": "Issuance of Amended Venezuela-related General License and Frequently Asked Question",
-      "url": "https://ofac.treasury.gov/recent-actions/20261016",
-      "date": "2026-10-16",
       "matched_keywords": [
         "general license"
       ]
