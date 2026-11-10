@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:39:12+00:00",
+  "generated_at": "2026-11-10T15:41:50+00:00",
   "source": "https://api.congress.gov/v3",
   "chamber_composition": {
     "House": {
@@ -35,37 +35,6 @@
     "bureau of industry and security"
   ],
   "watchlist": [
-    {
-      "recorded_votes": [
-        {
-          "chamber": "House",
-          "date": "2026-01-12",
-          "roll_number": 13,
-          "session": 2,
-          "action": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 369 - 22 (Roll no. 13). (text: CR H621-622)",
-          "url": "https://clerk.house.gov/evs/2026/roll013.xml"
-        }
-      ],
-      "id": "rasa-hr2683-119",
-      "label": "Remote Access Security Act (House)",
-      "congress": 119,
-      "number": "HR.2683",
-      "title": "Remote Access Security Act",
-      "introduced": "2025-04-07",
-      "latest_action_date": "2026-01-13",
-      "latest_action": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "sponsor_party_counts": {
-        "R": 1
-      },
-      "cosponsor_party_counts": {
-        "D": 9,
-        "R": 8
-      },
-      "cosponsor_total": 17,
-      "policy_area": "Foreign Trade and International Finance",
-      "committees_url": "https://api.congress.gov/v3/bill/119/hr/2683/committees?format=json",
-      "url": "https://www.congress.gov/bill/119th-congress/house-bill/2683"
-    },
     {
       "recorded_votes": [],
       "id": "rasa-s3519-119",
@@ -144,17 +113,5 @@
       "url": "https://www.congress.gov/bill/119th-congress/house-bill/5334"
     }
   ],
-  "scan": [
-    {
-      "congress": 119,
-      "number": "HR.5334",
-      "title": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
-      "latest_action_date": "2026-09-18",
-      "latest_action": "Became Public Law No: 119-111.",
-      "matched_keywords": [
-        "sanction"
-      ],
-      "url": "https://www.congress.gov/bill/119th-congress/house-bill/5334"
-    }
-  ]
+  "scan": []
 }
