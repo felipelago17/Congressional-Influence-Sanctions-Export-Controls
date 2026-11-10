@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-09T17:46:18+00:00",
+  "generated_at": "2026-11-10T15:45:18+00:00",
   "new_days": 7,
   "datasets": [
     {
       "slug": "us_ofac_sdn",
       "entity_count": 72987,
       "target_count": 20541,
-      "last_change": "2026-11-06T20:10:04",
-      "last_export": "2026-11-09T16:10:05",
+      "last_change": "2026-11-09T20:10:22",
+      "last_export": "2026-11-10T14:10:04",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [
         {
@@ -499,7 +499,7 @@
       "entity_count": 2064,
       "target_count": 716,
       "last_change": "2026-11-04T18:36:35",
-      "last_export": "2026-11-09T16:35:05",
+      "last_export": "2026-11-10T14:35:05",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -508,9 +508,9 @@
     {
       "slug": "us_bis_denied",
       "entity_count": 876,
-      "target_count": 374,
-      "last_change": "2026-11-05T00:57:08",
-      "last_export": "2026-11-09T16:57:16",
+      "target_count": 373,
+      "last_change": "2026-11-10T00:57:08",
+      "last_export": "2026-11-10T08:57:06",
       "publisher_url": "https://www.bis.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -521,7 +521,7 @@
       "entity_count": 30659,
       "target_count": 24389,
       "last_change": "2026-11-06T21:53:05",
-      "last_export": "2026-11-09T15:54:39",
+      "last_export": "2026-11-10T12:56:25",
       "publisher_url": "https://www.trade.gov/",
       "new_targets": [
         {

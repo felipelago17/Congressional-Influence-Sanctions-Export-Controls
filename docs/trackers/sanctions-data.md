@@ -1,14 +1,14 @@
 # Sanctions and export-control lists (OpenSanctions)
 
-*Auto-generated 2026-11-09 17:46 UTC. Statistics and new listings from [OpenSanctions](https://www.opensanctions.org/) bulk data (CC BY-NC 4.0), which mirrors the official OFAC and BIS publications. Always verify against the issuing agency before acting. Not legal advice.*
+*Auto-generated 2026-11-10 15:45 UTC. Statistics and new listings from [OpenSanctions](https://www.opensanctions.org/) bulk data (CC BY-NC 4.0), which mirrors the official OFAC and BIS publications. Always verify against the issuing agency before acting. Not legal advice.*
 
 ## List statistics
 
 | List | Entities | Last change | New in last 7 days |
 |---|---|---|---|
-| [OFAC Specially Designated Nationals (SDN)](https://www.opensanctions.org/datasets/us_ofac_sdn/) | 72987 | 2026-11-06 | 85 |
+| [OFAC Specially Designated Nationals (SDN)](https://www.opensanctions.org/datasets/us_ofac_sdn/) | 72987 | 2026-11-09 | 85 |
 | [OFAC Consolidated (non-SDN) List](https://www.opensanctions.org/datasets/us_ofac_cons/) | 2064 | 2026-11-04 | 0 |
-| [BIS Denied Persons List](https://www.opensanctions.org/datasets/us_bis_denied/) | 876 | 2026-11-05 | 0 |
+| [BIS Denied Persons List](https://www.opensanctions.org/datasets/us_bis_denied/) | 876 | 2026-11-10 | 0 |
 | [Consolidated Screening List (Commerce/State/Treasury)](https://www.opensanctions.org/datasets/us_trade_csl/) | 30659 | 2026-11-06 | 78 |
 
 ## New in OFAC Specially Designated Nationals (SDN) (last 7 days)
