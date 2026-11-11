@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T15:41:50+00:00",
+  "generated_at": "2026-11-11T15:25:33+00:00",
   "source": "https://api.congress.gov/v3",
   "chamber_composition": {
     "House": {
@@ -35,6 +35,37 @@
     "bureau of industry and security"
   ],
   "watchlist": [
+    {
+      "recorded_votes": [
+        {
+          "chamber": "House",
+          "date": "2026-01-12",
+          "roll_number": 13,
+          "session": 2,
+          "action": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 369 - 22 (Roll no. 13). (text: CR H621-622)",
+          "url": "https://clerk.house.gov/evs/2026/roll013.xml"
+        }
+      ],
+      "id": "rasa-hr2683-119",
+      "label": "Remote Access Security Act (House)",
+      "congress": 119,
+      "number": "HR.2683",
+      "title": "Remote Access Security Act",
+      "introduced": "2025-04-07",
+      "latest_action_date": "2026-01-13",
+      "latest_action": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "sponsor_party_counts": {
+        "R": 1
+      },
+      "cosponsor_party_counts": {
+        "D": 9,
+        "R": 8
+      },
+      "cosponsor_total": 17,
+      "policy_area": "Foreign Trade and International Finance",
+      "committees_url": "https://api.congress.gov/v3/bill/119/hr/2683/committees?format=json",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/2683"
+    },
     {
       "recorded_votes": [],
       "id": "rasa-s3519-119",
@@ -113,5 +144,160 @@
       "url": "https://www.congress.gov/bill/119th-congress/house-bill/5334"
     }
   ],
-  "scan": []
+  "scan": [
+    {
+      "congress": 117,
+      "number": "HR.5404",
+      "title": "Taliban Rare Earth Minerals Sanctions Act",
+      "latest_action_date": "2022-11-01",
+      "latest_action": "Referred to the Subcommittee on Immigration and Citizenship.",
+      "matched_keywords": [
+        "sanction"
+      ],
+      "url": "https://www.congress.gov/bill/117th-congress/house-bill/5404"
+    },
+    {
+      "congress": 118,
+      "number": "S.4769",
+      "title": "VET Artificial Intelligence Act",
+      "latest_action_date": "2024-12-18",
+      "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 727.",
+      "matched_keywords": [
+        "artificial intelligence"
+      ],
+      "url": "https://www.congress.gov/bill/118th-congress/senate-bill/4769"
+    },
+    {
+      "congress": 118,
+      "number": "HR.820",
+      "title": "Foreign Adversary Communications Transparency Act",
+      "latest_action_date": "2024-09-16",
+      "latest_action": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 511.",
+      "matched_keywords": [
+        "foreign adversary"
+      ],
+      "url": "https://www.congress.gov/bill/118th-congress/house-bill/820"
+    },
+    {
+      "congress": 118,
+      "number": "HR.820",
+      "title": "Foreign Adversary Communications Transparency Act",
+      "latest_action_date": "2024-09-16",
+      "latest_action": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 511.",
+      "matched_keywords": [
+        "foreign adversary"
+      ],
+      "url": "https://www.congress.gov/bill/118th-congress/house-bill/820"
+    },
+    {
+      "congress": 118,
+      "number": "HR.690",
+      "title": "Taliban Rare Earth Minerals Sanctions Act",
+      "latest_action_date": "2023-01-31",
+      "latest_action": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "matched_keywords": [
+        "sanction"
+      ],
+      "url": "https://www.congress.gov/bill/118th-congress/house-bill/690"
+    },
+    {
+      "congress": 119,
+      "number": "HRES.1642",
+      "title": "Expressing the sense of the House of Representatives that Congress must refuse to provide any additional funds or exceptional regulatory support to companies or financial institutions facing insolvency or financial collapse due to exposures to acute stress within the artificial intelligence market and must provide support to all harmed Americans instead.",
+      "latest_action_date": "2026-10-29",
+      "latest_action": "Referred to the Committee on Financial Services, and in addition to the Committees on the Judiciary, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "matched_keywords": [
+        "artificial intelligence"
+      ],
+      "url": "https://www.congress.gov/bill/119th-congress/house-resolution/1642"
+    },
+    {
+      "congress": 119,
+      "number": "HR.10828",
+      "title": "To impose sanctions with respect to oil and gas extraction and refinement by the Russian Federation, and for other purposes.",
+      "latest_action_date": "2026-10-15",
+      "latest_action": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, Ways and Means, Oversight and Government Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "matched_keywords": [
+        "sanction"
+      ],
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/10828"
+    },
+    {
+      "congress": 119,
+      "number": "HR.10981",
+      "title": "To direct the Secretary of Commerce to promulgate regulations related to certain artificial intelligence models, and for other purposes.",
+      "latest_action_date": "2026-11-10",
+      "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "matched_keywords": [
+        "artificial intelligence"
+      ],
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/10981"
+    },
+    {
+      "congress": 119,
+      "number": "HR.10981",
+      "title": "To direct the Secretary of Commerce to promulgate regulations related to certain artificial intelligence models, and for other purposes.",
+      "latest_action_date": "2026-11-10",
+      "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "matched_keywords": [
+        "artificial intelligence"
+      ],
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/10981"
+    },
+    {
+      "congress": 119,
+      "number": "HR.906",
+      "title": "Foreign Adversary Communications Transparency Act",
+      "latest_action_date": "2025-04-29",
+      "latest_action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "matched_keywords": [
+        "foreign adversary"
+      ],
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/906"
+    },
+    {
+      "congress": 119,
+      "number": "S.2615",
+      "title": "VET Artificial Intelligence Act",
+      "latest_action_date": "2025-07-31",
+      "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "matched_keywords": [
+        "artificial intelligence"
+      ],
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2615"
+    },
+    {
+      "congress": 119,
+      "number": "S.259",
+      "title": "Foreign Adversary Communications Transparency Act",
+      "latest_action_date": "2025-10-24",
+      "latest_action": "Held at the desk.",
+      "matched_keywords": [
+        "foreign adversary"
+      ],
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/259"
+    },
+    {
+      "congress": 119,
+      "number": "S.259",
+      "title": "Foreign Adversary Communications Transparency Act",
+      "latest_action_date": "2025-10-24",
+      "latest_action": "Held at the desk.",
+      "matched_keywords": [
+        "foreign adversary"
+      ],
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/259"
+    },
+    {
+      "congress": 119,
+      "number": "HR.969",
+      "title": "Taliban Rare Earth Minerals Sanctions Act",
+      "latest_action_date": "2025-02-04",
+      "latest_action": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "matched_keywords": [
+        "sanction"
+      ],
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/969"
+    }
+  ]
 }
