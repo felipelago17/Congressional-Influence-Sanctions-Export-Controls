@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T15:25:33+00:00",
+  "generated_at": "2026-11-12T16:03:04+00:00",
   "source": "https://api.congress.gov/v3",
   "chamber_composition": {
     "House": {
@@ -180,17 +180,6 @@
     },
     {
       "congress": 118,
-      "number": "HR.820",
-      "title": "Foreign Adversary Communications Transparency Act",
-      "latest_action_date": "2024-09-16",
-      "latest_action": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 511.",
-      "matched_keywords": [
-        "foreign adversary"
-      ],
-      "url": "https://www.congress.gov/bill/118th-congress/house-bill/820"
-    },
-    {
-      "congress": 118,
       "number": "HR.690",
       "title": "Taliban Rare Earth Minerals Sanctions Act",
       "latest_action_date": "2023-01-31",
@@ -224,28 +213,6 @@
     },
     {
       "congress": 119,
-      "number": "HR.10981",
-      "title": "To direct the Secretary of Commerce to promulgate regulations related to certain artificial intelligence models, and for other purposes.",
-      "latest_action_date": "2026-11-10",
-      "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "matched_keywords": [
-        "artificial intelligence"
-      ],
-      "url": "https://www.congress.gov/bill/119th-congress/house-bill/10981"
-    },
-    {
-      "congress": 119,
-      "number": "HR.10981",
-      "title": "To direct the Secretary of Commerce to promulgate regulations related to certain artificial intelligence models, and for other purposes.",
-      "latest_action_date": "2026-11-10",
-      "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "matched_keywords": [
-        "artificial intelligence"
-      ],
-      "url": "https://www.congress.gov/bill/119th-congress/house-bill/10981"
-    },
-    {
-      "congress": 119,
       "number": "HR.906",
       "title": "Foreign Adversary Communications Transparency Act",
       "latest_action_date": "2025-04-29",
@@ -254,28 +221,6 @@
         "foreign adversary"
       ],
       "url": "https://www.congress.gov/bill/119th-congress/house-bill/906"
-    },
-    {
-      "congress": 119,
-      "number": "S.2615",
-      "title": "VET Artificial Intelligence Act",
-      "latest_action_date": "2025-07-31",
-      "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "matched_keywords": [
-        "artificial intelligence"
-      ],
-      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2615"
-    },
-    {
-      "congress": 119,
-      "number": "S.259",
-      "title": "Foreign Adversary Communications Transparency Act",
-      "latest_action_date": "2025-10-24",
-      "latest_action": "Held at the desk.",
-      "matched_keywords": [
-        "foreign adversary"
-      ],
-      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/259"
     },
     {
       "congress": 119,
