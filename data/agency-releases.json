@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T15:38:52+00:00",
+  "generated_at": "2026-11-12T16:19:34+00:00",
   "sources_ok": [
     "DOJ RSS (25)",
     "BIS (51)",
@@ -153,15 +153,6 @@
     }
   ],
   "scan": [
-    {
-      "agency": "DOJ",
-      "title": "Colombian-Based Cocaine Importers Indicted in Drug Conspiracy and Conspiracy to Provide Material Support to the FARC",
-      "url": "https://www.justice.gov/usao-edla/pr/colombian-based-cocaine-importers-indicted-drug-conspiracy-and-conspiracy-provide",
-      "date": "2026-11-10",
-      "matched_keywords": [
-        "indict"
-      ]
-    },
     {
       "agency": "BIS",
       "title": "BIS Reaches Administrative Enforcement Settlement with Lambda Research Corporation",
