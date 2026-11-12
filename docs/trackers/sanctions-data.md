@@ -1,15 +1,15 @@
 # Sanctions and export-control lists (OpenSanctions)
 
-*Auto-generated 2026-11-11 15:35 UTC. Statistics and new listings from [OpenSanctions](https://www.opensanctions.org/) bulk data (CC BY-NC 4.0), which mirrors the official OFAC and BIS publications. Always verify against the issuing agency before acting. Not legal advice.*
+*Auto-generated 2026-11-12 16:11 UTC. Statistics and new listings from [OpenSanctions](https://www.opensanctions.org/) bulk data (CC BY-NC 4.0), which mirrors the official OFAC and BIS publications. Always verify against the issuing agency before acting. Not legal advice.*
 
 ## List statistics
 
 | List | Entities | Last change | New in last 7 days |
 |---|---|---|---|
-| [OFAC Specially Designated Nationals (SDN)](https://www.opensanctions.org/datasets/us_ofac_sdn/) | 72987 | 2026-11-09 | 85 |
+| [OFAC Specially Designated Nationals (SDN)](https://www.opensanctions.org/datasets/us_ofac_sdn/) | 72987 | 2026-11-09 | 70 |
 | [OFAC Consolidated (non-SDN) List](https://www.opensanctions.org/datasets/us_ofac_cons/) | 2064 | 2026-11-04 | 0 |
 | [BIS Denied Persons List](https://www.opensanctions.org/datasets/us_bis_denied/) | 876 | 2026-11-11 | 0 |
-| [Consolidated Screening List (Commerce/State/Treasury)](https://www.opensanctions.org/datasets/us_trade_csl/) | 30659 | 2026-11-06 | 78 |
+| [Consolidated Screening List (Commerce/State/Treasury)](https://www.opensanctions.org/datasets/us_trade_csl/) | 30659 | 2026-11-06 | 63 |
 
 ## New in OFAC Specially Designated Nationals (SDN) (last 7 days)
 
@@ -76,7 +76,7 @@
 | 2026-11-05 | [DIRECT ASTUTE HK LIMITED](https://www.opensanctions.org/entities/ofac-58663/) | Organization | cn;hk | TCO - Executive Order 13581 (TCO) |
 | 2026-11-05 | [Cambodian First Unite Construction machinery Co., Ltd.](https://www.opensanctions.org/entities/ofac-58637/) | Organization | kh | TCO - Executive Order 13581 (TCO) |
 
-_Showing 60 of 85._
+_Showing 60 of 70._
 
 ## New in Consolidated Screening List (Commerce/State/Treasury) (last 7 days)
 
@@ -143,7 +143,7 @@ _Showing 60 of 85._
 | 2026-11-05 | [CAMBODIAN FIRST UNITE CONSTRUCTION MACHINERY CO., LTD.](https://www.opensanctions.org/entities/ofac-58637/) | Organization |  |  |
 | 2026-11-05 | [CAMBODIA FIRST UNITE CONSTRUCTION GROUP CO., LTD.](https://www.opensanctions.org/entities/ofac-58627/) | Organization |  |  |
 
-_Showing 60 of 78._
+_Showing 60 of 63._
 
 ---
 Designation volume is an **action** metric. It is never read as evidence of congressional influence unless a [graded linkage](../methodology/linkage-grades.md) is documented.

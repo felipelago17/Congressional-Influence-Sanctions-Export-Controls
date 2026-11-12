@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T15:35:06+00:00",
+  "generated_at": "2026-11-12T16:11:29+00:00",
   "new_days": 7,
   "datasets": [
     {
@@ -7,7 +7,7 @@
       "entity_count": 72987,
       "target_count": 20541,
       "last_change": "2026-11-09T20:10:22",
-      "last_export": "2026-11-11T14:10:06",
+      "last_export": "2026-11-12T14:10:47",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [
         {
@@ -491,7 +491,7 @@
           "id": "ofac-58637"
         }
       ],
-      "new_target_count": 85,
+      "new_target_count": 70,
       "label": "OFAC Specially Designated Nationals (SDN)"
     },
     {
@@ -499,7 +499,7 @@
       "entity_count": 2064,
       "target_count": 716,
       "last_change": "2026-11-04T18:36:35",
-      "last_export": "2026-11-11T14:35:05",
+      "last_export": "2026-11-12T14:35:05",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -510,7 +510,7 @@
       "entity_count": 876,
       "target_count": 372,
       "last_change": "2026-11-11T00:57:11",
-      "last_export": "2026-11-11T08:57:06",
+      "last_export": "2026-11-12T08:57:05",
       "publisher_url": "https://www.bis.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -521,7 +521,7 @@
       "entity_count": 30659,
       "target_count": 24389,
       "last_change": "2026-11-06T21:53:05",
-      "last_export": "2026-11-11T12:57:01",
+      "last_export": "2026-11-12T15:53:05",
       "publisher_url": "https://www.trade.gov/",
       "new_targets": [
         {
@@ -1005,7 +1005,7 @@
           "id": "ofac-58627"
         }
       ],
-      "new_target_count": 78,
+      "new_target_count": 63,
       "label": "Consolidated Screening List (Commerce/State/Treasury)"
     }
   ]
