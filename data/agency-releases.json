@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T16:19:34+00:00",
+  "generated_at": "2026-11-13T15:43:00+00:00",
   "sources_ok": [
     "DOJ RSS (25)",
     "BIS (51)",
@@ -153,6 +153,33 @@
     }
   ],
   "scan": [
+    {
+      "agency": "DOJ",
+      "title": "Monroe County Man and Lehigh County Woman Indicted for Drug Offenses",
+      "url": "https://www.justice.gov/usao-mdpa/pr/monroe-county-man-and-lehigh-county-woman-indicted-drug-offenses",
+      "date": "2026-11-13",
+      "matched_keywords": [
+        "indict"
+      ]
+    },
+    {
+      "agency": "DOJ",
+      "title": "Mexican Drug Trafficker Pleads Guilty Using Minors, Aircraft to Smuggle Drugs into the United States",
+      "url": "https://www.justice.gov/usao-sdca/pr/mexican-drug-trafficker-pleads-guilty-using-minors-aircraft-smuggle-drugs-united",
+      "date": "2026-11-12",
+      "matched_keywords": [
+        "smuggl"
+      ]
+    },
+    {
+      "agency": "DOJ",
+      "title": "Justice Department Announces Actions to Disrupt North Korea’s Massive Theft of Cryptocurrency",
+      "url": "https://www.justice.gov/usao-cdca/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
+      "date": "2026-11-12",
+      "matched_keywords": [
+        "north korea"
+      ]
+    },
     {
       "agency": "BIS",
       "title": "BIS Reaches Administrative Enforcement Settlement with Lambda Research Corporation",
