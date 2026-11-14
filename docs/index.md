@@ -30,7 +30,7 @@ Every entry includes:
 - [Sanctions Lists](trackers/sanctions-data.md) — OFAC/BIS list statistics and new listings, daily via OpenSanctions
 - [Enforcement Actions](trackers/enforcement-actions.md) — DOJ NSD / OFAC / BIS resolutions and AI-chip diversion prosecutions, 2025–26 (24 entries; hand-curated, primary sources)
 - Trackers (YAML): `trackers/signals.yaml`, `trackers/enforcement-actions.yaml`, `trackers/regulations-under-discussion.yaml`, `trackers/linkages.yaml`, `trackers/bill-watchlist.yaml`
-- Analysis — reading notes on labeled secondary commentary (Tier 3), with the primary sources each item still needs: [Sanctions Drop #18](analysis/sanctions-drop-18-democrats-take-congress.md) · [Dow Jones Risk Journal, 4 Nov 2026](analysis/dj-risk-journal-tweaks-not-major-change.md) · [Al Jazeera, 4 Nov 2026](analysis/aljazeera-democrats-win-congress.md)
+- Analysis — reading notes on labeled secondary commentary (Tier 3), with the primary sources each item still needs: [Nvidia CEO resignation and export controls, 14 Nov 2026](analysis/nvidia-ceo-resignation-export-controls.md) · [Sanctions Drop #18](analysis/sanctions-drop-18-democrats-take-congress.md) · [Dow Jones Risk Journal, 4 Nov 2026](analysis/dj-risk-journal-tweaks-not-major-change.md) · [Al Jazeera, 4 Nov 2026](analysis/aljazeera-democrats-win-congress.md)
 - [Daily digest](news/digest.md)
 
 ## Current baseline (November 2026)

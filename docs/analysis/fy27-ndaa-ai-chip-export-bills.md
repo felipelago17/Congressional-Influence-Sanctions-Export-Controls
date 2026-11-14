@@ -72,3 +72,5 @@ None of these is an observed action as of 8 Nov 2026. They are recorded so that 
 ---
 
 *Reading note prepared 8 November 2026. Companion analysis on the control-design implications is maintained in the Sanctions-and-Export-Controls-AI-and-Oil repository (case note and legislation tracker).*
+
+**Update, 14 Nov 2026:** Nvidia's CEO resigned on 12 Nov. See the [follow-up reading note](nvidia-ceo-resignation-export-controls.md) — no control has changed; the effect so far is on congressional salience and NDAA pressure.
