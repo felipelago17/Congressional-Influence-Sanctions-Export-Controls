@@ -1,6 +1,6 @@
 # Agency enforcement releases (DOJ · BIS · OFAC)
 
-*Auto-generated 2026-11-13 15:43 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
+*Auto-generated 2026-11-14 14:33 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
 
 Sources reachable this run: DOJ RSS (25), BIS (51), OFAC (64)
 
@@ -26,9 +26,8 @@ Keywords: `sanction`, `export control`, `export administration`, `entity list`, 
 
 | Date | Agency | Title | Matched |
 |---|---|---|---|
-| 2026-11-13 | DOJ | [Monroe County Man and Lehigh County Woman Indicted for Drug Offenses](https://www.justice.gov/usao-mdpa/pr/monroe-county-man-and-lehigh-county-woman-indicted-drug-offenses) | indict |
-| 2026-11-12 | DOJ | [Mexican Drug Trafficker Pleads Guilty Using Minors, Aircraft to Smuggle Drugs into the United States](https://www.justice.gov/usao-sdca/pr/mexican-drug-trafficker-pleads-guilty-using-minors-aircraft-smuggle-drugs-united) | smuggl |
-| 2026-11-12 | DOJ | [Justice Department Announces Actions to Disrupt North Korea’s Massive Theft of Cryptocurrency](https://www.justice.gov/usao-cdca/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency) | north korea |
+| 2026-11-13 | DOJ | [Northern Kentucky Man and Former Lawyer Indicted in Alleged Murder-for-Hire Scheme](https://www.justice.gov/usao-edky/pr/northern-kentucky-man-and-former-lawyer-indicted-alleged-murder-hire-scheme) | indict |
+| 2026-11-13 | DOJ | [Kansas bookkeeper indicted for embezzling from employer](https://www.justice.gov/usao-ks/pr/kansas-bookkeeper-indicted-embezzling-employer) | indict |
 | 2026-11-09 | OFAC | [Iran Designation Update](https://ofac.treasury.gov/recent-actions/20261109) | iran |
 | 2026-11-06 | OFAC | [Iran-related Designations](https://ofac.treasury.gov/recent-actions/20261106) | iran |
 | 2026-11-04 | OFAC | [Iran-related Designations; Updates to Certain Iran-related Listings; Publication of Iran-related OFAC Alert; Issuance of Amended Venezuela-related General License and Frequently Asked Question](https://ofac.treasury.gov/recent-actions/20261104) | ofac, iran, general license |
@@ -37,7 +36,6 @@ Keywords: `sanction`, `export control`, `export administration`, `entity list`, 
 | 2026-10-27 | OFAC | [Settlement Agreement between the U.S. Department of the Treasury's Office of Foreign Assets Control and Extreme Networks, Inc.](https://ofac.treasury.gov/recent-actions/20261027) | settlement |
 | 2026-10-26 | OFAC | [Issuance of Amended Frequently Asked Questions Regarding Blocking and Rejecting Transactions and Filing Reports with OFAC](https://ofac.treasury.gov/recent-actions/20261026) | ofac |
 | 2026-10-21 | OFAC | [Iran-related Designations; Belarus and North Korea Designations Removals; Issuance of Iran-related and Russia-related General Licenses and Amended Frequently Asked Questions](https://ofac.treasury.gov/recent-actions/20261021) | russia, iran, north korea, general license |
-| 2026-10-19 | OFAC | [Protecting American Intellectual Property Act of 2022 (PAIPA) Designations; Issuance of Associated General Licenses](https://ofac.treasury.gov/recent-actions/20261019) | general license |
 | 2026-10-02 | BIS | [BIS Reaches Administrative Enforcement Settlement with Lambda Research Corporation](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-lambda-research-corporation) | settlement |
 | 2026-10-02 | BIS | [BIS Reaches Administrative Enforcement Settlement with Lambda Research Corporation](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-lambda-research-corporation) | settlement |
 | 2026-10-02 | BIS | [BIS Reaches Administrative Enforcement Settlement with Container Manufacturing Ltd.](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-container-manufacturing-ltd.) | settlement |

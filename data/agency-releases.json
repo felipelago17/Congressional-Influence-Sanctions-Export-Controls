@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T15:43:00+00:00",
+  "generated_at": "2026-11-14T14:33:18+00:00",
   "sources_ok": [
     "DOJ RSS (25)",
     "BIS (51)",
@@ -155,8 +155,8 @@
   "scan": [
     {
       "agency": "DOJ",
-      "title": "Monroe County Man and Lehigh County Woman Indicted for Drug Offenses",
-      "url": "https://www.justice.gov/usao-mdpa/pr/monroe-county-man-and-lehigh-county-woman-indicted-drug-offenses",
+      "title": "Northern Kentucky Man and Former Lawyer Indicted in Alleged Murder-for-Hire Scheme",
+      "url": "https://www.justice.gov/usao-edky/pr/northern-kentucky-man-and-former-lawyer-indicted-alleged-murder-hire-scheme",
       "date": "2026-11-13",
       "matched_keywords": [
         "indict"
@@ -164,20 +164,11 @@
     },
     {
       "agency": "DOJ",
-      "title": "Mexican Drug Trafficker Pleads Guilty Using Minors, Aircraft to Smuggle Drugs into the United States",
-      "url": "https://www.justice.gov/usao-sdca/pr/mexican-drug-trafficker-pleads-guilty-using-minors-aircraft-smuggle-drugs-united",
-      "date": "2026-11-12",
+      "title": "Kansas bookkeeper indicted for embezzling from employer",
+      "url": "https://www.justice.gov/usao-ks/pr/kansas-bookkeeper-indicted-embezzling-employer",
+      "date": "2026-11-13",
       "matched_keywords": [
-        "smuggl"
-      ]
-    },
-    {
-      "agency": "DOJ",
-      "title": "Justice Department Announces Actions to Disrupt North Korea’s Massive Theft of Cryptocurrency",
-      "url": "https://www.justice.gov/usao-cdca/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
-      "date": "2026-11-12",
-      "matched_keywords": [
-        "north korea"
+        "indict"
       ]
     },
     {
@@ -532,15 +523,6 @@
         "russia",
         "iran",
         "north korea",
-        "general license"
-      ]
-    },
-    {
-      "agency": "OFAC",
-      "title": "Protecting American Intellectual Property Act of 2022 (PAIPA) Designations; Issuance of Associated General Licenses",
-      "url": "https://ofac.treasury.gov/recent-actions/20261019",
-      "date": "2026-10-19",
-      "matched_keywords": [
         "general license"
       ]
     },
