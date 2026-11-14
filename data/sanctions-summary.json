@@ -1,129 +1,33 @@
 {
-  "generated_at": "2026-11-13T15:40:04+00:00",
+  "generated_at": "2026-11-14T14:26:55+00:00",
   "new_days": 7,
   "datasets": [
     {
       "slug": "us_ofac_sdn",
-      "entity_count": 72987,
-      "target_count": 20541,
-      "last_change": "2026-11-09T20:10:22",
-      "last_export": "2026-11-13T14:10:04",
+      "entity_count": 72994,
+      "target_count": 20543,
+      "last_change": "2026-11-13T18:10:05",
+      "last_export": "2026-11-14T14:10:05",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [
         {
-          "name": "Top PC Technician Inc",
+          "name": "Los Mendoza Drug Trafficking Organization",
           "schema": "Organization",
-          "countries": "ca",
-          "first_seen": "2026-11-06",
-          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-          "id": "ofac-59097"
+          "countries": "bz;gt;hn",
+          "first_seen": "2026-11-13",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-59031"
         },
         {
-          "name": "TW5NEaaoPHXC1rt5PaYgG474gQ49oiZ2F5",
-          "schema": "CryptoWallet",
-          "countries": "",
-          "first_seen": "2026-11-06",
-          "programs": "",
-          "id": "ofac-1d189391c0584843fb88a1f295c2c419dbc06c53"
-        },
-        {
-          "name": "TLyRLCNwBhaXkYak1bTFUYTj72crbgN5Vy",
-          "schema": "CryptoWallet",
-          "countries": "",
-          "first_seen": "2026-11-06",
-          "programs": "",
-          "id": "ofac-2eaca34b5b79d8ec3f991eb9b2f7114c0bbaf3ea"
-        },
-        {
-          "name": "TJT3JZKJWVHVkKRKSmWmg5UYHhAqBM7mfP",
-          "schema": "CryptoWallet",
-          "countries": "",
-          "first_seen": "2026-11-06",
-          "programs": "",
-          "id": "ofac-4b0c72f61331b648b9ee5aeabd7397959d0f930b"
-        },
-        {
-          "name": "TJHZswisiMgjioAVpmpMSWXCeQGCPjcTMK",
-          "schema": "CryptoWallet",
-          "countries": "",
-          "first_seen": "2026-11-06",
-          "programs": "",
-          "id": "ofac-2c73c3d640c471b297acb5a38a936167d96cb6c2"
-        },
-        {
-          "name": "THauYJJEaFGLpEknoKnYmXmT5TCeQGKjDE",
-          "schema": "CryptoWallet",
-          "countries": "",
-          "first_seen": "2026-11-06",
-          "programs": "",
-          "id": "ofac-0a2dc1ed9f9b1412218cfd3a29f52c83648678b7"
-        },
-        {
-          "name": "TCreRMzGspdHNEkqkasejS6xTzqXNkYJJZ",
-          "schema": "CryptoWallet",
-          "countries": "",
-          "first_seen": "2026-11-06",
-          "programs": "",
-          "id": "ofac-f75ad8ee6ed23cd552ce23141c6bf896230f67cb"
-        },
-        {
-          "name": "NIA Nations Currency Ltd",
+          "name": "Los Lorenzanas",
           "schema": "Organization",
-          "countries": "ca",
-          "first_seen": "2026-11-06",
-          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-          "id": "ofac-59092"
-        },
-        {
-          "name": "Diverse Trade Inc",
-          "schema": "Organization",
-          "countries": "ca",
-          "first_seen": "2026-11-06",
-          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-          "id": "ofac-59091"
-        },
-        {
-          "name": "Darvish Exchange",
-          "schema": "Organization",
-          "countries": "ca",
-          "first_seen": "2026-11-06",
-          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-          "id": "ofac-59099"
-        },
-        {
-          "name": "CCC Inc",
-          "schema": "Organization",
-          "countries": "ca",
-          "first_seen": "2026-11-06",
-          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-          "id": "NK-H2kVLXQVkTzmLQKZhAEtYW"
-        },
-        {
-          "name": "B Galaxy Inc",
-          "schema": "Organization",
-          "countries": "ca",
-          "first_seen": "2026-11-06",
-          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-          "id": "ofac-59094"
-        },
-        {
-          "name": "2397639 Ontario Ltd",
-          "schema": "Organization",
-          "countries": "ca",
-          "first_seen": "2026-11-06",
-          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-          "id": "ofac-59095"
-        },
-        {
-          "name": "1380079 BC Ltd",
-          "schema": "Organization",
-          "countries": "ca",
-          "first_seen": "2026-11-06",
-          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
-          "id": "ofac-59096"
+          "countries": "gt",
+          "first_seen": "2026-11-13",
+          "programs": "FTO - INA - Executive Order 13224 (Terrorism)",
+          "id": "ofac-59070"
         }
       ],
-      "new_target_count": 14,
+      "new_target_count": 2,
       "label": "OFAC Specially Designated Nationals (SDN)"
     },
     {
@@ -131,7 +35,7 @@
       "entity_count": 2064,
       "target_count": 716,
       "last_change": "2026-11-04T18:36:35",
-      "last_export": "2026-11-13T14:35:05",
+      "last_export": "2026-11-14T12:35:04",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -142,7 +46,7 @@
       "entity_count": 876,
       "target_count": 372,
       "last_change": "2026-11-11T00:57:11",
-      "last_export": "2026-11-13T08:57:06",
+      "last_export": "2026-11-14T08:57:04",
       "publisher_url": "https://www.bis.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -152,68 +56,28 @@
       "slug": "us_trade_csl",
       "entity_count": 30659,
       "target_count": 24389,
-      "last_change": "2026-11-06T21:53:05",
-      "last_export": "2026-11-13T12:56:25",
+      "last_change": "2026-11-13T18:53:07",
+      "last_export": "2026-11-14T12:53:09",
       "publisher_url": "https://www.trade.gov/",
       "new_targets": [
         {
-          "name": "TOP PC TECHNICIAN INC",
+          "name": "LOS MENDOZA DRUG TRAFFICKING ORGANIZATION",
           "schema": "Organization",
           "countries": "",
-          "first_seen": "2026-11-06",
+          "first_seen": "2026-11-13",
           "programs": "",
-          "id": "ofac-59097"
+          "id": "ofac-59031"
         },
         {
-          "name": "NIA NATIONS CURRENCY LTD",
+          "name": "LOS LORENZANAS",
           "schema": "Organization",
           "countries": "",
-          "first_seen": "2026-11-06",
+          "first_seen": "2026-11-13",
           "programs": "",
-          "id": "ofac-59092"
-        },
-        {
-          "name": "DIVERSE TRADE INC",
-          "schema": "Organization",
-          "countries": "",
-          "first_seen": "2026-11-06",
-          "programs": "",
-          "id": "ofac-59091"
-        },
-        {
-          "name": "DARVISH EXCHANGE",
-          "schema": "Organization",
-          "countries": "",
-          "first_seen": "2026-11-06",
-          "programs": "",
-          "id": "ofac-59099"
-        },
-        {
-          "name": "B GALAXY INC",
-          "schema": "Organization",
-          "countries": "",
-          "first_seen": "2026-11-06",
-          "programs": "",
-          "id": "ofac-59094"
-        },
-        {
-          "name": "2397639 ONTARIO LTD",
-          "schema": "Organization",
-          "countries": "",
-          "first_seen": "2026-11-06",
-          "programs": "",
-          "id": "ofac-59095"
-        },
-        {
-          "name": "1380079 BC LTD",
-          "schema": "Organization",
-          "countries": "",
-          "first_seen": "2026-11-06",
-          "programs": "",
-          "id": "ofac-59096"
+          "id": "ofac-59070"
         }
       ],
-      "new_target_count": 7,
+      "new_target_count": 2,
       "label": "Consolidated Screening List (Commerce/State/Treasury)"
     }
   ]
