@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:26:55+00:00",
+  "generated_at": "2026-11-15T14:56:58+00:00",
   "new_days": 7,
   "datasets": [
     {
@@ -7,7 +7,7 @@
       "entity_count": 72994,
       "target_count": 20543,
       "last_change": "2026-11-13T18:10:05",
-      "last_export": "2026-11-14T14:10:05",
+      "last_export": "2026-11-15T14:10:04",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [
         {
@@ -15,7 +15,7 @@
           "schema": "Organization",
           "countries": "bz;gt;hn",
           "first_seen": "2026-11-13",
-          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
           "id": "ofac-59031"
         },
         {
@@ -35,7 +35,7 @@
       "entity_count": 2064,
       "target_count": 716,
       "last_change": "2026-11-04T18:36:35",
-      "last_export": "2026-11-14T12:35:04",
+      "last_export": "2026-11-15T14:35:05",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -46,7 +46,7 @@
       "entity_count": 876,
       "target_count": 372,
       "last_change": "2026-11-11T00:57:11",
-      "last_export": "2026-11-14T08:57:04",
+      "last_export": "2026-11-15T08:57:05",
       "publisher_url": "https://www.bis.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -57,7 +57,7 @@
       "entity_count": 30659,
       "target_count": 24389,
       "last_change": "2026-11-13T18:53:07",
-      "last_export": "2026-11-14T12:53:09",
+      "last_export": "2026-11-15T12:53:05",
       "publisher_url": "https://www.trade.gov/",
       "new_targets": [
         {
