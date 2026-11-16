@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T14:59:11+00:00",
+  "generated_at": "2026-11-16T17:29:16+00:00",
   "sources_ok": [
     "DOJ RSS (25)",
-    "BIS (51)",
+    "BIS (52)",
     "OFAC (64)"
   ],
   "sources_failed": [],
@@ -155,17 +155,36 @@
   "scan": [
     {
       "agency": "DOJ",
-      "title": "Northern Kentucky Man and Former Lawyer Indicted in Alleged Murder-for-Hire Scheme",
-      "url": "https://www.justice.gov/usao-edky/pr/northern-kentucky-man-and-former-lawyer-indicted-alleged-murder-hire-scheme",
-      "date": "2026-11-13",
+      "title": "Multiple individuals across the Southern District of Georgia have been indicted for firearms-related charges",
+      "url": "https://www.justice.gov/usao-sdga/pr/multiple-individuals-across-southern-district-georgia-have-been-indicted-firearms",
+      "date": "2026-11-16",
       "matched_keywords": [
         "indict"
       ]
     },
     {
       "agency": "DOJ",
-      "title": "Kansas bookkeeper indicted for embezzling from employer",
-      "url": "https://www.justice.gov/usao-ks/pr/kansas-bookkeeper-indicted-embezzling-employer",
+      "title": "Online Exploitation Investigation Leads to Federal Indictment of New Hampshire Man",
+      "url": "https://www.justice.gov/usao-edwi/pr/online-exploitation-investigation-leads-federal-indictment-new-hampshire-man",
+      "date": "2026-11-16",
+      "matched_keywords": [
+        "indict"
+      ]
+    },
+    {
+      "agency": "DOJ",
+      "title": "North Shore Man Sentenced to Two Years in Prison for Sending Money to Iran in Violation of U.S. Sanctions",
+      "url": "https://www.justice.gov/usao-hi/pr/north-shore-man-sentenced-two-years-prison-sending-money-iran-violation-us-sanctions",
+      "date": "2026-11-13",
+      "matched_keywords": [
+        "sanction",
+        "iran"
+      ]
+    },
+    {
+      "agency": "DOJ",
+      "title": "Northern Kentucky Man and Former Lawyer Indicted in Alleged Murder-for-Hire Scheme",
+      "url": "https://www.justice.gov/usao-edky/pr/northern-kentucky-man-and-former-lawyer-indicted-alleged-murder-hire-scheme",
       "date": "2026-11-13",
       "matched_keywords": [
         "indict"

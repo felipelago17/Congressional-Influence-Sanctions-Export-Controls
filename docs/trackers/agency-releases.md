@@ -1,8 +1,8 @@
 # Agency enforcement releases (DOJ · BIS · OFAC)
 
-*Auto-generated 2026-11-15 14:59 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
+*Auto-generated 2026-11-16 17:29 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
 
-Sources reachable this run: DOJ RSS (25), BIS (51), OFAC (64)
+Sources reachable this run: DOJ RSS (25), BIS (52), OFAC (64)
 
 ## Resolved targets
 
@@ -26,8 +26,10 @@ Keywords: `sanction`, `export control`, `export administration`, `entity list`, 
 
 | Date | Agency | Title | Matched |
 |---|---|---|---|
+| 2026-11-16 | DOJ | [Multiple individuals across the Southern District of Georgia have been indicted for firearms-related charges](https://www.justice.gov/usao-sdga/pr/multiple-individuals-across-southern-district-georgia-have-been-indicted-firearms) | indict |
+| 2026-11-16 | DOJ | [Online Exploitation Investigation Leads to Federal Indictment of New Hampshire Man](https://www.justice.gov/usao-edwi/pr/online-exploitation-investigation-leads-federal-indictment-new-hampshire-man) | indict |
+| 2026-11-13 | DOJ | [North Shore Man Sentenced to Two Years in Prison for Sending Money to Iran in Violation of U.S. Sanctions](https://www.justice.gov/usao-hi/pr/north-shore-man-sentenced-two-years-prison-sending-money-iran-violation-us-sanctions) | sanction, iran |
 | 2026-11-13 | DOJ | [Northern Kentucky Man and Former Lawyer Indicted in Alleged Murder-for-Hire Scheme](https://www.justice.gov/usao-edky/pr/northern-kentucky-man-and-former-lawyer-indicted-alleged-murder-hire-scheme) | indict |
-| 2026-11-13 | DOJ | [Kansas bookkeeper indicted for embezzling from employer](https://www.justice.gov/usao-ks/pr/kansas-bookkeeper-indicted-embezzling-employer) | indict |
 | 2026-11-09 | OFAC | [Iran Designation Update](https://ofac.treasury.gov/recent-actions/20261109) | iran |
 | 2026-11-06 | OFAC | [Iran-related Designations](https://ofac.treasury.gov/recent-actions/20261106) | iran |
 | 2026-11-04 | OFAC | [Iran-related Designations; Updates to Certain Iran-related Listings; Publication of Iran-related OFAC Alert; Issuance of Amended Venezuela-related General License and Frequently Asked Question](https://ofac.treasury.gov/recent-actions/20261104) | ofac, iran, general license |
