@@ -96,7 +96,7 @@ No per-member scorecard is drawn from these; the pattern (bipartisan sponsorship
 ## 6. Candidate tracker entries (pending primary-source confirmation)
 
 - `nvidia-ceo-resignation-2026-11` — press signal; link to any subsequent oversight letter, BIS action or NDAA conference text.
-- `megaspeed-doj-probe-2026-11` — reported enforcement matter; **needs** a DOJ/BIS document before any entry is made.
+- `megaspeed-doj-probe-2026-11` — reported enforcement matter; **needs** a DOJ/BIS document before any entry is made. *Update 17 Nov: the Commerce–DOJ joint statement of 16–17 Nov now supplies one; see [the joint-statement note](commerce-doj-megaspeed-joint-statement.md).*
 - `ranking-member-statement-nvidia-2026-11-12` — committee statement; needs the official press-release URL.
 - `senate-letters-megaspeed-2026-11-12` — Democratic letters to Commerce, State and the White House (is-informed/Entity List inquiry; document preservation); needs the letters themselves. Grade `documented-request` only if an agency reply cites them.
 
