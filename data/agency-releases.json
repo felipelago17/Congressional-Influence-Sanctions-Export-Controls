@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T17:29:16+00:00",
+  "generated_at": "2026-11-17T17:06:24+00:00",
   "sources_ok": [
     "DOJ RSS (25)",
     "BIS (52)",
@@ -155,37 +155,9 @@
   "scan": [
     {
       "agency": "DOJ",
-      "title": "Multiple individuals across the Southern District of Georgia have been indicted for firearms-related charges",
-      "url": "https://www.justice.gov/usao-sdga/pr/multiple-individuals-across-southern-district-georgia-have-been-indicted-firearms",
-      "date": "2026-11-16",
-      "matched_keywords": [
-        "indict"
-      ]
-    },
-    {
-      "agency": "DOJ",
-      "title": "Online Exploitation Investigation Leads to Federal Indictment of New Hampshire Man",
-      "url": "https://www.justice.gov/usao-edwi/pr/online-exploitation-investigation-leads-federal-indictment-new-hampshire-man",
-      "date": "2026-11-16",
-      "matched_keywords": [
-        "indict"
-      ]
-    },
-    {
-      "agency": "DOJ",
-      "title": "North Shore Man Sentenced to Two Years in Prison for Sending Money to Iran in Violation of U.S. Sanctions",
-      "url": "https://www.justice.gov/usao-hi/pr/north-shore-man-sentenced-two-years-prison-sending-money-iran-violation-us-sanctions",
-      "date": "2026-11-13",
-      "matched_keywords": [
-        "sanction",
-        "iran"
-      ]
-    },
-    {
-      "agency": "DOJ",
-      "title": "Northern Kentucky Man and Former Lawyer Indicted in Alleged Murder-for-Hire Scheme",
-      "url": "https://www.justice.gov/usao-edky/pr/northern-kentucky-man-and-former-lawyer-indicted-alleged-murder-hire-scheme",
-      "date": "2026-11-13",
+      "title": "Irish National Indicted For Destroying $60 Million U.S. Military C-130H Aircraft At Shannon Airport, Ireland",
+      "url": "https://www.justice.gov/usao-sdny/pr/irish-national-indicted-destroying-60-million-us-military-c-130h-aircraft-shannon",
+      "date": "2026-11-17",
       "matched_keywords": [
         "indict"
       ]
