@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T17:24:01+00:00",
+  "generated_at": "2026-11-17T17:02:20+00:00",
   "new_days": 7,
   "datasets": [
     {
@@ -7,7 +7,7 @@
       "entity_count": 72994,
       "target_count": 20543,
       "last_change": "2026-11-13T18:10:05",
-      "last_export": "2026-11-16T16:10:07",
+      "last_export": "2026-11-17T16:10:05",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [
         {
@@ -15,7 +15,7 @@
           "schema": "Organization",
           "countries": "bz;gt;hn",
           "first_seen": "2026-11-13",
-          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
           "id": "ofac-59031"
         },
         {
@@ -24,7 +24,7 @@
           "countries": "gt",
           "first_seen": "2026-11-13",
           "programs": "FTO - INA - Executive Order 13224 (Terrorism)",
-          "id": "ofac-59070"
+          "id": "NK-F7u642SKvvk5SmwHdHe8Ky"
         }
       ],
       "new_target_count": 2,
@@ -35,7 +35,7 @@
       "entity_count": 2064,
       "target_count": 716,
       "last_change": "2026-11-04T18:36:35",
-      "last_export": "2026-11-16T16:35:07",
+      "last_export": "2026-11-17T16:35:04",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -44,9 +44,9 @@
     {
       "slug": "us_bis_denied",
       "entity_count": 876,
-      "target_count": 372,
-      "last_change": "2026-11-11T00:57:11",
-      "last_export": "2026-11-16T16:59:14",
+      "target_count": 373,
+      "last_change": "2026-11-17T16:57:43",
+      "last_export": "2026-11-17T16:59:04",
       "publisher_url": "https://www.bis.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -57,7 +57,7 @@
       "entity_count": 30659,
       "target_count": 24389,
       "last_change": "2026-11-13T18:53:07",
-      "last_export": "2026-11-16T15:53:04",
+      "last_export": "2026-11-17T15:53:05",
       "publisher_url": "https://www.trade.gov/",
       "new_targets": [
         {
@@ -74,7 +74,7 @@
           "countries": "",
           "first_seen": "2026-11-13",
           "programs": "",
-          "id": "ofac-59070"
+          "id": "NK-F7u642SKvvk5SmwHdHe8Ky"
         }
       ],
       "new_target_count": 2,
