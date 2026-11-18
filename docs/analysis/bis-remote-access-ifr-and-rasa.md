@@ -3,6 +3,7 @@
 **Sources (all paraphrased; no article text reproduced):**
 
 - Paul Hastings LLP, "US Department of Commerce Issues Regulations to Restrict Remote Cloud Access", client alert, 17 Nov 2026 — https://www.paulhastings.com/thought-leadership/us-department-of-commerce-issues-regulations — **Tier 3** (law-firm alert; read via a fetch summary, not line by line)
+- Ashurst Perkins Coie, "BIS issues Interim Final Rule restricting remote access to advanced US AI chips", client alert, 17 Nov 2026 — https://www.ashurstperkinscoie.com/en/insights/bis-issues-interim-final-rule-restricting-remote-access-to-advanced-us-ai-chips/ — **Tier 3** (law-firm alert; fetch summary only; links Federal Register public-inspection document 2026-23529)
 - BIS press release and display copy of the interim final rule (RIN 0694-AK50), 16 Nov 2026, as summarised in the sibling repository's case note — **Tier 1/2 in the original; not re-read for this note** (the IFR is a pre-publication draft; Federal Register publication was expected 19 Nov per Paul Hastings)
 - Congress.gov entries for H.R. 2683 and S. 3519, as recorded in [Congressional Signals](../trackers/congress-signals.md) — **Tier 1** (not re-queried today)
 
@@ -32,6 +33,13 @@ The [FY2027 NDAA note](fy27-ndaa-ai-chip-export-bills.md) said that if the Remot
 | Bipartisan push on Megaspeed and chip diversion | Letters and statements recorded in the [Nvidia note](nvidia-ceo-resignation-export-controls.md) | Tier 3 |
 | Agency statement | [Commerce–DOJ joint statement on Megaspeed](commerce-doj-megaspeed-joint-statement.md), 16–17 Nov | Tier 2 |
 
+## 2b. Additional points from Ashurst Perkins Coie (Tier 3)
+
+- **RASA would go further.** The firm says the bill, if enacted, would let BIS regulate cloud services directly and reach **US-located capacity** that the rule does not cover (consistent with Paul Hastings on the export-based limit).
+- **Agency distance from the drafting.** The firm reads BIS's accompanying notice as distancing the agency from the rule's drafting, which may make BIS receptive to comment. This is the firm's reading; the notice itself has not been read for this note, and it is **not** treated as evidence of any interagency or congressional dispute.
+- **Open comment issues** include the treatment of AI model developers, who holds the licence when the operator does not own the chips, and an apparent drafting error in § 744.24(b)(1); these are likely subjects for the 60-day comment period.
+- **Context:** the firm notes the Affiliates Rule is suspended until 10 Jan 2027 and lists watch items (more country designations, is-informed notices, Entity List action on third-country compute providers).
+
 ## 3. Assessment against the repository's framework
 
 1. **Linkage grade: `proximity-only`.** The rule is topically and temporally close to RASA and to the Megaspeed oversight cycle. Paul Hastings says it rests on **existing EAR authorities**, not on RASA, and the sibling note records the BIS press release saying it was drafted at the direction of Treasury and the National Security Council. No document read cites Congress. **No inference of causation is drawn.** Whether the preamble cites congressional letters or bills has **not been checked**.
@@ -51,4 +59,4 @@ The [FY2027 NDAA note](fy27-ndaa-ai-chip-export-bills.md) said that if the Remot
 
 ## 5. Tracker entry (candidate)
 
-- `bis-remote-access-ifr-2026-11` — executive action; add on Federal Register publication with the citation and date; grade `proximity-only` to `rasa-hr2683-119`; hold until the primary text is read.
+- `bis-remote-access-ifr-2026-11` — executive action (Federal Register public-inspection document 2026-23529; publication scheduled 19 Nov); add on publication with the citation and date; grade `proximity-only` to `rasa-hr2683-119`; hold until the primary text is read.
