@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T17:06:24+00:00",
+  "generated_at": "2026-11-18T16:44:37+00:00",
   "sources_ok": [
     "DOJ RSS (25)",
     "BIS (52)",
@@ -155,9 +155,18 @@
   "scan": [
     {
       "agency": "DOJ",
-      "title": "Irish National Indicted For Destroying $60 Million U.S. Military C-130H Aircraft At Shannon Airport, Ireland",
-      "url": "https://www.justice.gov/usao-sdny/pr/irish-national-indicted-destroying-60-million-us-military-c-130h-aircraft-shannon",
-      "date": "2026-11-17",
+      "title": "St. Louis Man Indicted for Federal Arson Resulting in Death Charge After Cahokia Heights Massage Parlor Fires",
+      "url": "https://www.justice.gov/usao-sdil/pr/st-louis-man-indicted-federal-arson-resulting-death-charge-after-cahokia-heights",
+      "date": "2026-11-18",
+      "matched_keywords": [
+        "indict"
+      ]
+    },
+    {
+      "agency": "DOJ",
+      "title": "Alabama Man Indicted for Falsifying Visas",
+      "url": "https://www.justice.gov/usao-ndfl/pr/alabama-man-indicted-falsifying-visas",
+      "date": "2026-11-18",
       "matched_keywords": [
         "indict"
       ]
