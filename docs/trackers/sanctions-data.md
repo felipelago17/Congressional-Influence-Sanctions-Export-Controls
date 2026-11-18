@@ -1,22 +1,22 @@
 # Sanctions and export-control lists (OpenSanctions)
 
-*Auto-generated 2026-11-17 17:02 UTC. Statistics and new listings from [OpenSanctions](https://www.opensanctions.org/) bulk data (CC BY-NC 4.0), which mirrors the official OFAC and BIS publications. Always verify against the issuing agency before acting. Not legal advice.*
+*Auto-generated 2026-11-18 16:41 UTC. Statistics and new listings from [OpenSanctions](https://www.opensanctions.org/) bulk data (CC BY-NC 4.0), which mirrors the official OFAC and BIS publications. Always verify against the issuing agency before acting. Not legal advice.*
 
 ## List statistics
 
 | List | Entities | Last change | New in last 7 days |
 |---|---|---|---|
-| [OFAC Specially Designated Nationals (SDN)](https://www.opensanctions.org/datasets/us_ofac_sdn/) | 72994 | 2026-11-13 | 2 |
+| [OFAC Specially Designated Nationals (SDN)](https://www.opensanctions.org/datasets/us_ofac_sdn/) | 72995 | 2026-11-13 | 2 |
 | [OFAC Consolidated (non-SDN) List](https://www.opensanctions.org/datasets/us_ofac_cons/) | 2064 | 2026-11-04 | 0 |
 | [BIS Denied Persons List](https://www.opensanctions.org/datasets/us_bis_denied/) | 876 | 2026-11-17 | 0 |
-| [Consolidated Screening List (Commerce/State/Treasury)](https://www.opensanctions.org/datasets/us_trade_csl/) | 30659 | 2026-11-13 | 2 |
+| [Consolidated Screening List (Commerce/State/Treasury)](https://www.opensanctions.org/datasets/us_trade_csl/) | 30660 | 2026-11-13 | 2 |
 
 ## New in OFAC Specially Designated Nationals (SDN) (last 7 days)
 
 | First seen | Name | Type | Countries | Programs |
 |---|---|---|---|---|
 | 2026-11-13 | [Los Mendoza Drug Trafficking Organization](https://www.opensanctions.org/entities/ofac-59031/) | Organization | bz;gt;hn | ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs) |
-| 2026-11-13 | [Los Lorenzanas](https://www.opensanctions.org/entities/NK-F7u642SKvvk5SmwHdHe8Ky/) | Organization | gt | FTO - INA - Executive Order 13224 (Terrorism) |
+| 2026-11-13 | [Los Lorenzanas](https://www.opensanctions.org/entities/NK-F7u642SKvvk5SmwHdHe8Ky/) | Organization | gt | FTO - Executive Order 13224 (Terrorism) - INA |
 
 ## New in Consolidated Screening List (Commerce/State/Treasury) (last 7 days)
 
