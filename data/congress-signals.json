@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T16:57:17+00:00",
+  "generated_at": "2026-11-18T16:33:55+00:00",
   "source": "https://api.congress.gov/v3",
   "chamber_composition": {
     "House": {
@@ -147,17 +147,6 @@
   "scan": [
     {
       "congress": 117,
-      "number": "HR.5404",
-      "title": "Taliban Rare Earth Minerals Sanctions Act",
-      "latest_action_date": "2022-11-01",
-      "latest_action": "Referred to the Subcommittee on Immigration and Citizenship.",
-      "matched_keywords": [
-        "sanction"
-      ],
-      "url": "https://www.congress.gov/bill/117th-congress/house-bill/5404"
-    },
-    {
-      "congress": 117,
       "number": "HR.7576",
       "title": "Securing Semiconductor Supply Chains Act of 2022",
       "latest_action_date": "2022-04-27",
@@ -180,14 +169,25 @@
     },
     {
       "congress": 118,
-      "number": "HR.820",
-      "title": "Foreign Adversary Communications Transparency Act",
-      "latest_action_date": "2024-09-16",
-      "latest_action": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 511.",
+      "number": "HR.8152",
+      "title": "Remote Access Security Act",
+      "latest_action_date": "2024-09-10",
+      "latest_action": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
       "matched_keywords": [
-        "foreign adversary"
+        "remote access"
       ],
-      "url": "https://www.congress.gov/bill/118th-congress/house-bill/820"
+      "url": "https://www.congress.gov/bill/118th-congress/house-bill/8152"
+    },
+    {
+      "congress": 118,
+      "number": "HR.5532",
+      "title": "Russia-North Korea Cooperation Sanctions Act",
+      "latest_action_date": "2024-12-17",
+      "latest_action": "Referred to the Subcommittee on Trade.",
+      "matched_keywords": [
+        "sanction"
+      ],
+      "url": "https://www.congress.gov/bill/118th-congress/house-bill/5532"
     },
     {
       "congress": 118,
@@ -199,17 +199,6 @@
         "semiconductor"
       ],
       "url": "https://www.congress.gov/bill/118th-congress/house-bill/752"
-    },
-    {
-      "congress": 118,
-      "number": "HR.690",
-      "title": "Taliban Rare Earth Minerals Sanctions Act",
-      "latest_action_date": "2023-01-31",
-      "latest_action": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "matched_keywords": [
-        "sanction"
-      ],
-      "url": "https://www.congress.gov/bill/118th-congress/house-bill/690"
     },
     {
       "congress": 118,
@@ -235,25 +224,36 @@
     },
     {
       "congress": 119,
-      "number": "HR.906",
-      "title": "Foreign Adversary Communications Transparency Act",
-      "latest_action_date": "2025-04-29",
-      "latest_action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "number": "S.4727",
+      "title": "Artificial Intelligence Environmental Impacts Act of 2026",
+      "latest_action_date": "2026-06-09",
+      "latest_action": "Read twice and referred to the Committee on Environment and Public Works.",
       "matched_keywords": [
-        "foreign adversary"
+        "artificial intelligence"
       ],
-      "url": "https://www.congress.gov/bill/119th-congress/house-bill/906"
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4727"
     },
     {
       "congress": 119,
-      "number": "HR.906",
-      "title": "Foreign Adversary Communications Transparency Act",
-      "latest_action_date": "2025-04-29",
-      "latest_action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "number": "HR.11048",
+      "title": "To direct the Director of the National Geospatial-Intelligence Agency to conduct a comprehensive assessment of commercially available artificial intelligence tools capable of automated analysis of satellite and geospatial imagery, and for other purposes.",
+      "latest_action_date": "2026-11-17",
+      "latest_action": "Referred to the House Permanent Select Committee on Intelligence.",
       "matched_keywords": [
-        "foreign adversary"
+        "artificial intelligence"
       ],
-      "url": "https://www.congress.gov/bill/119th-congress/house-bill/906"
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/11048"
+    },
+    {
+      "congress": 119,
+      "number": "HR.11048",
+      "title": "To direct the Director of the National Geospatial-Intelligence Agency to conduct a comprehensive assessment of commercially available artificial intelligence tools capable of automated analysis of satellite and geospatial imagery, and for other purposes.",
+      "latest_action_date": "2026-11-17",
+      "latest_action": "Referred to the House Permanent Select Committee on Intelligence.",
+      "matched_keywords": [
+        "artificial intelligence"
+      ],
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/11048"
     },
     {
       "congress": 119,
@@ -268,6 +268,28 @@
     },
     {
       "congress": 119,
+      "number": "HR.9442",
+      "title": "Artificial Intelligence Data Center Moratorium Act",
+      "latest_action_date": "2026-06-24",
+      "latest_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "matched_keywords": [
+        "artificial intelligence"
+      ],
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/9442"
+    },
+    {
+      "congress": 119,
+      "number": "HR.9183",
+      "title": "Artificial Intelligence Environmental Impacts Act of 2026",
+      "latest_action_date": "2026-06-08",
+      "latest_action": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "matched_keywords": [
+        "artificial intelligence"
+      ],
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/9183"
+    },
+    {
+      "congress": 119,
       "number": "S.97",
       "title": "Securing Semiconductor Supply Chains Act",
       "latest_action_date": "2025-05-26",
@@ -276,28 +298,6 @@
         "semiconductor"
       ],
       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/97"
-    },
-    {
-      "congress": 119,
-      "number": "S.2615",
-      "title": "VET Artificial Intelligence Act",
-      "latest_action_date": "2025-07-31",
-      "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
-      "matched_keywords": [
-        "artificial intelligence"
-      ],
-      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2615"
-    },
-    {
-      "congress": 119,
-      "number": "S.259",
-      "title": "Foreign Adversary Communications Transparency Act",
-      "latest_action_date": "2025-10-24",
-      "latest_action": "Held at the desk.",
-      "matched_keywords": [
-        "foreign adversary"
-      ],
-      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/259"
     }
   ]
 }

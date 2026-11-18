@@ -1,6 +1,6 @@
 # Congressional signals (Congress.gov API)
 
-*Auto-generated 2026-11-17 16:57 UTC from the official [Congress.gov API](https://api.congress.gov/). Aggregate party counts only — no per-member scorecards. Not legal advice.*
+*Auto-generated 2026-11-18 16:33 UTC from the official [Congress.gov API](https://api.congress.gov/). Aggregate party counts only — no per-member scorecards. Not legal advice.*
 
 ## Chamber composition (currently seated members)
 
@@ -37,20 +37,20 @@ Keywords: `sanction`, `export control`, `export administration`, `entity list`, 
 
 | Bill | Title | Latest action | Matched |
 |---|---|---|---|
-| [HR.5404](https://www.congress.gov/bill/117th-congress/house-bill/5404) | Taliban Rare Earth Minerals Sanctions Act | 2022-11-01 — Referred to the Subcommittee on Immigration and Citizenship. | sanction |
 | [HR.7576](https://www.congress.gov/bill/117th-congress/house-bill/7576) | Securing Semiconductor Supply Chains Act of 2022 | 2022-04-27 — Referred to the Subcommittee on Consumer Protection and Commerce. | semiconductor |
 | [S.3309](https://www.congress.gov/bill/117th-congress/senate-bill/3309) | Securing Semiconductor Supply Chains Act of 2022 | 2022-06-21 — Held at the desk. | semiconductor |
-| [HR.820](https://www.congress.gov/bill/118th-congress/house-bill/820) | Foreign Adversary Communications Transparency Act | 2024-09-16 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 511. | foreign adversary |
+| [HR.8152](https://www.congress.gov/bill/118th-congress/house-bill/8152) | Remote Access Security Act | 2024-09-10 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. | remote access |
+| [HR.5532](https://www.congress.gov/bill/118th-congress/house-bill/5532) | Russia-North Korea Cooperation Sanctions Act | 2024-12-17 — Referred to the Subcommittee on Trade. | sanction |
 | [HR.752](https://www.congress.gov/bill/118th-congress/house-bill/752) | Securing Semiconductor Supply Chains Act of 2023 | 2023-07-26 — Received in the Senate. | semiconductor |
-| [HR.690](https://www.congress.gov/bill/118th-congress/house-bill/690) | Taliban Rare Earth Minerals Sanctions Act | 2023-01-31 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. | sanction |
 | [S.229](https://www.congress.gov/bill/118th-congress/senate-bill/229) | Securing Semiconductor Supply Chains Act of 2023 | 2023-12-15 — Held at the desk. | semiconductor |
 | [HRES.1642](https://www.congress.gov/bill/119th-congress/house-resolution/1642) | Expressing the sense of the House of Representatives that Congress must refuse to provide any additional funds or exceptional regulatory support to companies or financial institutions facing insolvency or financial collapse due to exposures to acute stress within the artificial intelligence market and must provide support to all harmed Americans instead. | 2026-10-29 — Referred to the Committee on Financial Services, and in addition to the Committees on the Judiciary, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. | artificial intelligence |
-| [HR.906](https://www.congress.gov/bill/119th-congress/house-bill/906) | Foreign Adversary Communications Transparency Act | 2025-04-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation. | foreign adversary |
-| [HR.906](https://www.congress.gov/bill/119th-congress/house-bill/906) | Foreign Adversary Communications Transparency Act | 2025-04-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation. | foreign adversary |
+| [S.4727](https://www.congress.gov/bill/119th-congress/senate-bill/4727) | Artificial Intelligence Environmental Impacts Act of 2026 | 2026-06-09 — Read twice and referred to the Committee on Environment and Public Works. | artificial intelligence |
+| [HR.11048](https://www.congress.gov/bill/119th-congress/house-bill/11048) | To direct the Director of the National Geospatial-Intelligence Agency to conduct a comprehensive assessment of commercially available artificial intelligence tools capable of automated analysis of satellite and geospatial imagery, and for other purposes. | 2026-11-17 — Referred to the House Permanent Select Committee on Intelligence. | artificial intelligence |
+| [HR.11048](https://www.congress.gov/bill/119th-congress/house-bill/11048) | To direct the Director of the National Geospatial-Intelligence Agency to conduct a comprehensive assessment of commercially available artificial intelligence tools capable of automated analysis of satellite and geospatial imagery, and for other purposes. | 2026-11-17 — Referred to the House Permanent Select Committee on Intelligence. | artificial intelligence |
 | [S.1705](https://www.congress.gov/bill/119th-congress/senate-bill/1705) | Chip Security Act | 2025-05-08 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. | chip security |
+| [HR.9442](https://www.congress.gov/bill/119th-congress/house-bill/9442) | Artificial Intelligence Data Center Moratorium Act | 2026-06-24 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. | artificial intelligence |
+| [HR.9183](https://www.congress.gov/bill/119th-congress/house-bill/9183) | Artificial Intelligence Environmental Impacts Act of 2026 | 2026-06-08 — Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. | artificial intelligence |
 | [S.97](https://www.congress.gov/bill/119th-congress/senate-bill/97) | Securing Semiconductor Supply Chains Act | 2025-05-26 — Held at the desk. | semiconductor |
-| [S.2615](https://www.congress.gov/bill/119th-congress/senate-bill/2615) | VET Artificial Intelligence Act | 2025-07-31 — Read twice and referred to the Committee on Commerce, Science, and Transportation. | artificial intelligence |
-| [S.259](https://www.congress.gov/bill/119th-congress/senate-bill/259) | Foreign Adversary Communications Transparency Act | 2025-10-24 — Held at the desk. | foreign adversary |
 
 ---
 Signals are facts about congressional activity. Any connection to an administration action is recorded separately in `trackers/linkages.yaml` with a [linkage grade](../methodology/linkage-grades.md).
