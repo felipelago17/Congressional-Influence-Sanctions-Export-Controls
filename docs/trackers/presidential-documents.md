@@ -1,6 +1,6 @@
 # Presidential documents (Federal Register API)
 
-*Auto-generated 2026-11-17 17:01 UTC from the [Federal Register API](https://www.federalregister.gov/developers/documentation/api/v1). Executive orders, proclamations and memoranda on sanctions, tariffs and export controls. Public-domain content. Not legal advice.*
+*Auto-generated 2026-11-18 16:41 UTC from the [Federal Register API](https://www.federalregister.gov/developers/documentation/api/v1). Executive orders, proclamations and memoranda on sanctions, tariffs and export controls. Public-domain content. Not legal advice.*
 
 ## Resolved citations (targets)
 
