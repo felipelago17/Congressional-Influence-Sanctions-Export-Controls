@@ -1,21 +1,269 @@
 {
-  "generated_at": "2026-11-18T16:41:46+00:00",
+  "generated_at": "2026-11-19T16:45:13+00:00",
   "new_days": 7,
   "datasets": [
     {
       "slug": "us_ofac_sdn",
-      "entity_count": 72995,
-      "target_count": 20544,
-      "last_change": "2026-11-13T18:10:05",
-      "last_export": "2026-11-18T16:10:07",
+      "entity_count": 73123,
+      "target_count": 20575,
+      "last_change": "2026-11-19T16:10:05",
+      "last_export": "2026-11-19T16:10:05",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [
+        {
+          "name": "ZHZ Investment Consulting Co., Ltd.",
+          "schema": "Organization",
+          "countries": "kh",
+          "first_seen": "2026-11-19",
+          "programs": "CYBER4 - Executive Order 14144 (Cyber)",
+          "id": "ofac-58872"
+        },
+        {
+          "name": "Vincenzo DeMaria",
+          "schema": "Person",
+          "countries": "ca;it",
+          "first_seen": "2026-11-19",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-58796"
+        },
+        {
+          "name": "Vetekina Naufahu",
+          "schema": "Person",
+          "countries": "au;nz",
+          "first_seen": "2026-11-19",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-58809"
+        },
+        {
+          "name": "VESCIO FUNERAL HOMES INC.",
+          "schema": "Organization",
+          "countries": "ca",
+          "first_seen": "2026-11-19",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-58798"
+        },
+        {
+          "name": "VESCIO FUNERAL HOME MAPLE INC.",
+          "schema": "Organization",
+          "countries": "ca",
+          "first_seen": "2026-11-19",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-58799"
+        },
+        {
+          "name": "TVwLtgUXyDhmcSoQ9x2z9QSua41f8mDFvU",
+          "schema": "CryptoWallet",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-d760616c89f7995867e662e415321cdf38f55dc0"
+        },
+        {
+          "name": "Saw Shwe Wah",
+          "schema": "Person",
+          "countries": "mm",
+          "first_seen": "2026-11-19",
+          "programs": "CYBER4 - Executive Order 14144 (Cyber)",
+          "id": "ofac-58850"
+        },
+        {
+          "name": "Saw A One",
+          "schema": "Person",
+          "countries": "mm",
+          "first_seen": "2026-11-19",
+          "programs": "CYBER4 - Executive Order 14144 (Cyber)",
+          "id": "ofac-58851"
+        },
+        {
+          "name": "Rose Vescio",
+          "schema": "Person",
+          "countries": "ca",
+          "first_seen": "2026-11-19",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-58800"
+        },
+        {
+          "name": "Rocco Remo Commisso",
+          "schema": "Person",
+          "countries": "ca;it",
+          "first_seen": "2026-11-19",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-58794"
+        },
+        {
+          "name": "Pasilika Naufahu",
+          "schema": "Person",
+          "countries": "nz",
+          "first_seen": "2026-11-19",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-58808"
+        },
+        {
+          "name": "PHANTOM LIMOUSINE SERVICES INC.",
+          "schema": "Organization",
+          "countries": "ca",
+          "first_seen": "2026-11-19",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-58803"
+        },
+        {
+          "name": "Marco Francis Coffen",
+          "schema": "Person",
+          "countries": "ae;au;it;mx;vu",
+          "first_seen": "2026-11-19",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-58805"
+        },
+        {
+          "name": "Luigi Vescio Sr.",
+          "schema": "Person",
+          "countries": "ca",
+          "first_seen": "2026-11-19",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-58795"
+        },
+        {
+          "name": "Luigi Vescio Jr.",
+          "schema": "Person",
+          "countries": "ca",
+          "first_seen": "2026-11-19",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-58801"
+        },
+        {
+          "name": "Laura Vescio",
+          "schema": "Person",
+          "countries": "ca",
+          "first_seen": "2026-11-19",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-58802"
+        },
+        {
+          "name": "Hui Zhao",
+          "schema": "Person",
+          "countries": "cn;jp;kh",
+          "first_seen": "2026-11-19",
+          "programs": "CYBER4 - Executive Order 14144 (Cyber)",
+          "id": "ofac-58870"
+        },
+        {
+          "name": "Francesco Commisso",
+          "schema": "Person",
+          "countries": "ca;it",
+          "first_seen": "2026-11-19",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-58793"
+        },
+        {
+          "name": "FRATELLI VESCIO FUNERAL HOMES LTD.",
+          "schema": "Organization",
+          "countries": "ca",
+          "first_seen": "2026-11-19",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-58797"
+        },
+        {
+          "name": "Cosimo Figliomeni",
+          "schema": "Person",
+          "countries": "ca;it",
+          "first_seen": "2026-11-19",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-58792"
+        },
+        {
+          "name": "Comanchero Outlaw Motorcycle Gang",
+          "schema": "Organization",
+          "countries": "au;ba;de;es;nz",
+          "first_seen": "2026-11-19",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-58804"
+        },
+        {
+          "name": "Bei Fang Bo Lin Construction Decoration Co., Ltd.",
+          "schema": "Organization",
+          "countries": "kh",
+          "first_seen": "2026-11-19",
+          "programs": "CYBER4 - Executive Order 14144 (Cyber)",
+          "id": "ofac-58871"
+        },
+        {
+          "name": "Angelo Figliomeni",
+          "schema": "Person",
+          "countries": "ca;it",
+          "first_seen": "2026-11-19",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-58791"
+        },
+        {
+          "name": "Allan John Norman Meehan",
+          "schema": "Person",
+          "countries": "au",
+          "first_seen": "2026-11-19",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-58807"
+        },
+        {
+          "name": "Alexandre Varela Villar",
+          "schema": "Person",
+          "countries": "es",
+          "first_seen": "2026-11-19",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs)",
+          "id": "ofac-58806"
+        },
+        {
+          "name": "Wa Ta'awanu Association",
+          "schema": "Organization",
+          "countries": "lb",
+          "first_seen": "2026-11-18",
+          "programs": "SDGT - Executive Order 13224 (Terrorism)",
+          "id": "ofac-59188"
+        },
+        {
+          "name": "SANKARİ GOLD KUYUMCULUK TİCARET LİMİTED ŞİRKETİ",
+          "schema": "Organization",
+          "countries": "tr",
+          "first_seen": "2026-11-18",
+          "programs": "SDGT - Executive Order 13224 (Terrorism)",
+          "id": "ofac-59176"
+        },
+        {
+          "name": "Ibrahim Khechen",
+          "schema": "Person",
+          "countries": "lb",
+          "first_seen": "2026-11-18",
+          "programs": "SDGT - Executive Order 13224 (Terrorism)",
+          "id": "ofac-59174"
+        },
+        {
+          "name": "Hassan Khechen",
+          "schema": "Person",
+          "countries": "lb",
+          "first_seen": "2026-11-18",
+          "programs": "SDGT - Executive Order 13224 (Terrorism)",
+          "id": "ofac-59173"
+        },
+        {
+          "name": "Gold Global Company",
+          "schema": "Organization",
+          "countries": "lb",
+          "first_seen": "2026-11-18",
+          "programs": "SDGT - Executive Order 13224 (Terrorism)",
+          "id": "ofac-59175"
+        },
+        {
+          "name": "Afif Abdel Rida Chouman",
+          "schema": "Person",
+          "countries": "lb",
+          "first_seen": "2026-11-18",
+          "programs": "SDGT - Executive Order 13224 (Terrorism)",
+          "id": "ofac-59189"
+        },
         {
           "name": "Los Mendoza Drug Trafficking Organization",
           "schema": "Organization",
           "countries": "bz;gt;hn",
           "first_seen": "2026-11-13",
-          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 13224 (Terrorism) - Executive Order 14059 (Illicit Drugs)",
+          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
           "id": "ofac-59031"
         },
         {
@@ -27,7 +275,7 @@
           "id": "NK-F7u642SKvvk5SmwHdHe8Ky"
         }
       ],
-      "new_target_count": 2,
+      "new_target_count": 33,
       "label": "OFAC Specially Designated Nationals (SDN)"
     },
     {
@@ -35,7 +283,7 @@
       "entity_count": 2064,
       "target_count": 716,
       "last_change": "2026-11-04T18:36:35",
-      "last_export": "2026-11-18T16:35:06",
+      "last_export": "2026-11-19T16:35:07",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -46,7 +294,7 @@
       "entity_count": 876,
       "target_count": 373,
       "last_change": "2026-11-17T16:57:43",
-      "last_export": "2026-11-18T08:57:07",
+      "last_export": "2026-11-19T08:57:10",
       "publisher_url": "https://www.bis.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -54,12 +302,252 @@
     },
     {
       "slug": "us_trade_csl",
-      "entity_count": 30660,
-      "target_count": 24390,
-      "last_change": "2026-11-13T18:53:07",
-      "last_export": "2026-11-18T15:53:06",
+      "entity_count": 30690,
+      "target_count": 24420,
+      "last_change": "2026-11-19T16:42:34",
+      "last_export": "2026-11-19T16:42:34",
       "publisher_url": "https://www.trade.gov/",
       "new_targets": [
+        {
+          "name": "ZHZ INVESTMENT CONSULTING CO., LTD.",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58872"
+        },
+        {
+          "name": "ZHAO, Hui",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58870"
+        },
+        {
+          "name": "WAH, Saw Shwe",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58850"
+        },
+        {
+          "name": "VESCIO, Rose",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58800"
+        },
+        {
+          "name": "VESCIO, Laura",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58802"
+        },
+        {
+          "name": "VESCIO SR., Luigi",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58795"
+        },
+        {
+          "name": "VESCIO JR., Luigi",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58801"
+        },
+        {
+          "name": "VESCIO FUNERAL HOMES INC.",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58798"
+        },
+        {
+          "name": "VESCIO FUNERAL HOME MAPLE INC.",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58799"
+        },
+        {
+          "name": "VARELA VILLAR, Alexandre",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58806"
+        },
+        {
+          "name": "PHANTOM LIMOUSINE SERVICES INC.",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58803"
+        },
+        {
+          "name": "ONE, Saw A",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58851"
+        },
+        {
+          "name": "NAUFAHU, Vetekina",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58809"
+        },
+        {
+          "name": "NAUFAHU, Pasilika",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58808"
+        },
+        {
+          "name": "MEEHAN, Allan John Norman",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58807"
+        },
+        {
+          "name": "FRATELLI VESCIO FUNERAL HOMES LTD.",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58797"
+        },
+        {
+          "name": "FIGLIOMENI, Cosimo",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58792"
+        },
+        {
+          "name": "FIGLIOMENI, Angelo",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58791"
+        },
+        {
+          "name": "DEMARIA, Vincenzo",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58796"
+        },
+        {
+          "name": "COMMISSO, Rocco Remo",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58794"
+        },
+        {
+          "name": "COMMISSO, Francesco",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58793"
+        },
+        {
+          "name": "COMANCHERO OUTLAW MOTORCYCLE GANG",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58804"
+        },
+        {
+          "name": "COFFEN, Marco Francis",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58805"
+        },
+        {
+          "name": "BEI FANG BO LIN CONSTRUCTION DECORATION CO., LTD.",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-19",
+          "programs": "",
+          "id": "ofac-58871"
+        },
+        {
+          "name": "WA TA'AWANU ASSOCIATION",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-18",
+          "programs": "",
+          "id": "ofac-59188"
+        },
+        {
+          "name": "SANKARI GOLD KUYUMCULUK TICARET LIMITED SIRKETI",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-18",
+          "programs": "",
+          "id": "ofac-59176"
+        },
+        {
+          "name": "KHECHEN, Ibrahim",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-18",
+          "programs": "",
+          "id": "ofac-59174"
+        },
+        {
+          "name": "KHECHEN, Hassan",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-18",
+          "programs": "",
+          "id": "ofac-59173"
+        },
+        {
+          "name": "GOLD GLOBAL COMPANY",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-18",
+          "programs": "",
+          "id": "ofac-59175"
+        },
+        {
+          "name": "CHOUMAN, Afif Abdel Rida",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-18",
+          "programs": "",
+          "id": "ofac-59189"
+        },
         {
           "name": "LOS MENDOZA DRUG TRAFFICKING ORGANIZATION",
           "schema": "Organization",
@@ -77,7 +565,7 @@
           "id": "NK-F7u642SKvvk5SmwHdHe8Ky"
         }
       ],
-      "new_target_count": 2,
+      "new_target_count": 32,
       "label": "Consolidated Screening List (Commerce/State/Treasury)"
     }
   ]
