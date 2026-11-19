@@ -29,6 +29,7 @@ nav:
       - Sanctions Lists (OpenSanctions): trackers/sanctions-data.md
       - Enforcement Actions: trackers/enforcement-actions.md
   - Analysis:
+      - "Shanghai Maritime Court ruling on the Anti-Foreign Sanctions Law": analysis/shanghai-maritime-court-afsl-ruling.md
       - "SIPRI on China–USA talks on AI (Nov 2026)": analysis/sipri-china-usa-ai-talks.md
       - "Dutch response to the MATCH Act (Nov 2026)": analysis/dutch-response-to-match-act.md
       - "BIS remote-access rule and the Remote Access Security Act (Nov 2026)": analysis/bis-remote-access-ifr-and-rasa.md
