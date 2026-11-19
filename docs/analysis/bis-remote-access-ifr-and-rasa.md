@@ -5,6 +5,7 @@
 - Paul Hastings LLP, "US Department of Commerce Issues Regulations to Restrict Remote Cloud Access", client alert, 17 Nov 2026 — https://www.paulhastings.com/thought-leadership/us-department-of-commerce-issues-regulations — **Tier 3** (law-firm alert; read via a fetch summary, not line by line)
 - Ashurst Perkins Coie, "BIS issues Interim Final Rule restricting remote access to advanced US AI chips", client alert, 17 Nov 2026 — https://www.ashurstperkinscoie.com/en/insights/bis-issues-interim-final-rule-restricting-remote-access-to-advanced-us-ai-chips/ — **Tier 3** (law-firm alert; fetch summary only; links Federal Register public-inspection document 2026-23529)
 - Kate Koren and Kevin Kurland, "New Export Controls on Remote Access: The Implications for Industry and Competition with China", CSIS Critical Questions, 18 Nov 2026 — https://www.csis.org/analysis/new-export-controls-remote-access-implications-industry-and-competition-china — **Tier 3** (think-tank analysis; fetch summary only)
+- Chris Timura et al., "BIS Expands Advanced Computing Controls to Address Data Center Remote Access and Third Country Diversion", Gibson Dunn client alert, 18 Nov 2026 — https://www.gibsondunn.com/wp-content/uploads/2026/11/bis-expands-advanced-computing-controls-to-address-data-center-remote-access-and-third-country-diversion.pdf — **Tier 3** (law-firm alert; fetch summary only)
 - BIS press release and display copy of the interim final rule (RIN 0694-AK50), 16 Nov 2026, as summarised in the sibling repository's case note — **Tier 1/2 in the original; not re-read for this note** (the IFR is a pre-publication draft; Federal Register publication was expected 19 Nov per Paul Hastings)
 - Congress.gov entries for H.R. 2683 and S. 3519, as recorded in [Congressional Signals](../trackers/congress-signals.md) — **Tier 1** (not re-queried today)
 
@@ -47,6 +48,14 @@ The [FY2027 NDAA note](fy27-ndaa-ai-chip-export-bills.md) said that if the Remot
 - **Interagency discretion.** Case-by-case licensing is expected to generate interagency debate over approvals and denials, a possible oversight subject; this is the authors' expectation, not a recorded event.
 - **Gap that legislation could address (observation, not a sourced position):** CSIS notes the rule does not reference the Pentagon's 1260H list, so listed firms could presumably use the recommender exception. Whether any member or committee has raised this is **unchecked**.
 - **Remote access is now administrative.** CSIS notes that BIS had previously treated cloud services as outside the "export" concept and now reaches them through end-use control of exported hardware; this supports the point that the rule leaves US-located capacity to a statute such as RASA.
+
+## 2d. Additional points from Gibson Dunn (Tier 3)
+
+- **RASA status as described:** H.R. 2683 passed the House in January 2026 and is pending in the Senate; the firm says it would give BIS **direct authority over remote access**, whereas the rule regulates **items, not remote access as such**.
+- **Gap the rule leaves:** remote access to hardware **located in the US** does not appear to be covered, which is the space a statute could fill (consistent with the earlier law-firm readings).
+- **Process point:** the rule was issued **without notice and comment** and with an unusually rushed rollout; the firm expects further guidance. The 60-day comment window after publication is the first formal route for outside views, including any from Congress.
+- **Open items for BIS:** how the threshold is measured, the meaning of "headquartered" and "control", treatment of model developers serving Chinese customers, and enforcement appetite. These are possible oversight topics; the firm does not attribute them to any member.
+- **Linkage grade unchanged:** the alert does not mention congressional letters or hearings beyond describing RASA, so the grade stays `proximity-only`. **Federal Register publication is still unconfirmed** (scheduled for 19 Nov per the alert); the tracker entry should be added only once the citation is known.
 
 ## 3. Assessment against the repository's framework
 
