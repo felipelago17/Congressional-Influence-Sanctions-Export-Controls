@@ -4,6 +4,7 @@
 
 - Paul Hastings LLP, "US Department of Commerce Issues Regulations to Restrict Remote Cloud Access", client alert, 17 Nov 2026 — https://www.paulhastings.com/thought-leadership/us-department-of-commerce-issues-regulations — **Tier 3** (law-firm alert; read via a fetch summary, not line by line)
 - Ashurst Perkins Coie, "BIS issues Interim Final Rule restricting remote access to advanced US AI chips", client alert, 17 Nov 2026 — https://www.ashurstperkinscoie.com/en/insights/bis-issues-interim-final-rule-restricting-remote-access-to-advanced-us-ai-chips/ — **Tier 3** (law-firm alert; fetch summary only; links Federal Register public-inspection document 2026-23529)
+- Kate Koren and Kevin Kurland, "New Export Controls on Remote Access: The Implications for Industry and Competition with China", CSIS Critical Questions, 18 Nov 2026 — https://www.csis.org/analysis/new-export-controls-remote-access-implications-industry-and-competition-china — **Tier 3** (think-tank analysis; fetch summary only)
 - BIS press release and display copy of the interim final rule (RIN 0694-AK50), 16 Nov 2026, as summarised in the sibling repository's case note — **Tier 1/2 in the original; not re-read for this note** (the IFR is a pre-publication draft; Federal Register publication was expected 19 Nov per Paul Hastings)
 - Congress.gov entries for H.R. 2683 and S. 3519, as recorded in [Congressional Signals](../trackers/congress-signals.md) — **Tier 1** (not re-queried today)
 
@@ -39,6 +40,13 @@ The [FY2027 NDAA note](fy27-ndaa-ai-chip-export-bills.md) said that if the Remot
 - **Agency distance from the drafting.** The firm reads BIS's accompanying notice as distancing the agency from the rule's drafting, which may make BIS receptive to comment. This is the firm's reading; the notice itself has not been read for this note, and it is **not** treated as evidence of any interagency or congressional dispute.
 - **Open comment issues** include the treatment of AI model developers, who holds the licence when the operator does not own the chips, and an apparent drafting error in § 744.24(b)(1); these are likely subjects for the 60-day comment period.
 - **Context:** the firm notes the Affiliates Rule is suspended until 10 Jan 2027 and lists watch items (more country designations, is-informed notices, Entity List action on third-country compute providers).
+
+## 2c. Political-context points from CSIS (Tier 3)
+
+- **Pressure and timing.** CSIS says congressional, Treasury and State pressure for tighter controls has grown, that the rule came days before a Trump–Xi meeting in Shenzhen (19 Nov, also the effective date), and that the President has so far backed the Commerce Secretary. These are the authors' characterisations; no member letter, vote or hearing is cited in the summary read.
+- **Interagency discretion.** Case-by-case licensing is expected to generate interagency debate over approvals and denials, a possible oversight subject; this is the authors' expectation, not a recorded event.
+- **Gap that legislation could address (observation, not a sourced position):** CSIS notes the rule does not reference the Pentagon's 1260H list, so listed firms could presumably use the recommender exception. Whether any member or committee has raised this is **unchecked**.
+- **Remote access is now administrative.** CSIS notes that BIS had previously treated cloud services as outside the "export" concept and now reaches them through end-use control of exported hardware; this supports the point that the rule leaves US-located capacity to a statute such as RASA.
 
 ## 3. Assessment against the repository's framework
 
