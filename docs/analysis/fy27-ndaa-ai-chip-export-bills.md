@@ -64,7 +64,7 @@ None of these is an observed action as of 8 Nov 2026. They are recorded so that 
 
 - `overwatch-hr6875-119` — AI OVERWATCH Act; signal type: committee-reported bill; related NDAA section numbers per FDD guide §§ 6040, 6081–6086, 6243 (unverified against Senate text).
 - `csa-hr3447-119` — Chip Security Act; signal type: committee-reported bill.
-- `match-hr8170-119` — MATCH Act; signal type: committee-reported bill; foreign response: MOFCOM statement, Apr 2026. *Update 19 Nov: Dutch Foreign Ministry rejection reported 18 Nov; see [the Dutch-response note](dutch-response-to-match-act.md).*
+- `match-hr8170-119` — MATCH Act; signal type: committee-reported bill; foreign response: MOFCOM statement, Apr 2026. *Update 19 Nov: Dutch Foreign Ministry rejection reported by Politico Europe 17 Nov; see [the Dutch-response note](dutch-response-to-match-act.md).*
 - `nyt-h200-licensees-2026-11` — press signal; link to any subsequent oversight letter or Commerce response.
 
 *Primary sources needed:* Congress.gov records for each bill (numbers, actions); Senate manager's amendment text to S. 4784; House-passed FY2027 NDAA text (Reed Smith summary indicates no AI-chip export title in the House bill); any Commerce statement on the H200 licensee list.
