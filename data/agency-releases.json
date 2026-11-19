@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T16:44:37+00:00",
+  "generated_at": "2026-11-19T16:49:25+00:00",
   "sources_ok": [
     "DOJ RSS (25)",
     "BIS (52)",
@@ -155,18 +155,18 @@
   "scan": [
     {
       "agency": "DOJ",
-      "title": "St. Louis Man Indicted for Federal Arson Resulting in Death Charge After Cahokia Heights Massage Parlor Fires",
-      "url": "https://www.justice.gov/usao-sdil/pr/st-louis-man-indicted-federal-arson-resulting-death-charge-after-cahokia-heights",
-      "date": "2026-11-18",
+      "title": "Members of Multistate Steroid Trafficking Organization Indicted for Drug Conspiracy",
+      "url": "https://www.justice.gov/usao-edla/pr/members-multistate-steroid-trafficking-organization-indicted-drug-conspiracy",
+      "date": "2026-11-19",
       "matched_keywords": [
         "indict"
       ]
     },
     {
       "agency": "DOJ",
-      "title": "Alabama Man Indicted for Falsifying Visas",
-      "url": "https://www.justice.gov/usao-ndfl/pr/alabama-man-indicted-falsifying-visas",
-      "date": "2026-11-18",
+      "title": "Panama City Area Woman Indicted on Federal Fraud Charges",
+      "url": "https://www.justice.gov/usao-ndfl/pr/panama-city-area-woman-indicted-federal-fraud-charges",
+      "date": "2026-11-19",
       "matched_keywords": [
         "indict"
       ]
@@ -450,6 +450,16 @@
     },
     {
       "agency": "OFAC",
+      "title": "Counter Narcotics Designations; Cyber-related Designations; Issuance of Illicit Drugs General License; Issuance of Amended Russia-related General License and Frequently Asked Questions",
+      "url": "https://ofac.treasury.gov/recent-actions/20261119",
+      "date": "2026-11-19",
+      "matched_keywords": [
+        "russia",
+        "general license"
+      ]
+    },
+    {
+      "agency": "OFAC",
       "title": "Iran Designation Update",
       "url": "https://ofac.treasury.gov/recent-actions/20261109",
       "date": "2026-11-09",
@@ -503,27 +513,6 @@
       "date": "2026-10-27",
       "matched_keywords": [
         "settlement"
-      ]
-    },
-    {
-      "agency": "OFAC",
-      "title": "Issuance of Amended Frequently Asked Questions Regarding Blocking and Rejecting Transactions and Filing Reports with OFAC",
-      "url": "https://ofac.treasury.gov/recent-actions/20261026",
-      "date": "2026-10-26",
-      "matched_keywords": [
-        "ofac"
-      ]
-    },
-    {
-      "agency": "OFAC",
-      "title": "Iran-related Designations; Belarus and North Korea Designations Removals; Issuance of Iran-related and Russia-related General Licenses and Amended Frequently Asked Questions",
-      "url": "https://ofac.treasury.gov/recent-actions/20261021",
-      "date": "2026-10-21",
-      "matched_keywords": [
-        "russia",
-        "iran",
-        "north korea",
-        "general license"
       ]
     },
     {

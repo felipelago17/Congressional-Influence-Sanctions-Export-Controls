@@ -1,6 +1,6 @@
 # Agency enforcement releases (DOJ · BIS · OFAC)
 
-*Auto-generated 2026-11-18 16:44 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
+*Auto-generated 2026-11-19 16:49 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
 
 Sources reachable this run: DOJ RSS (25), BIS (52), OFAC (64)
 
@@ -26,16 +26,15 @@ Keywords: `sanction`, `export control`, `export administration`, `entity list`, 
 
 | Date | Agency | Title | Matched |
 |---|---|---|---|
-| 2026-11-18 | DOJ | [St. Louis Man Indicted for Federal Arson Resulting in Death Charge After Cahokia Heights Massage Parlor Fires](https://www.justice.gov/usao-sdil/pr/st-louis-man-indicted-federal-arson-resulting-death-charge-after-cahokia-heights) | indict |
-| 2026-11-18 | DOJ | [Alabama Man Indicted for Falsifying Visas](https://www.justice.gov/usao-ndfl/pr/alabama-man-indicted-falsifying-visas) | indict |
+| 2026-11-19 | DOJ | [Members of Multistate Steroid Trafficking Organization Indicted for Drug Conspiracy](https://www.justice.gov/usao-edla/pr/members-multistate-steroid-trafficking-organization-indicted-drug-conspiracy) | indict |
+| 2026-11-19 | DOJ | [Panama City Area Woman Indicted on Federal Fraud Charges](https://www.justice.gov/usao-ndfl/pr/panama-city-area-woman-indicted-federal-fraud-charges) | indict |
+| 2026-11-19 | OFAC | [Counter Narcotics Designations; Cyber-related Designations; Issuance of Illicit Drugs General License; Issuance of Amended Russia-related General License and Frequently Asked Questions](https://ofac.treasury.gov/recent-actions/20261119) | russia, general license |
 | 2026-11-09 | OFAC | [Iran Designation Update](https://ofac.treasury.gov/recent-actions/20261109) | iran |
 | 2026-11-06 | OFAC | [Iran-related Designations](https://ofac.treasury.gov/recent-actions/20261106) | iran |
 | 2026-11-04 | OFAC | [Iran-related Designations; Updates to Certain Iran-related Listings; Publication of Iran-related OFAC Alert; Issuance of Amended Venezuela-related General License and Frequently Asked Question](https://ofac.treasury.gov/recent-actions/20261104) | ofac, iran, general license |
 | 2026-10-29 | OFAC | [Issuance of Amended Iran-related General License](https://ofac.treasury.gov/recent-actions/20261029) | iran, general license |
 | 2026-10-28 | OFAC | [North Korea Designations; Democratic Republic of the Congo-related Designations](https://ofac.treasury.gov/recent-actions/20261028) | north korea |
 | 2026-10-27 | OFAC | [Settlement Agreement between the U.S. Department of the Treasury's Office of Foreign Assets Control and Extreme Networks, Inc.](https://ofac.treasury.gov/recent-actions/20261027) | settlement |
-| 2026-10-26 | OFAC | [Issuance of Amended Frequently Asked Questions Regarding Blocking and Rejecting Transactions and Filing Reports with OFAC](https://ofac.treasury.gov/recent-actions/20261026) | ofac |
-| 2026-10-21 | OFAC | [Iran-related Designations; Belarus and North Korea Designations Removals; Issuance of Iran-related and Russia-related General Licenses and Amended Frequently Asked Questions](https://ofac.treasury.gov/recent-actions/20261021) | russia, iran, north korea, general license |
 | 2026-10-02 | BIS | [BIS Reaches Administrative Enforcement Settlement with Lambda Research Corporation](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-lambda-research-corporation) | settlement |
 | 2026-10-02 | BIS | [BIS Reaches Administrative Enforcement Settlement with Lambda Research Corporation](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-lambda-research-corporation) | settlement |
 | 2026-10-02 | BIS | [BIS Reaches Administrative Enforcement Settlement with Container Manufacturing Ltd.](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-container-manufacturing-ltd.) | settlement |
