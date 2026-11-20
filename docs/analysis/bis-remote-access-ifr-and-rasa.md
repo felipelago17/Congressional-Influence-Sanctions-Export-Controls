@@ -6,6 +6,7 @@
 - Ashurst Perkins Coie, "BIS issues Interim Final Rule restricting remote access to advanced US AI chips", client alert, 17 Nov 2026 — https://www.ashurstperkinscoie.com/en/insights/bis-issues-interim-final-rule-restricting-remote-access-to-advanced-us-ai-chips/ — **Tier 3** (law-firm alert; fetch summary only; links Federal Register public-inspection document 2026-23529)
 - Kate Koren and Kevin Kurland, "New Export Controls on Remote Access: The Implications for Industry and Competition with China", CSIS Critical Questions, 18 Nov 2026 — https://www.csis.org/analysis/new-export-controls-remote-access-implications-industry-and-competition-china — **Tier 3** (think-tank analysis; fetch summary only)
 - Chris Timura et al., "BIS Expands Advanced Computing Controls to Address Data Center Remote Access and Third Country Diversion", Gibson Dunn client alert, 18 Nov 2026 — https://www.gibsondunn.com/wp-content/uploads/2026/11/bis-expands-advanced-computing-controls-to-address-data-center-remote-access-and-third-country-diversion.pdf — **Tier 3** (law-firm alert; fetch summary only)
+- Wiley Rein, "BIS Issues Interim Final Rule on Remote Access to Supercomputing Capabilities", client alert, 19 Nov 2026 — https://www.wiley.law/alert-BIS-Issues-Interim-Final-Rule-on-Remote-Access-to-Supercomputing-Capabilities — **Tier 3** (law-firm alert; full text supplied by the user)
 - BIS press release and display copy of the interim final rule (RIN 0694-AK50), 16 Nov 2026, as summarised in the sibling repository's case note — **Tier 1/2 in the original; not re-read for this note** (the IFR is a pre-publication draft; Federal Register publication was expected 19 Nov per Paul Hastings)
 - Congress.gov entries for H.R. 2683 and S. 3519, as recorded in [Congressional Signals](../trackers/congress-signals.md) — **Tier 1** (not re-queried today)
 
@@ -56,6 +57,16 @@ The [FY2027 NDAA note](fy27-ndaa-ai-chip-export-bills.md) said that if the Remot
 - **Process point:** the rule was issued **without notice and comment** and with an unusually rushed rollout; the firm expects further guidance. The 60-day comment window after publication is the first formal route for outside views, including any from Congress.
 - **Open items for BIS:** how the threshold is measured, the meaning of "headquartered" and "control", treatment of model developers serving Chinese customers, and enforcement appetite. These are possible oversight topics; the firm does not attribute them to any member.
 - **Linkage grade unchanged:** the alert does not mention congressional letters or hearings beyond describing RASA, so the grade stays `proximity-only`. **Federal Register publication is still unconfirmed** (scheduled for 19 Nov per the alert); the tracker entry should be added only once the citation is known.
+
+## 2e. Additional points from Wiley (Tier 3)
+
+*Wiley Rein client alert, 19 Nov 2026; full text supplied by the user and read; paraphrased.*
+
+- **RASA relationship:** the alert says the rule addresses concerns behind H.R. 2683 (passed the House in January 2026), that RASA would add a statutory definition of "remote access" to the Export Control Reform Act, and that it is unclear how the two would be reconciled or whether RASA could authorise controls beyond the rule. This supports the earlier readings that a statute could fill gaps the rule leaves.
+- **Authority and origin:** the rule rests on existing EAR authority; BIS says it was written at the direction of Treasury and the National Security Council. The alert cites no congressional letter or bill as a source.
+- **Baseline shift:** BIS's 2009 and 2014 advisory opinions treated cloud compute as outside the EAR; the firm says the rule materially narrows, but does not wholly overturn, that position. This is the administrative choice that left remote access to a statute until now.
+- **Further levers:** BIS says it is pursuing further consequences for countries and entities that evade the rule (import and licensing restrictions, downgraded status, Entity List placement), and the rule widens use of "is informed" letters; both are administrative levers for the [administration-levers page](../influence/administration-levers.md).
+- **Comment period:** 60 days after Federal Register publication (per the alert), the first formal route for outside views. **Publication is still not confirmed**; the alert, dated 19 Nov, gives no citation. Linkage grade stays `proximity-only`.
 
 ## 3. Assessment against the repository's framework
 
