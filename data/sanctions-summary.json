@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T16:45:13+00:00",
+  "generated_at": "2026-11-20T16:20:40+00:00",
   "new_days": 7,
   "datasets": [
     {
@@ -7,7 +7,7 @@
       "entity_count": 73123,
       "target_count": 20575,
       "last_change": "2026-11-19T16:10:05",
-      "last_export": "2026-11-19T16:10:05",
+      "last_export": "2026-11-20T14:11:34",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [
         {
@@ -271,7 +271,7 @@
           "schema": "Organization",
           "countries": "gt",
           "first_seen": "2026-11-13",
-          "programs": "FTO - Executive Order 13224 (Terrorism) - INA",
+          "programs": "FTO - INA - Executive Order 13224 (Terrorism)",
           "id": "NK-F7u642SKvvk5SmwHdHe8Ky"
         }
       ],
@@ -283,7 +283,7 @@
       "entity_count": 2064,
       "target_count": 716,
       "last_change": "2026-11-04T18:36:35",
-      "last_export": "2026-11-19T16:35:07",
+      "last_export": "2026-11-20T14:35:04",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -294,7 +294,7 @@
       "entity_count": 876,
       "target_count": 373,
       "last_change": "2026-11-17T16:57:43",
-      "last_export": "2026-11-19T08:57:10",
+      "last_export": "2026-11-20T08:57:04",
       "publisher_url": "https://www.bis.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -305,7 +305,7 @@
       "entity_count": 30690,
       "target_count": 24420,
       "last_change": "2026-11-19T16:42:34",
-      "last_export": "2026-11-19T16:42:34",
+      "last_export": "2026-11-20T15:53:06",
       "publisher_url": "https://www.trade.gov/",
       "new_targets": [
         {
