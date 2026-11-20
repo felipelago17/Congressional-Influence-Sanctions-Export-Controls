@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T16:49:25+00:00",
+  "generated_at": "2026-11-20T16:23:57+00:00",
   "sources_ok": [
     "DOJ RSS (25)",
     "BIS (52)",
@@ -155,8 +155,35 @@
   "scan": [
     {
       "agency": "DOJ",
-      "title": "Members of Multistate Steroid Trafficking Organization Indicted for Drug Conspiracy",
-      "url": "https://www.justice.gov/usao-edla/pr/members-multistate-steroid-trafficking-organization-indicted-drug-conspiracy",
+      "title": "Ecuadorian Leader of Los Choneros, a Violent Foreign Terrorist Organization, Indicted in Brooklyn Federal Court on International Drug, Terrorism, and Gun Charges as Part Of Homeland Security Task Force Initiative",
+      "url": "https://www.justice.gov/usao-edny/pr/ecuadorian-leader-los-choneros-violent-foreign-terrorist-organization-indicted",
+      "date": "2026-11-20",
+      "matched_keywords": [
+        "indict"
+      ]
+    },
+    {
+      "agency": "DOJ",
+      "title": "Former Employee of Federal Official and Her Co-Conspirator Indicted for Conspiring to Falsely Report a Violent Attack and Lying to Law Enforcement",
+      "url": "https://www.justice.gov/usao-nj/pr/former-employee-federal-official-and-her-co-conspirator-indicted-conspiring-falsely",
+      "date": "2026-11-20",
+      "matched_keywords": [
+        "indict"
+      ]
+    },
+    {
+      "agency": "DOJ",
+      "title": "Illinois store owner indicted for Food Stamp fraud",
+      "url": "https://www.justice.gov/usao-ks/pr/illinois-store-owner-indicted-food-stamp-fraud-0",
+      "date": "2026-11-20",
+      "matched_keywords": [
+        "indict"
+      ]
+    },
+    {
+      "agency": "DOJ",
+      "title": "Former Jackson County Elected Official and Attorney Indicted for Fraud, Bribery",
+      "url": "https://www.justice.gov/usao-wdmo/pr/former-jackson-county-elected-official-and-attorney-indicted-fraud-bribery",
       "date": "2026-11-19",
       "matched_keywords": [
         "indict"
@@ -164,11 +191,20 @@
     },
     {
       "agency": "DOJ",
-      "title": "Panama City Area Woman Indicted on Federal Fraud Charges",
-      "url": "https://www.justice.gov/usao-ndfl/pr/panama-city-area-woman-indicted-federal-fraud-charges",
+      "title": "Dallas tax preparer indicted in multi-million-dollar tax fraud scheme and false loan application",
+      "url": "https://www.justice.gov/usao-ndtx/pr/dallas-tax-preparer-indicted-multi-million-dollar-tax-fraud-scheme-and-false-loan",
       "date": "2026-11-19",
       "matched_keywords": [
         "indict"
+      ]
+    },
+    {
+      "agency": "DOJ",
+      "title": "Two Illegal Aliens Plead Guilty to Smuggling Illegal Aliens Into the United States",
+      "url": "https://www.justice.gov/usao-nv/pr/two-illegal-aliens-plead-guilty-smuggling-illegal-aliens-united-states",
+      "date": "2026-11-19",
+      "matched_keywords": [
+        "smuggl"
       ]
     },
     {
