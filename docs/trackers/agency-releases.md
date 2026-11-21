@@ -1,6 +1,6 @@
 # Agency enforcement releases (DOJ · BIS · OFAC)
 
-*Auto-generated 2026-11-20 16:23 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
+*Auto-generated 2026-11-21 15:38 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
 
 Sources reachable this run: DOJ RSS (25), BIS (52), OFAC (64)
 
@@ -26,19 +26,15 @@ Keywords: `sanction`, `export control`, `export administration`, `entity list`, 
 
 | Date | Agency | Title | Matched |
 |---|---|---|---|
-| 2026-11-20 | DOJ | [Ecuadorian Leader of Los Choneros, a Violent Foreign Terrorist Organization, Indicted in Brooklyn Federal Court on International Drug, Terrorism, and Gun Charges as Part Of Homeland Security Task Force Initiative](https://www.justice.gov/usao-edny/pr/ecuadorian-leader-los-choneros-violent-foreign-terrorist-organization-indicted) | indict |
-| 2026-11-20 | DOJ | [Former Employee of Federal Official and Her Co-Conspirator Indicted for Conspiring to Falsely Report a Violent Attack and Lying to Law Enforcement](https://www.justice.gov/usao-nj/pr/former-employee-federal-official-and-her-co-conspirator-indicted-conspiring-falsely) | indict |
-| 2026-11-20 | DOJ | [Illinois store owner indicted for Food Stamp fraud](https://www.justice.gov/usao-ks/pr/illinois-store-owner-indicted-food-stamp-fraud-0) | indict |
-| 2026-11-19 | DOJ | [Former Jackson County Elected Official and Attorney Indicted for Fraud, Bribery](https://www.justice.gov/usao-wdmo/pr/former-jackson-county-elected-official-and-attorney-indicted-fraud-bribery) | indict |
-| 2026-11-19 | DOJ | [Dallas tax preparer indicted in multi-million-dollar tax fraud scheme and false loan application](https://www.justice.gov/usao-ndtx/pr/dallas-tax-preparer-indicted-multi-million-dollar-tax-fraud-scheme-and-false-loan) | indict |
-| 2026-11-19 | DOJ | [Two Illegal Aliens Plead Guilty to Smuggling Illegal Aliens Into the United States](https://www.justice.gov/usao-nv/pr/two-illegal-aliens-plead-guilty-smuggling-illegal-aliens-united-states) | smuggl |
+| 2026-11-20 | DOJ | [Federal grand jury indicts Albion man for defrauding the VA out of hundreds of thousands of dollars](https://www.justice.gov/usao-wdny/pr/federal-grand-jury-indicts-albion-man-defrauding-va-out-hundreds-thousands-dollars) | indict |
+| 2026-11-20 | DOJ | [ADA Settlement Requires Accessibility Improvements at Cochran-Bleckley Recreation Department](https://www.justice.gov/usao-mdga/pr/ada-settlement-requires-accessibility-improvements-cochran-bleckley-recreation) | settlement |
+| 2026-11-20 | OFAC | [Iran Designations; Issuance of Cuba Frequently Asked Questions](https://ofac.treasury.gov/recent-actions/20261120) | iran |
 | 2026-11-19 | OFAC | [Counter Narcotics Designations; Cyber-related Designations; Issuance of Illicit Drugs General License; Issuance of Amended Russia-related General License and Frequently Asked Questions](https://ofac.treasury.gov/recent-actions/20261119) | russia, general license |
 | 2026-11-09 | OFAC | [Iran Designation Update](https://ofac.treasury.gov/recent-actions/20261109) | iran |
 | 2026-11-06 | OFAC | [Iran-related Designations](https://ofac.treasury.gov/recent-actions/20261106) | iran |
 | 2026-11-04 | OFAC | [Iran-related Designations; Updates to Certain Iran-related Listings; Publication of Iran-related OFAC Alert; Issuance of Amended Venezuela-related General License and Frequently Asked Question](https://ofac.treasury.gov/recent-actions/20261104) | ofac, iran, general license |
 | 2026-10-29 | OFAC | [Issuance of Amended Iran-related General License](https://ofac.treasury.gov/recent-actions/20261029) | iran, general license |
 | 2026-10-28 | OFAC | [North Korea Designations; Democratic Republic of the Congo-related Designations](https://ofac.treasury.gov/recent-actions/20261028) | north korea |
-| 2026-10-27 | OFAC | [Settlement Agreement between the U.S. Department of the Treasury's Office of Foreign Assets Control and Extreme Networks, Inc.](https://ofac.treasury.gov/recent-actions/20261027) | settlement |
 | 2026-10-02 | BIS | [BIS Reaches Administrative Enforcement Settlement with Lambda Research Corporation](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-lambda-research-corporation) | settlement |
 | 2026-10-02 | BIS | [BIS Reaches Administrative Enforcement Settlement with Lambda Research Corporation](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-lambda-research-corporation) | settlement |
 | 2026-10-02 | BIS | [BIS Reaches Administrative Enforcement Settlement with Container Manufacturing Ltd.](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-container-manufacturing-ltd.) | settlement |

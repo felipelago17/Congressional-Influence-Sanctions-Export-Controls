@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T16:23:57+00:00",
+  "generated_at": "2026-11-21T15:38:50+00:00",
   "sources_ok": [
     "DOJ RSS (25)",
     "BIS (52)",
@@ -155,8 +155,8 @@
   "scan": [
     {
       "agency": "DOJ",
-      "title": "Ecuadorian Leader of Los Choneros, a Violent Foreign Terrorist Organization, Indicted in Brooklyn Federal Court on International Drug, Terrorism, and Gun Charges as Part Of Homeland Security Task Force Initiative",
-      "url": "https://www.justice.gov/usao-edny/pr/ecuadorian-leader-los-choneros-violent-foreign-terrorist-organization-indicted",
+      "title": "Federal grand jury indicts Albion man for defrauding the VA out of hundreds of thousands of dollars",
+      "url": "https://www.justice.gov/usao-wdny/pr/federal-grand-jury-indicts-albion-man-defrauding-va-out-hundreds-thousands-dollars",
       "date": "2026-11-20",
       "matched_keywords": [
         "indict"
@@ -164,47 +164,11 @@
     },
     {
       "agency": "DOJ",
-      "title": "Former Employee of Federal Official and Her Co-Conspirator Indicted for Conspiring to Falsely Report a Violent Attack and Lying to Law Enforcement",
-      "url": "https://www.justice.gov/usao-nj/pr/former-employee-federal-official-and-her-co-conspirator-indicted-conspiring-falsely",
+      "title": "ADA Settlement Requires Accessibility Improvements at Cochran-Bleckley Recreation Department",
+      "url": "https://www.justice.gov/usao-mdga/pr/ada-settlement-requires-accessibility-improvements-cochran-bleckley-recreation",
       "date": "2026-11-20",
       "matched_keywords": [
-        "indict"
-      ]
-    },
-    {
-      "agency": "DOJ",
-      "title": "Illinois store owner indicted for Food Stamp fraud",
-      "url": "https://www.justice.gov/usao-ks/pr/illinois-store-owner-indicted-food-stamp-fraud-0",
-      "date": "2026-11-20",
-      "matched_keywords": [
-        "indict"
-      ]
-    },
-    {
-      "agency": "DOJ",
-      "title": "Former Jackson County Elected Official and Attorney Indicted for Fraud, Bribery",
-      "url": "https://www.justice.gov/usao-wdmo/pr/former-jackson-county-elected-official-and-attorney-indicted-fraud-bribery",
-      "date": "2026-11-19",
-      "matched_keywords": [
-        "indict"
-      ]
-    },
-    {
-      "agency": "DOJ",
-      "title": "Dallas tax preparer indicted in multi-million-dollar tax fraud scheme and false loan application",
-      "url": "https://www.justice.gov/usao-ndtx/pr/dallas-tax-preparer-indicted-multi-million-dollar-tax-fraud-scheme-and-false-loan",
-      "date": "2026-11-19",
-      "matched_keywords": [
-        "indict"
-      ]
-    },
-    {
-      "agency": "DOJ",
-      "title": "Two Illegal Aliens Plead Guilty to Smuggling Illegal Aliens Into the United States",
-      "url": "https://www.justice.gov/usao-nv/pr/two-illegal-aliens-plead-guilty-smuggling-illegal-aliens-united-states",
-      "date": "2026-11-19",
-      "matched_keywords": [
-        "smuggl"
+        "settlement"
       ]
     },
     {
@@ -486,6 +450,15 @@
     },
     {
       "agency": "OFAC",
+      "title": "Iran Designations; Issuance of Cuba Frequently Asked Questions",
+      "url": "https://ofac.treasury.gov/recent-actions/20261120",
+      "date": "2026-11-20",
+      "matched_keywords": [
+        "iran"
+      ]
+    },
+    {
+      "agency": "OFAC",
       "title": "Counter Narcotics Designations; Cyber-related Designations; Issuance of Illicit Drugs General License; Issuance of Amended Russia-related General License and Frequently Asked Questions",
       "url": "https://ofac.treasury.gov/recent-actions/20261119",
       "date": "2026-11-19",
@@ -540,15 +513,6 @@
       "date": "2026-10-28",
       "matched_keywords": [
         "north korea"
-      ]
-    },
-    {
-      "agency": "OFAC",
-      "title": "Settlement Agreement between the U.S. Department of the Treasury's Office of Foreign Assets Control and Extreme Networks, Inc.",
-      "url": "https://ofac.treasury.gov/recent-actions/20261027",
-      "date": "2026-10-27",
-      "matched_keywords": [
-        "settlement"
       ]
     },
     {
