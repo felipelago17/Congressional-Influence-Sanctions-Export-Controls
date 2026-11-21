@@ -1,15 +1,47 @@
 {
-  "generated_at": "2026-11-20T16:20:40+00:00",
+  "generated_at": "2026-11-21T15:34:46+00:00",
   "new_days": 7,
   "datasets": [
     {
       "slug": "us_ofac_sdn",
-      "entity_count": 73123,
-      "target_count": 20575,
-      "last_change": "2026-11-19T16:10:05",
-      "last_export": "2026-11-20T14:11:34",
+      "entity_count": 73143,
+      "target_count": 20579,
+      "last_change": "2026-11-20T22:10:04",
+      "last_export": "2026-11-21T14:10:05",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [
+        {
+          "name": "Mojtaba Arabnejad",
+          "schema": "Person",
+          "countries": "ir",
+          "first_seen": "2026-11-20",
+          "programs": "SDGT - Executive Order 13224 (Terrorism)",
+          "id": "ofac-59250"
+        },
+        {
+          "name": "Mohammadhossein SERVATI",
+          "schema": "Person",
+          "countries": "dm;ir",
+          "first_seen": "2026-11-20",
+          "programs": "SDGT - Executive Order 13224 (Terrorism)",
+          "id": "ofac-59253"
+        },
+        {
+          "name": "Mohammad Javad BAVAND",
+          "schema": "Person",
+          "countries": "ir",
+          "first_seen": "2026-11-20",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59251"
+        },
+        {
+          "name": "Majid TAJ",
+          "schema": "Person",
+          "countries": "ir",
+          "first_seen": "2026-11-20",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59252"
+        },
         {
           "name": "ZHZ Investment Consulting Co., Ltd.",
           "schema": "Organization",
@@ -257,25 +289,9 @@
           "first_seen": "2026-11-18",
           "programs": "SDGT - Executive Order 13224 (Terrorism)",
           "id": "ofac-59189"
-        },
-        {
-          "name": "Los Mendoza Drug Trafficking Organization",
-          "schema": "Organization",
-          "countries": "bz;gt;hn",
-          "first_seen": "2026-11-13",
-          "programs": "ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) - Executive Order 13224 (Terrorism)",
-          "id": "ofac-59031"
-        },
-        {
-          "name": "Los Lorenzanas",
-          "schema": "Organization",
-          "countries": "gt",
-          "first_seen": "2026-11-13",
-          "programs": "FTO - INA - Executive Order 13224 (Terrorism)",
-          "id": "NK-F7u642SKvvk5SmwHdHe8Ky"
         }
       ],
-      "new_target_count": 33,
+      "new_target_count": 35,
       "label": "OFAC Specially Designated Nationals (SDN)"
     },
     {
@@ -283,7 +299,7 @@
       "entity_count": 2064,
       "target_count": 716,
       "last_change": "2026-11-04T18:36:35",
-      "last_export": "2026-11-20T14:35:04",
+      "last_export": "2026-11-21T14:35:05",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -294,7 +310,7 @@
       "entity_count": 876,
       "target_count": 373,
       "last_change": "2026-11-17T16:57:43",
-      "last_export": "2026-11-20T08:57:04",
+      "last_export": "2026-11-21T08:57:05",
       "publisher_url": "https://www.bis.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -302,12 +318,44 @@
     },
     {
       "slug": "us_trade_csl",
-      "entity_count": 30690,
-      "target_count": 24420,
-      "last_change": "2026-11-19T16:42:34",
-      "last_export": "2026-11-20T15:53:06",
+      "entity_count": 30694,
+      "target_count": 24424,
+      "last_change": "2026-11-20T21:53:04",
+      "last_export": "2026-11-21T12:53:06",
       "publisher_url": "https://www.trade.gov/",
       "new_targets": [
+        {
+          "name": "TAJ, Majid",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-20",
+          "programs": "",
+          "id": "ofac-59252"
+        },
+        {
+          "name": "SERVATI, Mohammadhossein",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-20",
+          "programs": "",
+          "id": "ofac-59253"
+        },
+        {
+          "name": "BAVAND, Mohammad Javad",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-20",
+          "programs": "",
+          "id": "ofac-59251"
+        },
+        {
+          "name": "ARABNEJAD, Mojtaba",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-20",
+          "programs": "",
+          "id": "ofac-59250"
+        },
         {
           "name": "ZHZ INVESTMENT CONSULTING CO., LTD.",
           "schema": "Organization",
@@ -547,25 +595,9 @@
           "first_seen": "2026-11-18",
           "programs": "",
           "id": "ofac-59189"
-        },
-        {
-          "name": "LOS MENDOZA DRUG TRAFFICKING ORGANIZATION",
-          "schema": "Organization",
-          "countries": "",
-          "first_seen": "2026-11-13",
-          "programs": "",
-          "id": "ofac-59031"
-        },
-        {
-          "name": "LOS LORENZANAS",
-          "schema": "Organization",
-          "countries": "",
-          "first_seen": "2026-11-13",
-          "programs": "",
-          "id": "NK-F7u642SKvvk5SmwHdHe8Ky"
         }
       ],
-      "new_target_count": 32,
+      "new_target_count": 34,
       "label": "Consolidated Screening List (Commerce/State/Treasury)"
     }
   ]
