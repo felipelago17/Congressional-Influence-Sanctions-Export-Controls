@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T15:27:01+00:00",
+  "generated_at": "2026-11-22T15:28:11+00:00",
   "source": "https://api.congress.gov/v3",
   "chamber_composition": {
     "House": {
@@ -180,17 +180,6 @@
     },
     {
       "congress": 119,
-      "number": "HR.11046",
-      "title": "To amend the Homeland Security Act of 2002 to establish within the Cybersecurity and Infrastructure Security Agency the National Cyber and AI Investigations Board to investigate significant cyber incidents, cyber incidents involving terrorism, and cyber incidents involving artificial intelligence, to determine root causes and develop recommendations to prevent similar incidents and address terrorism threats to the United States, including threats relating to the malicious use of information systems or artificial intelligence by covered foreign adversaries, including terrorist organizations, and for other purposes.",
-      "latest_action_date": "2026-11-17",
-      "latest_action": "Referred to the House Committee on Homeland Security.",
-      "matched_keywords": [
-        "artificial intelligence"
-      ],
-      "url": "https://www.congress.gov/bill/119th-congress/house-bill/11046"
-    },
-    {
-      "congress": 119,
       "number": "HR.11076",
       "title": "To amend the Homeland Security Act of 2002 to require the Director of the Cybersecurity and Infrastructure Security Agency to lead cybersecurity efforts relating to the secure adoption, discovery, identification, authorization, monitoring, accountability, and risk management of artificial intelligence agents operating on executive agency information systems, and for other purposes.",
       "latest_action_date": "2026-11-18",
@@ -224,6 +213,17 @@
     },
     {
       "congress": 119,
+      "number": "S.97",
+      "title": "Securing Semiconductor Supply Chains Act",
+      "latest_action_date": "2025-05-26",
+      "latest_action": "Held at the desk.",
+      "matched_keywords": [
+        "semiconductor"
+      ],
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/97"
+    },
+    {
+      "congress": 119,
       "number": "S.1705",
       "title": "Chip Security Act",
       "latest_action_date": "2025-05-08",
@@ -245,17 +245,6 @@
       "url": "https://www.congress.gov/bill/119th-congress/house-bill/9442"
     },
     {
-      "congress": 118,
-      "number": "HR.5532",
-      "title": "Russia-North Korea Cooperation Sanctions Act",
-      "latest_action_date": "2024-12-17",
-      "latest_action": "Referred to the Subcommittee on Trade.",
-      "matched_keywords": [
-        "sanction"
-      ],
-      "url": "https://www.congress.gov/bill/118th-congress/house-bill/5532"
-    },
-    {
       "congress": 119,
       "number": "S.97",
       "title": "Securing Semiconductor Supply Chains Act",
@@ -265,6 +254,17 @@
         "semiconductor"
       ],
       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/97"
+    },
+    {
+      "congress": 118,
+      "number": "HR.5532",
+      "title": "Russia-North Korea Cooperation Sanctions Act",
+      "latest_action_date": "2024-12-17",
+      "latest_action": "Referred to the Subcommittee on Trade.",
+      "matched_keywords": [
+        "sanction"
+      ],
+      "url": "https://www.congress.gov/bill/118th-congress/house-bill/5532"
     },
     {
       "congress": 118,
