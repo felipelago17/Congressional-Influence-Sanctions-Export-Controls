@@ -1,6 +1,6 @@
 # Agency enforcement releases (DOJ · BIS · OFAC)
 
-*Auto-generated 2026-11-21 15:38 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
+*Auto-generated 2026-11-22 15:42 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
 
 Sources reachable this run: DOJ RSS (25), BIS (52), OFAC (64)
 
