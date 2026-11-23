@@ -1,20 +1,50 @@
 # Sanctions and export-control lists (OpenSanctions)
 
-*Auto-generated 2026-11-22 15:37 UTC. Statistics and new listings from [OpenSanctions](https://www.opensanctions.org/) bulk data (CC BY-NC 4.0), which mirrors the official OFAC and BIS publications. Always verify against the issuing agency before acting. Not legal advice.*
+*Auto-generated 2026-11-23 19:27 UTC. Statistics and new listings from [OpenSanctions](https://www.opensanctions.org/) bulk data (CC BY-NC 4.0), which mirrors the official OFAC and BIS publications. Always verify against the issuing agency before acting. Not legal advice.*
 
 ## List statistics
 
 | List | Entities | Last change | New in last 7 days |
 |---|---|---|---|
-| [OFAC Specially Designated Nationals (SDN)](https://www.opensanctions.org/datasets/us_ofac_sdn/) | 73143 | 2026-11-20 | 35 |
+| [OFAC Specially Designated Nationals (SDN)](https://www.opensanctions.org/datasets/us_ofac_sdn/) | 73243 | 2026-11-23 | 65 |
 | [OFAC Consolidated (non-SDN) List](https://www.opensanctions.org/datasets/us_ofac_cons/) | 2064 | 2026-11-04 | 0 |
 | [BIS Denied Persons List](https://www.opensanctions.org/datasets/us_bis_denied/) | 876 | 2026-11-17 | 0 |
-| [Consolidated Screening List (Commerce/State/Treasury)](https://www.opensanctions.org/datasets/us_trade_csl/) | 30694 | 2026-11-20 | 34 |
+| [Consolidated Screening List (Commerce/State/Treasury)](https://www.opensanctions.org/datasets/us_trade_csl/) | 30724 | 2026-11-23 | 64 |
 
 ## New in OFAC Specially Designated Nationals (SDN) (last 7 days)
 
 | First seen | Name | Type | Countries | Programs |
 |---|---|---|---|---|
+| 2026-11-23 | [Valiollah Hemmati](https://www.opensanctions.org/entities/ofac-59123/) | Person | ir | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [Sayyed Mohammad Jalali](https://www.opensanctions.org/entities/ofac-59124/) | Person | ir | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [Royah Altahabia Trading L.L.C](https://www.opensanctions.org/entities/ofac-59178/) | Organization | ae | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [Robust Trading LLC](https://www.opensanctions.org/entities/ofac-59186/) | Organization | ae | IRAN-EO13871 - Executive Order 13871 (Iran) |
+| 2026-11-23 | [Rahbar Bazargani Nesim Baharan Qeshm Company](https://www.opensanctions.org/entities/ofac-59113/) | Organization | ir | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [RECAZ STAR GENERAL TRADING LLC](https://www.opensanctions.org/entities/ofac-59112/) | Organization | ae | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [Parviz Fazlju](https://www.opensanctions.org/entities/ofac-59232/) | Person | ir | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [OGA GLOBAL GENERAL TRADING L.L.C](https://www.opensanctions.org/entities/ofac-59117/) | Organization | ae | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [Nordic International Trading LLC](https://www.opensanctions.org/entities/ofac-59180/) | Organization | ae | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [Mohammad Hossein Abbasi](https://www.opensanctions.org/entities/ofac-59233/) | Person | ir | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [Mina Fashki and Partners Exchange Company](https://www.opensanctions.org/entities/ofac-59116/) | Organization | ir | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [Mina Fashki](https://www.opensanctions.org/entities/ofac-59125/) | Person | ir | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [Mellat Exchange Company](https://www.opensanctions.org/entities/ofac-59230/) | Organization | ir | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [Mahmoud Akhlaghi](https://www.opensanctions.org/entities/ofac-59231/) | Person | ir | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [MEETHALE RAW MATERIALS TRADING COMPANY LLC](https://www.opensanctions.org/entities/ofac-59122/) | Organization | ae | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [KHORE AL HILAL GOODS WHOLESALERS TRADING LLC](https://www.opensanctions.org/entities/ofac-59130/) | Organization | ae | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [Iran Center for Exchange of Currency and Gold](https://www.opensanctions.org/entities/ofac-59187/) | Organization | ir | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [Integral Petro Energy Trading LLC](https://www.opensanctions.org/entities/ofac-59185/) | Organization | ae | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [HEMRAJ TRADING L.L.C](https://www.opensanctions.org/entities/ofac-59114/) | Organization | ae | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [H N B TRADING CO LLC](https://www.opensanctions.org/entities/ofac-59110/) | Organization | ae | SDGT - Executive Order 13224 (Terrorism) |
+| 2026-11-23 | [GRANDEZ TRADING LIMITED](https://www.opensanctions.org/entities/ofac-59128/) | Organization | cn;hk | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [GRAND TARGET HEAVY EQUIPMENT AND MACHINERY SPARE PARTS TRADING L.L.C](https://www.opensanctions.org/entities/ofac-59111/) | Organization | ae | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [GESPL INTERNATIONAL GENERAL TRADING LLC](https://www.opensanctions.org/entities/ofac-59121/) | Organization | ae | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [Farzad Fashki](https://www.opensanctions.org/entities/ofac-59126/) | Person | ir | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [EWAN AL MADEENA GENERAL TRADING LLC](https://www.opensanctions.org/entities/ofac-59118/) | Organization | ae | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [DEXTEROUS GLOBAL DMCC](https://www.opensanctions.org/entities/ofac-59119/) | Organization | ae | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [Berkeley Trading LLC](https://www.opensanctions.org/entities/ofac-59184/) | Organization | ae | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [BOGAZICI GUMRUKLEME ITHALAT IHRACAT TURIZM PETROL URUNLERI SANAYI VE TICARET LIMITED SIRKETI](https://www.opensanctions.org/entities/ofac-59127/) | Organization | tr | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [Ali Kalhor](https://www.opensanctions.org/entities/ofac-59120/) | Person | ir | IRAN-EO13902 - Executive Order 13902 (Iran) |
+| 2026-11-23 | [Alam Al Sahra Building Materials Trading Co. L.L.C](https://www.opensanctions.org/entities/ofac-59183/) | Organization | ae | IRAN-EO13902 - Executive Order 13902 (Iran) |
 | 2026-11-20 | [Mojtaba Arabnejad](https://www.opensanctions.org/entities/ofac-59250/) | Person | ir | SDGT - Executive Order 13224 (Terrorism) |
 | 2026-11-20 | [Mohammadhossein SERVATI](https://www.opensanctions.org/entities/ofac-59253/) | Person | dm;ir | SDGT - Executive Order 13224 (Terrorism) |
 | 2026-11-20 | [Mohammad Javad BAVAND](https://www.opensanctions.org/entities/ofac-59251/) | Person | ir | IRAN-EO13902 - Executive Order 13902 (Iran) |
@@ -45,16 +75,43 @@
 | 2026-11-19 | [Allan John Norman Meehan](https://www.opensanctions.org/entities/ofac-58807/) | Person | au | ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) |
 | 2026-11-19 | [Alexandre Varela Villar](https://www.opensanctions.org/entities/ofac-58806/) | Person | es | ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) |
 | 2026-11-18 | [Wa Ta'awanu Association](https://www.opensanctions.org/entities/ofac-59188/) | Organization | lb | SDGT - Executive Order 13224 (Terrorism) |
-| 2026-11-18 | [SANKARİ GOLD KUYUMCULUK TİCARET LİMİTED ŞİRKETİ](https://www.opensanctions.org/entities/ofac-59176/) | Organization | tr | SDGT - Executive Order 13224 (Terrorism) |
-| 2026-11-18 | [Ibrahim Khechen](https://www.opensanctions.org/entities/ofac-59174/) | Person | lb | SDGT - Executive Order 13224 (Terrorism) |
-| 2026-11-18 | [Hassan Khechen](https://www.opensanctions.org/entities/ofac-59173/) | Person | lb | SDGT - Executive Order 13224 (Terrorism) |
-| 2026-11-18 | [Gold Global Company](https://www.opensanctions.org/entities/ofac-59175/) | Organization | lb | SDGT - Executive Order 13224 (Terrorism) |
-| 2026-11-18 | [Afif Abdel Rida Chouman](https://www.opensanctions.org/entities/ofac-59189/) | Person | lb | SDGT - Executive Order 13224 (Terrorism) |
+
+_Showing 60 of 65._
 
 ## New in Consolidated Screening List (Commerce/State/Treasury) (last 7 days)
 
 | First seen | Name | Type | Countries | Programs |
 |---|---|---|---|---|
+| 2026-11-23 | [ROYAH ALTAHABIA TRADING L.L.C](https://www.opensanctions.org/entities/ofac-59178/) | Organization |  |  |
+| 2026-11-23 | [ROBUST TRADING LLC](https://www.opensanctions.org/entities/ofac-59186/) | Organization |  |  |
+| 2026-11-23 | [RECAZ STAR GENERAL TRADING LLC](https://www.opensanctions.org/entities/ofac-59112/) | Organization |  |  |
+| 2026-11-23 | [RAHBAR BAZARGANI NESIM BAHARAN QESHM COMPANY](https://www.opensanctions.org/entities/ofac-59113/) | Organization |  |  |
+| 2026-11-23 | [OGA GLOBAL GENERAL TRADING L.L.C](https://www.opensanctions.org/entities/ofac-59117/) | Organization |  |  |
+| 2026-11-23 | [NORDIC INTERNATIONAL TRADING LLC](https://www.opensanctions.org/entities/ofac-59180/) | Organization |  |  |
+| 2026-11-23 | [MINA FASHKI AND PARTNERS EXCHANGE COMPANY](https://www.opensanctions.org/entities/ofac-59116/) | Organization |  |  |
+| 2026-11-23 | [MELLAT EXCHANGE COMPANY](https://www.opensanctions.org/entities/ofac-59230/) | Organization |  |  |
+| 2026-11-23 | [MEETHALE RAW MATERIALS TRADING COMPANY LLC](https://www.opensanctions.org/entities/ofac-59122/) | Organization |  |  |
+| 2026-11-23 | [KHORE AL HILAL GOODS WHOLESALERS TRADING LLC](https://www.opensanctions.org/entities/ofac-59130/) | Organization |  |  |
+| 2026-11-23 | [KALHOR, Ali](https://www.opensanctions.org/entities/ofac-59120/) | Person |  |  |
+| 2026-11-23 | [JALALI, Sayyed Mohammad](https://www.opensanctions.org/entities/ofac-59124/) | Person |  |  |
+| 2026-11-23 | [IRAN CENTER FOR EXCHANGE OF CURRENCY AND GOLD](https://www.opensanctions.org/entities/ofac-59187/) | Organization |  |  |
+| 2026-11-23 | [INTEGRAL PETRO ENERGY TRADING LLC](https://www.opensanctions.org/entities/ofac-59185/) | Organization |  |  |
+| 2026-11-23 | [HEMRAJ TRADING L.L.C](https://www.opensanctions.org/entities/ofac-59114/) | Organization |  |  |
+| 2026-11-23 | [HEMMATI, Valiollah](https://www.opensanctions.org/entities/ofac-59123/) | Person |  |  |
+| 2026-11-23 | [H N B TRADING CO LLC](https://www.opensanctions.org/entities/ofac-59110/) | Organization |  |  |
+| 2026-11-23 | [GRANDEZ TRADING LIMITED](https://www.opensanctions.org/entities/ofac-59128/) | Organization |  |  |
+| 2026-11-23 | [GRAND TARGET HEAVY EQUIPMENT AND MACHINERY SPARE PARTS TRADING L.L.C](https://www.opensanctions.org/entities/ofac-59111/) | Organization |  |  |
+| 2026-11-23 | [GESPL INTERNATIONAL GENERAL TRADING LLC](https://www.opensanctions.org/entities/ofac-59121/) | Organization |  |  |
+| 2026-11-23 | [FAZLJU, Parviz](https://www.opensanctions.org/entities/ofac-59232/) | Person |  |  |
+| 2026-11-23 | [FASHKI, Mina](https://www.opensanctions.org/entities/ofac-59125/) | Person |  |  |
+| 2026-11-23 | [FASHKI, Farzad](https://www.opensanctions.org/entities/ofac-59126/) | Person |  |  |
+| 2026-11-23 | [EWAN AL MADEENA GENERAL TRADING LLC](https://www.opensanctions.org/entities/ofac-59118/) | Organization |  |  |
+| 2026-11-23 | [DEXTEROUS GLOBAL DMCC](https://www.opensanctions.org/entities/ofac-59119/) | Organization |  |  |
+| 2026-11-23 | [BOGAZICI GUMRUKLEME ITHALAT IHRACAT TURIZM PETROL URUNLERI SANAYI VE TICARET LIMITED SIRKETI](https://www.opensanctions.org/entities/ofac-59127/) | Organization |  |  |
+| 2026-11-23 | [BERKELEY TRADING LLC](https://www.opensanctions.org/entities/ofac-59184/) | Organization |  |  |
+| 2026-11-23 | [ALAM AL SAHRA BUILDING MATERIALS TRADING CO. L.L.C](https://www.opensanctions.org/entities/ofac-59183/) | Organization |  |  |
+| 2026-11-23 | [AKHLAGHI, Mahmoud](https://www.opensanctions.org/entities/ofac-59231/) | Person |  |  |
+| 2026-11-23 | [ABBASI, Mohammad Hossein](https://www.opensanctions.org/entities/ofac-59233/) | Person |  |  |
 | 2026-11-20 | [TAJ, Majid](https://www.opensanctions.org/entities/ofac-59252/) | Person |  |  |
 | 2026-11-20 | [SERVATI, Mohammadhossein](https://www.opensanctions.org/entities/ofac-59253/) | Person |  |  |
 | 2026-11-20 | [BAVAND, Mohammad Javad](https://www.opensanctions.org/entities/ofac-59251/) | Person |  |  |
@@ -85,10 +142,8 @@
 | 2026-11-19 | [BEI FANG BO LIN CONSTRUCTION DECORATION CO., LTD.](https://www.opensanctions.org/entities/ofac-58871/) | Organization |  |  |
 | 2026-11-18 | [WA TA'AWANU ASSOCIATION](https://www.opensanctions.org/entities/ofac-59188/) | Organization |  |  |
 | 2026-11-18 | [SANKARI GOLD KUYUMCULUK TICARET LIMITED SIRKETI](https://www.opensanctions.org/entities/ofac-59176/) | Organization |  |  |
-| 2026-11-18 | [KHECHEN, Ibrahim](https://www.opensanctions.org/entities/ofac-59174/) | Person |  |  |
-| 2026-11-18 | [KHECHEN, Hassan](https://www.opensanctions.org/entities/ofac-59173/) | Person |  |  |
-| 2026-11-18 | [GOLD GLOBAL COMPANY](https://www.opensanctions.org/entities/ofac-59175/) | Organization |  |  |
-| 2026-11-18 | [CHOUMAN, Afif Abdel Rida](https://www.opensanctions.org/entities/ofac-59189/) | Person |  |  |
+
+_Showing 60 of 64._
 
 ---
 Designation volume is an **action** metric. It is never read as evidence of congressional influence unless a [graded linkage](../methodology/linkage-grades.md) is documented.

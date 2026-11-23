@@ -1,15 +1,255 @@
 {
-  "generated_at": "2026-11-22T15:37:54+00:00",
+  "generated_at": "2026-11-23T19:27:48+00:00",
   "new_days": 7,
   "datasets": [
     {
       "slug": "us_ofac_sdn",
-      "entity_count": 73143,
-      "target_count": 20579,
-      "last_change": "2026-11-20T22:10:04",
-      "last_export": "2026-11-22T14:10:04",
+      "entity_count": 73243,
+      "target_count": 20609,
+      "last_change": "2026-11-23T18:11:34",
+      "last_export": "2026-11-23T18:11:34",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [
+        {
+          "name": "Valiollah Hemmati",
+          "schema": "Person",
+          "countries": "ir",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59123"
+        },
+        {
+          "name": "Sayyed Mohammad Jalali",
+          "schema": "Person",
+          "countries": "ir",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59124"
+        },
+        {
+          "name": "Royah Altahabia Trading L.L.C",
+          "schema": "Organization",
+          "countries": "ae",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59178"
+        },
+        {
+          "name": "Robust Trading LLC",
+          "schema": "Organization",
+          "countries": "ae",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13871 - Executive Order 13871 (Iran)",
+          "id": "ofac-59186"
+        },
+        {
+          "name": "Rahbar Bazargani Nesim Baharan Qeshm Company",
+          "schema": "Organization",
+          "countries": "ir",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59113"
+        },
+        {
+          "name": "RECAZ STAR GENERAL TRADING LLC",
+          "schema": "Organization",
+          "countries": "ae",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59112"
+        },
+        {
+          "name": "Parviz Fazlju",
+          "schema": "Person",
+          "countries": "ir",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59232"
+        },
+        {
+          "name": "OGA GLOBAL GENERAL TRADING L.L.C",
+          "schema": "Organization",
+          "countries": "ae",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59117"
+        },
+        {
+          "name": "Nordic International Trading LLC",
+          "schema": "Organization",
+          "countries": "ae",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59180"
+        },
+        {
+          "name": "Mohammad Hossein Abbasi",
+          "schema": "Person",
+          "countries": "ir",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59233"
+        },
+        {
+          "name": "Mina Fashki and Partners Exchange Company",
+          "schema": "Organization",
+          "countries": "ir",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59116"
+        },
+        {
+          "name": "Mina Fashki",
+          "schema": "Person",
+          "countries": "ir",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59125"
+        },
+        {
+          "name": "Mellat Exchange Company",
+          "schema": "Organization",
+          "countries": "ir",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59230"
+        },
+        {
+          "name": "Mahmoud Akhlaghi",
+          "schema": "Person",
+          "countries": "ir",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59231"
+        },
+        {
+          "name": "MEETHALE RAW MATERIALS TRADING COMPANY LLC",
+          "schema": "Organization",
+          "countries": "ae",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59122"
+        },
+        {
+          "name": "KHORE AL HILAL GOODS WHOLESALERS TRADING LLC",
+          "schema": "Organization",
+          "countries": "ae",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59130"
+        },
+        {
+          "name": "Iran Center for Exchange of Currency and Gold",
+          "schema": "Organization",
+          "countries": "ir",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59187"
+        },
+        {
+          "name": "Integral Petro Energy Trading LLC",
+          "schema": "Organization",
+          "countries": "ae",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59185"
+        },
+        {
+          "name": "HEMRAJ TRADING L.L.C",
+          "schema": "Organization",
+          "countries": "ae",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59114"
+        },
+        {
+          "name": "H N B TRADING CO LLC",
+          "schema": "Organization",
+          "countries": "ae",
+          "first_seen": "2026-11-23",
+          "programs": "SDGT - Executive Order 13224 (Terrorism)",
+          "id": "ofac-59110"
+        },
+        {
+          "name": "GRANDEZ TRADING LIMITED",
+          "schema": "Organization",
+          "countries": "cn;hk",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59128"
+        },
+        {
+          "name": "GRAND TARGET HEAVY EQUIPMENT AND MACHINERY SPARE PARTS TRADING L.L.C",
+          "schema": "Organization",
+          "countries": "ae",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59111"
+        },
+        {
+          "name": "GESPL INTERNATIONAL GENERAL TRADING LLC",
+          "schema": "Organization",
+          "countries": "ae",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59121"
+        },
+        {
+          "name": "Farzad Fashki",
+          "schema": "Person",
+          "countries": "ir",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59126"
+        },
+        {
+          "name": "EWAN AL MADEENA GENERAL TRADING LLC",
+          "schema": "Organization",
+          "countries": "ae",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59118"
+        },
+        {
+          "name": "DEXTEROUS GLOBAL DMCC",
+          "schema": "Organization",
+          "countries": "ae",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59119"
+        },
+        {
+          "name": "Berkeley Trading LLC",
+          "schema": "Organization",
+          "countries": "ae",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59184"
+        },
+        {
+          "name": "BOGAZICI GUMRUKLEME ITHALAT IHRACAT TURIZM PETROL URUNLERI SANAYI VE TICARET LIMITED SIRKETI",
+          "schema": "Organization",
+          "countries": "tr",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59127"
+        },
+        {
+          "name": "Ali Kalhor",
+          "schema": "Person",
+          "countries": "ir",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59120"
+        },
+        {
+          "name": "Alam Al Sahra Building Materials Trading Co. L.L.C",
+          "schema": "Organization",
+          "countries": "ae",
+          "first_seen": "2026-11-23",
+          "programs": "IRAN-EO13902 - Executive Order 13902 (Iran)",
+          "id": "ofac-59183"
+        },
         {
           "name": "Mojtaba Arabnejad",
           "schema": "Person",
@@ -249,49 +489,9 @@
           "first_seen": "2026-11-18",
           "programs": "SDGT - Executive Order 13224 (Terrorism)",
           "id": "ofac-59188"
-        },
-        {
-          "name": "SANKARİ GOLD KUYUMCULUK TİCARET LİMİTED ŞİRKETİ",
-          "schema": "Organization",
-          "countries": "tr",
-          "first_seen": "2026-11-18",
-          "programs": "SDGT - Executive Order 13224 (Terrorism)",
-          "id": "ofac-59176"
-        },
-        {
-          "name": "Ibrahim Khechen",
-          "schema": "Person",
-          "countries": "lb",
-          "first_seen": "2026-11-18",
-          "programs": "SDGT - Executive Order 13224 (Terrorism)",
-          "id": "ofac-59174"
-        },
-        {
-          "name": "Hassan Khechen",
-          "schema": "Person",
-          "countries": "lb",
-          "first_seen": "2026-11-18",
-          "programs": "SDGT - Executive Order 13224 (Terrorism)",
-          "id": "ofac-59173"
-        },
-        {
-          "name": "Gold Global Company",
-          "schema": "Organization",
-          "countries": "lb",
-          "first_seen": "2026-11-18",
-          "programs": "SDGT - Executive Order 13224 (Terrorism)",
-          "id": "ofac-59175"
-        },
-        {
-          "name": "Afif Abdel Rida Chouman",
-          "schema": "Person",
-          "countries": "lb",
-          "first_seen": "2026-11-18",
-          "programs": "SDGT - Executive Order 13224 (Terrorism)",
-          "id": "ofac-59189"
         }
       ],
-      "new_target_count": 35,
+      "new_target_count": 65,
       "label": "OFAC Specially Designated Nationals (SDN)"
     },
     {
@@ -299,7 +499,7 @@
       "entity_count": 2064,
       "target_count": 716,
       "last_change": "2026-11-04T18:36:35",
-      "last_export": "2026-11-22T14:35:06",
+      "last_export": "2026-11-23T18:35:05",
       "publisher_url": "https://ofac.treasury.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -310,7 +510,7 @@
       "entity_count": 876,
       "target_count": 373,
       "last_change": "2026-11-17T16:57:43",
-      "last_export": "2026-11-22T08:57:05",
+      "last_export": "2026-11-23T16:57:05",
       "publisher_url": "https://www.bis.gov/",
       "new_targets": [],
       "new_target_count": 0,
@@ -318,12 +518,252 @@
     },
     {
       "slug": "us_trade_csl",
-      "entity_count": 30694,
-      "target_count": 24424,
-      "last_change": "2026-11-20T21:53:04",
-      "last_export": "2026-11-22T12:53:06",
+      "entity_count": 30724,
+      "target_count": 24454,
+      "last_change": "2026-11-23T18:53:06",
+      "last_export": "2026-11-23T18:56:13",
       "publisher_url": "https://www.trade.gov/",
       "new_targets": [
+        {
+          "name": "ROYAH ALTAHABIA TRADING L.L.C",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59178"
+        },
+        {
+          "name": "ROBUST TRADING LLC",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59186"
+        },
+        {
+          "name": "RECAZ STAR GENERAL TRADING LLC",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59112"
+        },
+        {
+          "name": "RAHBAR BAZARGANI NESIM BAHARAN QESHM COMPANY",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59113"
+        },
+        {
+          "name": "OGA GLOBAL GENERAL TRADING L.L.C",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59117"
+        },
+        {
+          "name": "NORDIC INTERNATIONAL TRADING LLC",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59180"
+        },
+        {
+          "name": "MINA FASHKI AND PARTNERS EXCHANGE COMPANY",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59116"
+        },
+        {
+          "name": "MELLAT EXCHANGE COMPANY",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59230"
+        },
+        {
+          "name": "MEETHALE RAW MATERIALS TRADING COMPANY LLC",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59122"
+        },
+        {
+          "name": "KHORE AL HILAL GOODS WHOLESALERS TRADING LLC",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59130"
+        },
+        {
+          "name": "KALHOR, Ali",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59120"
+        },
+        {
+          "name": "JALALI, Sayyed Mohammad",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59124"
+        },
+        {
+          "name": "IRAN CENTER FOR EXCHANGE OF CURRENCY AND GOLD",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59187"
+        },
+        {
+          "name": "INTEGRAL PETRO ENERGY TRADING LLC",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59185"
+        },
+        {
+          "name": "HEMRAJ TRADING L.L.C",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59114"
+        },
+        {
+          "name": "HEMMATI, Valiollah",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59123"
+        },
+        {
+          "name": "H N B TRADING CO LLC",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59110"
+        },
+        {
+          "name": "GRANDEZ TRADING LIMITED",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59128"
+        },
+        {
+          "name": "GRAND TARGET HEAVY EQUIPMENT AND MACHINERY SPARE PARTS TRADING L.L.C",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59111"
+        },
+        {
+          "name": "GESPL INTERNATIONAL GENERAL TRADING LLC",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59121"
+        },
+        {
+          "name": "FAZLJU, Parviz",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59232"
+        },
+        {
+          "name": "FASHKI, Mina",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59125"
+        },
+        {
+          "name": "FASHKI, Farzad",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59126"
+        },
+        {
+          "name": "EWAN AL MADEENA GENERAL TRADING LLC",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59118"
+        },
+        {
+          "name": "DEXTEROUS GLOBAL DMCC",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59119"
+        },
+        {
+          "name": "BOGAZICI GUMRUKLEME ITHALAT IHRACAT TURIZM PETROL URUNLERI SANAYI VE TICARET LIMITED SIRKETI",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59127"
+        },
+        {
+          "name": "BERKELEY TRADING LLC",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59184"
+        },
+        {
+          "name": "ALAM AL SAHRA BUILDING MATERIALS TRADING CO. L.L.C",
+          "schema": "Organization",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59183"
+        },
+        {
+          "name": "AKHLAGHI, Mahmoud",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59231"
+        },
+        {
+          "name": "ABBASI, Mohammad Hossein",
+          "schema": "Person",
+          "countries": "",
+          "first_seen": "2026-11-23",
+          "programs": "",
+          "id": "ofac-59233"
+        },
         {
           "name": "TAJ, Majid",
           "schema": "Person",
@@ -563,41 +1003,9 @@
           "first_seen": "2026-11-18",
           "programs": "",
           "id": "ofac-59176"
-        },
-        {
-          "name": "KHECHEN, Ibrahim",
-          "schema": "Person",
-          "countries": "",
-          "first_seen": "2026-11-18",
-          "programs": "",
-          "id": "ofac-59174"
-        },
-        {
-          "name": "KHECHEN, Hassan",
-          "schema": "Person",
-          "countries": "",
-          "first_seen": "2026-11-18",
-          "programs": "",
-          "id": "ofac-59173"
-        },
-        {
-          "name": "GOLD GLOBAL COMPANY",
-          "schema": "Organization",
-          "countries": "",
-          "first_seen": "2026-11-18",
-          "programs": "",
-          "id": "ofac-59175"
-        },
-        {
-          "name": "CHOUMAN, Afif Abdel Rida",
-          "schema": "Person",
-          "countries": "",
-          "first_seen": "2026-11-18",
-          "programs": "",
-          "id": "ofac-59189"
         }
       ],
-      "new_target_count": 34,
+      "new_target_count": 64,
       "label": "Consolidated Screening List (Commerce/State/Treasury)"
     }
   ]
