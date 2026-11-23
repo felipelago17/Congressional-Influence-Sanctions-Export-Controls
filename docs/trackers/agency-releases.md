@@ -1,6 +1,6 @@
 # Agency enforcement releases (DOJ · BIS · OFAC)
 
-*Auto-generated 2026-11-22 15:42 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
+*Auto-generated 2026-11-23 19:30 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
 
 Sources reachable this run: DOJ RSS (25), BIS (52), OFAC (64)
 
@@ -26,15 +26,16 @@ Keywords: `sanction`, `export control`, `export administration`, `entity list`, 
 
 | Date | Agency | Title | Matched |
 |---|---|---|---|
-| 2026-11-20 | DOJ | [Federal grand jury indicts Albion man for defrauding the VA out of hundreds of thousands of dollars](https://www.justice.gov/usao-wdny/pr/federal-grand-jury-indicts-albion-man-defrauding-va-out-hundreds-thousands-dollars) | indict |
-| 2026-11-20 | DOJ | [ADA Settlement Requires Accessibility Improvements at Cochran-Bleckley Recreation Department](https://www.justice.gov/usao-mdga/pr/ada-settlement-requires-accessibility-improvements-cochran-bleckley-recreation) | settlement |
+| 2026-11-23 | DOJ | [United States Files Action to Recover More Than $1 Billion in Cryptocurrency Assets Stolen by North Korean Cyber Actors in Binance Hack](https://www.justice.gov/opa/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-stolen-north-korean) | north korea |
+| 2026-11-23 | DOJ | [United States Files Action to Recover More Than $1 Billion in Cryptocurrency Assets Related to North Korean Cyber Actors in Binance Hack](https://www.justice.gov/usao-dc/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-related-north) | north korea |
+| 2026-11-23 | DOJ | [Human smuggler sentenced after attempting to grab law enforcement firearm](https://www.justice.gov/usao-sdtx/pr/human-smuggler-sentenced-after-attempting-grab-law-enforcement-firearm) | smuggl |
+| 2026-11-23 | OFAC | [Iran-related Designations](https://ofac.treasury.gov/recent-actions/20261123) | iran |
 | 2026-11-20 | OFAC | [Iran Designations; Issuance of Cuba Frequently Asked Questions](https://ofac.treasury.gov/recent-actions/20261120) | iran |
 | 2026-11-19 | OFAC | [Counter Narcotics Designations; Cyber-related Designations; Issuance of Illicit Drugs General License; Issuance of Amended Russia-related General License and Frequently Asked Questions](https://ofac.treasury.gov/recent-actions/20261119) | russia, general license |
 | 2026-11-09 | OFAC | [Iran Designation Update](https://ofac.treasury.gov/recent-actions/20261109) | iran |
 | 2026-11-06 | OFAC | [Iran-related Designations](https://ofac.treasury.gov/recent-actions/20261106) | iran |
 | 2026-11-04 | OFAC | [Iran-related Designations; Updates to Certain Iran-related Listings; Publication of Iran-related OFAC Alert; Issuance of Amended Venezuela-related General License and Frequently Asked Question](https://ofac.treasury.gov/recent-actions/20261104) | ofac, iran, general license |
 | 2026-10-29 | OFAC | [Issuance of Amended Iran-related General License](https://ofac.treasury.gov/recent-actions/20261029) | iran, general license |
-| 2026-10-28 | OFAC | [North Korea Designations; Democratic Republic of the Congo-related Designations](https://ofac.treasury.gov/recent-actions/20261028) | north korea |
 | 2026-10-02 | BIS | [BIS Reaches Administrative Enforcement Settlement with Lambda Research Corporation](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-lambda-research-corporation) | settlement |
 | 2026-10-02 | BIS | [BIS Reaches Administrative Enforcement Settlement with Lambda Research Corporation](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-lambda-research-corporation) | settlement |
 | 2026-10-02 | BIS | [BIS Reaches Administrative Enforcement Settlement with Container Manufacturing Ltd.](https://www.bis.gov/press-release/bis-reaches-administrative-enforcement-settlement-container-manufacturing-ltd.) | settlement |

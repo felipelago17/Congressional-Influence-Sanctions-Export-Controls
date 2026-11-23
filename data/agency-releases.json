@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T15:42:03+00:00",
+  "generated_at": "2026-11-23T19:30:23+00:00",
   "sources_ok": [
     "DOJ RSS (25)",
     "BIS (52)",
@@ -155,20 +155,29 @@
   "scan": [
     {
       "agency": "DOJ",
-      "title": "Federal grand jury indicts Albion man for defrauding the VA out of hundreds of thousands of dollars",
-      "url": "https://www.justice.gov/usao-wdny/pr/federal-grand-jury-indicts-albion-man-defrauding-va-out-hundreds-thousands-dollars",
-      "date": "2026-11-20",
+      "title": "United States Files Action to Recover More Than $1 Billion in Cryptocurrency Assets Stolen by North Korean Cyber Actors in Binance Hack",
+      "url": "https://www.justice.gov/opa/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-stolen-north-korean",
+      "date": "2026-11-23",
       "matched_keywords": [
-        "indict"
+        "north korea"
       ]
     },
     {
       "agency": "DOJ",
-      "title": "ADA Settlement Requires Accessibility Improvements at Cochran-Bleckley Recreation Department",
-      "url": "https://www.justice.gov/usao-mdga/pr/ada-settlement-requires-accessibility-improvements-cochran-bleckley-recreation",
-      "date": "2026-11-20",
+      "title": "United States Files Action to Recover More Than $1 Billion in Cryptocurrency Assets Related to North Korean Cyber Actors in Binance Hack",
+      "url": "https://www.justice.gov/usao-dc/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-related-north",
+      "date": "2026-11-23",
       "matched_keywords": [
-        "settlement"
+        "north korea"
+      ]
+    },
+    {
+      "agency": "DOJ",
+      "title": "Human smuggler sentenced after attempting to grab law enforcement firearm",
+      "url": "https://www.justice.gov/usao-sdtx/pr/human-smuggler-sentenced-after-attempting-grab-law-enforcement-firearm",
+      "date": "2026-11-23",
+      "matched_keywords": [
+        "smuggl"
       ]
     },
     {
@@ -450,6 +459,15 @@
     },
     {
       "agency": "OFAC",
+      "title": "Iran-related Designations",
+      "url": "https://ofac.treasury.gov/recent-actions/20261123",
+      "date": "2026-11-23",
+      "matched_keywords": [
+        "iran"
+      ]
+    },
+    {
+      "agency": "OFAC",
       "title": "Iran Designations; Issuance of Cuba Frequently Asked Questions",
       "url": "https://ofac.treasury.gov/recent-actions/20261120",
       "date": "2026-11-20",
@@ -504,15 +522,6 @@
       "matched_keywords": [
         "iran",
         "general license"
-      ]
-    },
-    {
-      "agency": "OFAC",
-      "title": "North Korea Designations; Democratic Republic of the Congo-related Designations",
-      "url": "https://ofac.treasury.gov/recent-actions/20261028",
-      "date": "2026-10-28",
-      "matched_keywords": [
-        "north korea"
       ]
     },
     {
