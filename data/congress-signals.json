@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T19:20:11+00:00",
+  "generated_at": "2026-11-24T18:57:45+00:00",
   "source": "https://api.congress.gov/v3",
   "chamber_composition": {
     "House": {
@@ -147,17 +147,6 @@
   "scan": [
     {
       "congress": 119,
-      "number": "S.3519",
-      "title": "Remote Access Security Act",
-      "latest_action_date": "2025-12-17",
-      "latest_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
-      "matched_keywords": [
-        "remote access"
-      ],
-      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3519"
-    },
-    {
-      "congress": 119,
       "number": "S.4727",
       "title": "Artificial Intelligence Environmental Impacts Act of 2026",
       "latest_action_date": "2026-06-09",
@@ -210,17 +199,6 @@
         "artificial intelligence"
       ],
       "url": "https://www.congress.gov/bill/119th-congress/house-bill/11055"
-    },
-    {
-      "congress": 119,
-      "number": "HR.11076",
-      "title": "To amend the Homeland Security Act of 2002 to require the Director of the Cybersecurity and Infrastructure Security Agency to lead cybersecurity efforts relating to the secure adoption, discovery, identification, authorization, monitoring, accountability, and risk management of artificial intelligence agents operating on executive agency information systems, and for other purposes.",
-      "latest_action_date": "2026-11-18",
-      "latest_action": "Referred to the Committee on Homeland Security, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-      "matched_keywords": [
-        "artificial intelligence"
-      ],
-      "url": "https://www.congress.gov/bill/119th-congress/house-bill/11076"
     },
     {
       "congress": 119,
@@ -289,15 +267,26 @@
       "url": "https://www.congress.gov/bill/118th-congress/house-bill/5532"
     },
     {
-      "congress": 119,
-      "number": "S.97",
-      "title": "Securing Semiconductor Supply Chains Act",
-      "latest_action_date": "2025-05-26",
-      "latest_action": "Held at the desk.",
+      "congress": 118,
+      "number": "HR.5532",
+      "title": "Russia-North Korea Cooperation Sanctions Act",
+      "latest_action_date": "2024-12-17",
+      "latest_action": "Referred to the Subcommittee on Trade.",
       "matched_keywords": [
-        "semiconductor"
+        "sanction"
       ],
-      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/97"
+      "url": "https://www.congress.gov/bill/118th-congress/house-bill/5532"
+    },
+    {
+      "congress": 119,
+      "number": "S.4214",
+      "title": "Artificial Intelligence Data Center Moratorium Act",
+      "latest_action_date": "2026-03-25",
+      "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "matched_keywords": [
+        "artificial intelligence"
+      ],
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4214"
     },
     {
       "congress": 118,
@@ -311,15 +300,15 @@
       "url": "https://www.congress.gov/bill/118th-congress/house-bill/8152"
     },
     {
-      "congress": 119,
-      "number": "S.4214",
-      "title": "Artificial Intelligence Data Center Moratorium Act",
-      "latest_action_date": "2026-03-25",
-      "latest_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "congress": 118,
+      "number": "S.4487",
+      "title": "Small Business Artificial Intelligence Training Act of 2024",
+      "latest_action_date": "2024-08-01",
+      "latest_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 487.",
       "matched_keywords": [
         "artificial intelligence"
       ],
-      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4214"
+      "url": "https://www.congress.gov/bill/118th-congress/senate-bill/4487"
     }
   ]
 }
