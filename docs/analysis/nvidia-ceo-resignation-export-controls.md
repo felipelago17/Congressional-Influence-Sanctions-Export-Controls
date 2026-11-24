@@ -105,3 +105,7 @@ No per-member scorecard is drawn from these; the pattern (bipartisan sponsorship
 ---
 
 *Reading note prepared 14 November 2026; updated the same day with the 13 Nov *Export Compliance Daily* report. Facts are as reported by the outlets listed; several rest on search excerpts or single outlets and are flagged above. Revisit after the Trump–Xi meeting and any conference announcement.*
+
+## Update (24 Nov 2026): Huang reinstated
+
+RTE reported on 23 Nov 2026 that Nvidia said it was bringing Jensen Huang back as CEO after determining he does not pose a national-security risk; the President praised the decision, and Sen. Warren, Rep. Bacon (R), Rep. Krishnamoorthi (D) and Rep. Ansari (D) criticised it, with calls for Huang and the board to answer Congress. No hearing date was shown. See [Krishnamoorthi positions](krishnamoorthi-nvidia-export-control-positions.md). Source tier: 3 (single news report; Nvidia's own statement not read).
