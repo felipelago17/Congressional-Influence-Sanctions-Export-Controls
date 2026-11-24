@@ -1,6 +1,6 @@
 # Agency enforcement releases (DOJ · BIS · OFAC)
 
-*Auto-generated 2026-11-23 19:30 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
+*Auto-generated 2026-11-24 19:07 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
 
 Sources reachable this run: DOJ RSS (25), BIS (52), OFAC (64)
 
@@ -26,9 +26,7 @@ Keywords: `sanction`, `export control`, `export administration`, `entity list`, 
 
 | Date | Agency | Title | Matched |
 |---|---|---|---|
-| 2026-11-23 | DOJ | [United States Files Action to Recover More Than $1 Billion in Cryptocurrency Assets Stolen by North Korean Cyber Actors in Binance Hack](https://www.justice.gov/opa/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-stolen-north-korean) | north korea |
-| 2026-11-23 | DOJ | [United States Files Action to Recover More Than $1 Billion in Cryptocurrency Assets Related to North Korean Cyber Actors in Binance Hack](https://www.justice.gov/usao-dc/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-related-north) | north korea |
-| 2026-11-23 | DOJ | [Human smuggler sentenced after attempting to grab law enforcement firearm](https://www.justice.gov/usao-sdtx/pr/human-smuggler-sentenced-after-attempting-grab-law-enforcement-firearm) | smuggl |
+| 2026-11-24 | DOJ | [Long Island Man Indicted for $36 Million Investment Scheme Targeting Orthodox Jewish Community](https://www.justice.gov/usao-edny/pr/long-island-man-indicted-36-million-investment-scheme-targeting-orthodox-jewish) | indict |
 | 2026-11-23 | OFAC | [Iran-related Designations](https://ofac.treasury.gov/recent-actions/20261123) | iran |
 | 2026-11-20 | OFAC | [Iran Designations; Issuance of Cuba Frequently Asked Questions](https://ofac.treasury.gov/recent-actions/20261120) | iran |
 | 2026-11-19 | OFAC | [Counter Narcotics Designations; Cyber-related Designations; Issuance of Illicit Drugs General License; Issuance of Amended Russia-related General License and Frequently Asked Questions](https://ofac.treasury.gov/recent-actions/20261119) | russia, general license |
