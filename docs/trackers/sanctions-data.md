@@ -1,6 +1,6 @@
 # Sanctions and export-control lists (OpenSanctions)
 
-*Auto-generated 2026-11-23 19:27 UTC. Statistics and new listings from [OpenSanctions](https://www.opensanctions.org/) bulk data (CC BY-NC 4.0), which mirrors the official OFAC and BIS publications. Always verify against the issuing agency before acting. Not legal advice.*
+*Auto-generated 2026-11-24 19:03 UTC. Statistics and new listings from [OpenSanctions](https://www.opensanctions.org/) bulk data (CC BY-NC 4.0), which mirrors the official OFAC and BIS publications. Always verify against the issuing agency before acting. Not legal advice.*
 
 ## List statistics
 
@@ -9,7 +9,7 @@
 | [OFAC Specially Designated Nationals (SDN)](https://www.opensanctions.org/datasets/us_ofac_sdn/) | 73243 | 2026-11-23 | 65 |
 | [OFAC Consolidated (non-SDN) List](https://www.opensanctions.org/datasets/us_ofac_cons/) | 2064 | 2026-11-04 | 0 |
 | [BIS Denied Persons List](https://www.opensanctions.org/datasets/us_bis_denied/) | 876 | 2026-11-17 | 0 |
-| [Consolidated Screening List (Commerce/State/Treasury)](https://www.opensanctions.org/datasets/us_trade_csl/) | 30724 | 2026-11-23 | 64 |
+| [Consolidated Screening List (Commerce/State/Treasury)](https://www.opensanctions.org/datasets/us_trade_csl/) | 30738 | 2026-11-24 | 71 |
 
 ## New in OFAC Specially Designated Nationals (SDN) (last 7 days)
 
@@ -82,6 +82,13 @@ _Showing 60 of 65._
 
 | First seen | Name | Type | Countries | Programs |
 |---|---|---|---|---|
+| 2026-11-24 | [Swiftdata Pte. Ltd.](https://www.opensanctions.org/entities/trade-csl-d22d9bb498b648bd88087f228e85182ae1ffd7233bceed3a5be2818c/) | LegalEntity | sg | Entity List (EL) - Bureau of Industry and Security - For all items subject to the EAR (See §744.11 of the EAR) |
+| 2026-11-24 | [Speedmatrix Sdn Bhd.](https://www.opensanctions.org/entities/trade-csl-e3bb180c90a07b1fb835ff2d62cfe3b48025f4f0582013688af42544/) | LegalEntity | my | Entity List (EL) - Bureau of Industry and Security - For all items subject to the EAR (See §744.11 of the EAR) |
+| 2026-11-24 | [Pt Megaspeed International](https://www.opensanctions.org/entities/trade-csl-ca503b02739d0bd6d033c3209e21ad252569a805bcbc7976a113f9c4/) | LegalEntity | my | Entity List (EL) - Bureau of Industry and Security - For all items subject to the EAR (See §744.11 of the EAR) |
+| 2026-11-24 | [Megaspeed International Pte. Ltd.](https://www.opensanctions.org/entities/trade-csl-815c588a6bc1e467bd71c20da9fd7b4f80c7f3aaa839a5782c2f2343/) | LegalEntity | sg | Entity List (EL) - Bureau of Industry and Security - For all items subject to the EAR (See §744.11 of the EAR) |
+| 2026-11-24 | [Megaspeed (Thailand) Co., Ltd.](https://www.opensanctions.org/entities/trade-csl-0b0aa2e3730dad172f9b53b0ab2a6f8be1f85313eed79567c43570d2/) | LegalEntity | th | Entity List (EL) - Bureau of Industry and Security - For all items subject to the EAR (See §744.11 of the EAR) |
+| 2026-11-24 | [MSFusion Sdn. Bhd.](https://www.opensanctions.org/entities/trade-csl-d02b8b1b6c44a506d66c3f311b5baebf5e90f77a2c4eeee49a4cee99/) | LegalEntity | my | Entity List (EL) - Bureau of Industry and Security - For all items subject to the EAR (See §744.11 of the EAR) |
+| 2026-11-24 | [Apex Enterprise Solutions (Singapore) Private Limited](https://www.opensanctions.org/entities/trade-csl-bbd2e9b253e503a266315636753d45619f615ab4e29ae7c0840469b6/) | LegalEntity | sg | Entity List (EL) - Bureau of Industry and Security - For all items subject to the EAR (See §744.11 of the EAR) |
 | 2026-11-23 | [ROYAH ALTAHABIA TRADING L.L.C](https://www.opensanctions.org/entities/ofac-59178/) | Organization |  |  |
 | 2026-11-23 | [ROBUST TRADING LLC](https://www.opensanctions.org/entities/ofac-59186/) | Organization |  |  |
 | 2026-11-23 | [RECAZ STAR GENERAL TRADING LLC](https://www.opensanctions.org/entities/ofac-59112/) | Organization |  |  |
@@ -135,15 +142,8 @@ _Showing 60 of 65._
 | 2026-11-19 | [FIGLIOMENI, Cosimo](https://www.opensanctions.org/entities/ofac-58792/) | Person |  |  |
 | 2026-11-19 | [FIGLIOMENI, Angelo](https://www.opensanctions.org/entities/ofac-58791/) | Person |  |  |
 | 2026-11-19 | [DEMARIA, Vincenzo](https://www.opensanctions.org/entities/ofac-58796/) | Person |  |  |
-| 2026-11-19 | [COMMISSO, Rocco Remo](https://www.opensanctions.org/entities/ofac-58794/) | Person |  |  |
-| 2026-11-19 | [COMMISSO, Francesco](https://www.opensanctions.org/entities/ofac-58793/) | Person |  |  |
-| 2026-11-19 | [COMANCHERO OUTLAW MOTORCYCLE GANG](https://www.opensanctions.org/entities/ofac-58804/) | Organization |  |  |
-| 2026-11-19 | [COFFEN, Marco Francis](https://www.opensanctions.org/entities/ofac-58805/) | Person |  |  |
-| 2026-11-19 | [BEI FANG BO LIN CONSTRUCTION DECORATION CO., LTD.](https://www.opensanctions.org/entities/ofac-58871/) | Organization |  |  |
-| 2026-11-18 | [WA TA'AWANU ASSOCIATION](https://www.opensanctions.org/entities/ofac-59188/) | Organization |  |  |
-| 2026-11-18 | [SANKARI GOLD KUYUMCULUK TICARET LIMITED SIRKETI](https://www.opensanctions.org/entities/ofac-59176/) | Organization |  |  |
 
-_Showing 60 of 64._
+_Showing 60 of 71._
 
 ---
 Designation volume is an **action** metric. It is never read as evidence of congressional influence unless a [graded linkage](../methodology/linkage-grades.md) is documented.
