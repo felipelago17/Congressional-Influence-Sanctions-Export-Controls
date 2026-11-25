@@ -1,6 +1,6 @@
 # Sanctions and export-control lists (OpenSanctions)
 
-*Auto-generated 2026-11-24 19:03 UTC. Statistics and new listings from [OpenSanctions](https://www.opensanctions.org/) bulk data (CC BY-NC 4.0), which mirrors the official OFAC and BIS publications. Always verify against the issuing agency before acting. Not legal advice.*
+*Auto-generated 2026-11-25 18:09 UTC. Statistics and new listings from [OpenSanctions](https://www.opensanctions.org/) bulk data (CC BY-NC 4.0), which mirrors the official OFAC and BIS publications. Always verify against the issuing agency before acting. Not legal advice.*
 
 ## List statistics
 
