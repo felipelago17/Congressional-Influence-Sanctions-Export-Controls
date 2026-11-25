@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T19:07:03+00:00",
+  "generated_at": "2026-11-25T18:12:43+00:00",
   "sources_ok": [
     "DOJ RSS (25)",
     "BIS (52)",
@@ -155,9 +155,18 @@
   "scan": [
     {
       "agency": "DOJ",
-      "title": "Long Island Man Indicted for $36 Million Investment Scheme Targeting Orthodox Jewish Community",
-      "url": "https://www.justice.gov/usao-edny/pr/long-island-man-indicted-36-million-investment-scheme-targeting-orthodox-jewish",
-      "date": "2026-11-24",
+      "title": "Mexican National Indicted for Reentry of a Removed Alien",
+      "url": "https://www.justice.gov/usao-edla/pr/mexican-national-indicted-reentry-removed-alien",
+      "date": "2026-11-25",
+      "matched_keywords": [
+        "indict"
+      ]
+    },
+    {
+      "agency": "DOJ",
+      "title": "Jacksonville Man Indicted for Possession of Child Sexual Abuse Materials",
+      "url": "https://www.justice.gov/usao-mdfl/pr/jacksonville-man-indicted-possession-child-sexual-abuse-materials",
+      "date": "2026-11-25",
       "matched_keywords": [
         "indict"
       ]
