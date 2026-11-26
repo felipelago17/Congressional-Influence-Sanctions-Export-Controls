@@ -1,6 +1,6 @@
 # Agency enforcement releases (DOJ · BIS · OFAC)
 
-*Auto-generated 2026-11-25 18:12 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
+*Auto-generated 2026-11-26 17:54 UTC from official DOJ, BIS and OFAC web pages (DOJ via RSS; BIS and OFAC via their HTML listings — OFAC retired its RSS feed in January 2025). Keyword-filtered. Public-domain content. Not legal advice.*
 
 Sources reachable this run: DOJ RSS (25), BIS (52), OFAC (64)
 
@@ -26,8 +26,7 @@ Keywords: `sanction`, `export control`, `export administration`, `entity list`, 
 
 | Date | Agency | Title | Matched |
 |---|---|---|---|
-| 2026-11-25 | DOJ | [Mexican National Indicted for Reentry of a Removed Alien](https://www.justice.gov/usao-edla/pr/mexican-national-indicted-reentry-removed-alien) | indict |
-| 2026-11-25 | DOJ | [Jacksonville Man Indicted for Possession of Child Sexual Abuse Materials](https://www.justice.gov/usao-mdfl/pr/jacksonville-man-indicted-possession-child-sexual-abuse-materials) | indict |
+| 2026-11-25 | DOJ | [Grand Jury Indictments Returned Against Three Men with Ties to Halloween Shooting](https://www.justice.gov/usao-wdmo/pr/grand-jury-indictments-returned-against-three-men-ties-halloween-shooting) | indict |
 | 2026-11-23 | OFAC | [Iran-related Designations](https://ofac.treasury.gov/recent-actions/20261123) | iran |
 | 2026-11-20 | OFAC | [Iran Designations; Issuance of Cuba Frequently Asked Questions](https://ofac.treasury.gov/recent-actions/20261120) | iran |
 | 2026-11-19 | OFAC | [Counter Narcotics Designations; Cyber-related Designations; Issuance of Illicit Drugs General License; Issuance of Amended Russia-related General License and Frequently Asked Questions](https://ofac.treasury.gov/recent-actions/20261119) | russia, general license |

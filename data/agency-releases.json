@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T18:12:43+00:00",
+  "generated_at": "2026-11-26T17:54:26+00:00",
   "sources_ok": [
     "DOJ RSS (25)",
     "BIS (52)",
@@ -155,17 +155,8 @@
   "scan": [
     {
       "agency": "DOJ",
-      "title": "Mexican National Indicted for Reentry of a Removed Alien",
-      "url": "https://www.justice.gov/usao-edla/pr/mexican-national-indicted-reentry-removed-alien",
-      "date": "2026-11-25",
-      "matched_keywords": [
-        "indict"
-      ]
-    },
-    {
-      "agency": "DOJ",
-      "title": "Jacksonville Man Indicted for Possession of Child Sexual Abuse Materials",
-      "url": "https://www.justice.gov/usao-mdfl/pr/jacksonville-man-indicted-possession-child-sexual-abuse-materials",
+      "title": "Grand Jury Indictments Returned Against Three Men with Ties to Halloween Shooting",
+      "url": "https://www.justice.gov/usao-wdmo/pr/grand-jury-indictments-returned-against-three-men-ties-halloween-shooting",
       "date": "2026-11-25",
       "matched_keywords": [
         "indict"
