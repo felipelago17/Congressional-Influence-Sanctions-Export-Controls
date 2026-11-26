@@ -1,15 +1,15 @@
 # Sanctions and export-control lists (OpenSanctions)
 
-*Auto-generated 2026-11-25 18:09 UTC. Statistics and new listings from [OpenSanctions](https://www.opensanctions.org/) bulk data (CC BY-NC 4.0), which mirrors the official OFAC and BIS publications. Always verify against the issuing agency before acting. Not legal advice.*
+*Auto-generated 2026-11-26 17:52 UTC. Statistics and new listings from [OpenSanctions](https://www.opensanctions.org/) bulk data (CC BY-NC 4.0), which mirrors the official OFAC and BIS publications. Always verify against the issuing agency before acting. Not legal advice.*
 
 ## List statistics
 
 | List | Entities | Last change | New in last 7 days |
 |---|---|---|---|
-| [OFAC Specially Designated Nationals (SDN)](https://www.opensanctions.org/datasets/us_ofac_sdn/) | 73243 | 2026-11-23 | 65 |
+| [OFAC Specially Designated Nationals (SDN)](https://www.opensanctions.org/datasets/us_ofac_sdn/) | 73243 | 2026-11-23 | 59 |
 | [OFAC Consolidated (non-SDN) List](https://www.opensanctions.org/datasets/us_ofac_cons/) | 2064 | 2026-11-04 | 0 |
 | [BIS Denied Persons List](https://www.opensanctions.org/datasets/us_bis_denied/) | 876 | 2026-11-17 | 0 |
-| [Consolidated Screening List (Commerce/State/Treasury)](https://www.opensanctions.org/datasets/us_trade_csl/) | 30738 | 2026-11-24 | 71 |
+| [Consolidated Screening List (Commerce/State/Treasury)](https://www.opensanctions.org/datasets/us_trade_csl/) | 30738 | 2026-11-24 | 65 |
 
 ## New in OFAC Specially Designated Nationals (SDN) (last 7 days)
 
@@ -74,9 +74,6 @@
 | 2026-11-19 | [Angelo Figliomeni](https://www.opensanctions.org/entities/ofac-58791/) | Person | ca;it | ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) |
 | 2026-11-19 | [Allan John Norman Meehan](https://www.opensanctions.org/entities/ofac-58807/) | Person | au | ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) |
 | 2026-11-19 | [Alexandre Varela Villar](https://www.opensanctions.org/entities/ofac-58806/) | Person | es | ILLICIT-DRUGS-EO14059 - Executive Order 14059 (Illicit Drugs) |
-| 2026-11-18 | [Wa Ta'awanu Association](https://www.opensanctions.org/entities/ofac-59188/) | Organization | lb | SDGT - Executive Order 13224 (Terrorism) |
-
-_Showing 60 of 65._
 
 ## New in Consolidated Screening List (Commerce/State/Treasury) (last 7 days)
 
@@ -143,7 +140,7 @@ _Showing 60 of 65._
 | 2026-11-19 | [FIGLIOMENI, Angelo](https://www.opensanctions.org/entities/ofac-58791/) | Person |  |  |
 | 2026-11-19 | [DEMARIA, Vincenzo](https://www.opensanctions.org/entities/ofac-58796/) | Person |  |  |
 
-_Showing 60 of 71._
+_Showing 60 of 65._
 
 ---
 Designation volume is an **action** metric. It is never read as evidence of congressional influence unless a [graded linkage](../methodology/linkage-grades.md) is documented.
