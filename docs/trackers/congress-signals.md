@@ -1,6 +1,6 @@
 # Congressional signals (Congress.gov API)
 
-*Auto-generated 2026-11-25 18:02 UTC from the official [Congress.gov API](https://api.congress.gov/). Aggregate party counts only — no per-member scorecards. Not legal advice.*
+*Auto-generated 2026-11-26 17:48 UTC from the official [Congress.gov API](https://api.congress.gov/). Aggregate party counts only — no per-member scorecards. Not legal advice.*
 
 ## Chamber composition (currently seated members)
 
@@ -35,7 +35,11 @@ Roll-call links are the Tier 1 source for party breakdowns; the repository recor
 
 Keywords: `sanction`, `export control`, `export administration`, `entity list`, `foreign adversary`, `remote access`, `outbound investment`, `semiconductor`, `chip security`, `artificial intelligence`, `money laundering`, `bank secrecy`, `office of foreign assets control`, `bureau of industry and security`
 
-_No title matches in this window._
+| Bill | Title | Latest action | Matched |
+|---|---|---|---|
+| [S.3519](https://www.congress.gov/bill/119th-congress/senate-bill/3519) | Remote Access Security Act | 2025-12-17 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. | remote access |
+| [S.501](https://www.congress.gov/bill/119th-congress/senate-bill/501) | Strategy for Public Health Preparedness and Response to Artificial Intelligence Threats | 2025-02-10 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions. | artificial intelligence |
+| [HR.8959](https://www.congress.gov/bill/119th-congress/house-bill/8959) | Semiconductor Superiority Act | 2026-05-21 — Referred to the House Committee on Ways and Means. | semiconductor |
 
 ---
 Signals are facts about congressional activity. Any connection to an administration action is recorded separately in `trackers/linkages.yaml` with a [linkage grade](../methodology/linkage-grades.md).
