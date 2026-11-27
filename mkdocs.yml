@@ -29,6 +29,7 @@ nav:
       - Sanctions Lists (OpenSanctions): trackers/sanctions-data.md
       - Enforcement Actions: trackers/enforcement-actions.md
   - Analysis:
+      - "Blackwell chips found in China (Nov 2026)": analysis/blackwell-chips-in-china-despite-us-curbs.md
       - "Krishnamoorthi: Nvidia and chip export-control positions (Nov 2026)": analysis/krishnamoorthi-nvidia-export-control-positions.md
       - "FT investigation: Alice Huang and the chip-smuggling network (Nov 2026)": analysis/ft-alice-huang-chip-smuggling-network.md
       - "House China Committee inquiry into Mercedes-Benz (Nov 2026)": analysis/house-china-committee-mercedes-inquiry.md
