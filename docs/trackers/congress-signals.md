@@ -1,6 +1,6 @@
 # Congressional signals (Congress.gov API)
 
-*Auto-generated 2026-11-26 17:48 UTC from the official [Congress.gov API](https://api.congress.gov/). Aggregate party counts only — no per-member scorecards. Not legal advice.*
+*Auto-generated 2026-11-27 17:31 UTC from the official [Congress.gov API](https://api.congress.gov/). Aggregate party counts only — no per-member scorecards. Not legal advice.*
 
 ## Chamber composition (currently seated members)
 
@@ -37,9 +37,10 @@ Keywords: `sanction`, `export control`, `export administration`, `entity list`, 
 
 | Bill | Title | Latest action | Matched |
 |---|---|---|---|
-| [S.3519](https://www.congress.gov/bill/119th-congress/senate-bill/3519) | Remote Access Security Act | 2025-12-17 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. | remote access |
+| [S.5785](https://www.congress.gov/bill/119th-congress/senate-bill/5785) | A bill to require the Securities and Exchange Commission to issue rules relating to the use of artificial intelligence by public companies, and for other purposes. | 2026-11-19 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. | artificial intelligence |
+| [S.5785](https://www.congress.gov/bill/119th-congress/senate-bill/5785) | A bill to require the Securities and Exchange Commission to issue rules relating to the use of artificial intelligence by public companies, and for other purposes. | 2026-11-19 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. | artificial intelligence |
 | [S.501](https://www.congress.gov/bill/119th-congress/senate-bill/501) | Strategy for Public Health Preparedness and Response to Artificial Intelligence Threats | 2025-02-10 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions. | artificial intelligence |
-| [HR.8959](https://www.congress.gov/bill/119th-congress/house-bill/8959) | Semiconductor Superiority Act | 2026-05-21 — Referred to the House Committee on Ways and Means. | semiconductor |
+| [S.501](https://www.congress.gov/bill/119th-congress/senate-bill/501) | Strategy for Public Health Preparedness and Response to Artificial Intelligence Threats | 2025-02-10 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions. | artificial intelligence |
 
 ---
 Signals are facts about congressional activity. Any connection to an administration action is recorded separately in `trackers/linkages.yaml` with a [linkage grade](../methodology/linkage-grades.md).
