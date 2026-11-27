@@ -29,6 +29,7 @@ nav:
       - Sanctions Lists (OpenSanctions): trackers/sanctions-data.md
       - Enforcement Actions: trackers/enforcement-actions.md
   - Analysis:
+      - "Sphere Labs: blocking the map isn't enough (Nov 2026)": analysis/sphere-labs-blocking-the-map-circumvention-risk.md
       - "Blackwell chips found in China (Nov 2026)": analysis/blackwell-chips-in-china-despite-us-curbs.md
       - "Krishnamoorthi: Nvidia and chip export-control positions (Nov 2026)": analysis/krishnamoorthi-nvidia-export-control-positions.md
       - "FT investigation: Alice Huang and the chip-smuggling network (Nov 2026)": analysis/ft-alice-huang-chip-smuggling-network.md

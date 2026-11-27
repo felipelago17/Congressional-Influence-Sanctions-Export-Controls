@@ -17,7 +17,7 @@ Bloomberg reported on 27 Nov 2026 that a GB300 rack and a GB200 server, identifi
 | Member op-ed | A Democratic House member's 23 Nov op-ed cited a Bloomberg report of restricted hardware at a Shanghai data centre tied to Alice Huang's network and urged permanent statutory safeguards (see [positions note](krishnamoorthi-nvidia-export-control-positions.md)); the 27 Nov report is a further finding, so the two should not be conflated | 3 |
 | Location-verification bill | The Chip Security Act (location verification and diversion reporting; bipartisan, House and Senate) is one of the three bills pushed into the FY2027 NDAA; the serial-number tracing in this story is the kind of evidence its sponsors cite | 3 |
 | Remote-access authority | The Remote Access Security Act and the 16 Nov BIS rule address rental access; the forensic "training signature" reports concern access rather than shipment | 3 |
-| Oversight of Commerce | The FT (10 Nov) reported that four agencies pressed to add Megaspeed to the Entity List while Commerce delayed; Treasury's Secretary said Commerce decides (13 Nov). A 27 Nov aggregator says Megaspeed was blacklisted "this week"; **unconfirmed** | 3 |
+| Oversight of Commerce | The FT (10 Nov) reported that four agencies pressed to add Megaspeed to the Entity List while Commerce delayed; Treasury's Secretary said Commerce decides (13 Nov). Secondary reports say BIS added Megaspeed and six affiliates to the Entity List on 23 Nov (document 2026-23999; Federal Register text not read) | 3 |
 | Industry statements | Nvidia's CEO said in May 2025 that smuggling concerns were overblown because racks weigh nearly two tons; this statement is being quoted against the company | 3 |
 
 Aggregation: party and committee only; no per-member items. House Select Committee on China activity on chip diversion is bipartisan.
@@ -26,14 +26,14 @@ Aggregation: party and committee only; no per-member items. House Select Committ
 
 1. **Linkage grade: `proximity-only`** between the reporting and any congressional or administration action; no document read cites the Bloomberg findings as a reason for action. **No inference of causation is drawn.**
 2. **Use as evidence:** the story strengthens the factual record for location-verification and remote-access measures in the NDAA debate; whether conferees cite it is **not shown**.
-3. **Administration lever:** the unresolved Entity List question for Megaspeed sits on the [administration-levers page](../influence/administration-levers.md); check the Federal Register before relying on any report that it was listed.
+3. **Administration lever:** the 23 Nov Entity List addition of Megaspeed (secondary reports; document 2026-23999, publication scheduled 25 Nov) is an administration action; see the [administration-levers page](../influence/administration-levers.md). Confirm against the Federal Register text.
 4. **Limits:** single-source aggregator relays; the Bloomberg original not read; allegations denied or unanswered.
 
 ## What would change the assessment
 
 | Development | Where to look | Effect |
 |---|---|---|
-| Entity List addition of Megaspeed or the Shanghai owners | Federal Register; BIS | Update signal; possible `documented-request` if the preamble cites Congress |
+| Federal Register text of the Megaspeed Entity List rule, or listing of the Shanghai owners | Federal Register; BIS | Confirm; possible `documented-request` if the preamble cites Congress |
 | NDAA text with chip location-verification | Congress.gov; Armed Services | Upgrade to `statutory-mandate` once enacted |
 | Hearing or letters citing the Bloomberg findings | Committee releases | New signal entry |
 
